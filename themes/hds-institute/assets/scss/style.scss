@@ -1,0 +1,176 @@
+/* ============================================================================ */
+/* ============================================================================ */
+/* FONTS: RECURSIVE */
+
+/* default: sans linear regular */
+
+@font-face {
+  font-family: 'Recursive';
+  src: url('/fonts/Recursive/Recursive_VF_1.084--subset-GF_latin_basic.woff2') format('woff2 supports variations'),
+       url('/fonts/Recursive/Recursive_VF_1.084--subset-GF_latin_basic.woff2') format('woff2-variations');
+  font-weight: 300 1000;
+  font-variation-settings: "MONO" 0, "CASL" 0, "slnt" 0, "CRSV" 0.5;
+}
+
+/* ============================================================================ */
+/* ============================================================================ */
+/* VARIABLES */
+
+// base font size
+
+$base: 18px;
+
+// colors
+
+// text color
+$fore:    #fff8e7;
+// page background
+$back:    #111111;
+// header / accent color = CDH blue
+$accent: #64CBE8;
+// hyperlink color
+$link:    #EF767A;
+
+/* ============================================================================ */
+/* ============================================================================ */
+/* TYPOGRAPHY */
+
+html {
+  font-size: $base;
+  color: $fore;
+  background-color: $back;
+  scroll-behavior: smooth;
+}
+
+body {
+  // equal to font-size in px above
+  font-size: 1rem;
+  font-family: 'Recursive';
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  hyphens: auto;
+  -webkit-hyphens: auto;
+  -moz-hyphens: auto;
+  line-height: 1.6;
+  font-weight: 350;
+}
+
+h1{
+  color: $accent;
+  font-size: 3rem;
+  /* sans casual extra bold */
+  font-variation-settings: "wght" 900, "MONO" 0, "CASL" 0, "slnt" 0, "CRSV" 0.501;
+  hyphens: none;
+  -webkit-hyphens: none;
+  -moz-hyphens: none;
+}
+
+h2{
+  font-size: 2.25rem;
+  font-variation-settings: "wght" 800, "MONO" 0, "CASL" 1, "slnt" -7.50, "CRSV" 1;
+  hyphens: none;
+  -webkit-hyphens: none;
+  -moz-hyphens: none;
+}
+
+h3{
+  font-size: 1.5rem;
+  // equivalent to 27px
+  font-variation-settings: "wght" 700, "MONO" 0, "CASL" 0, "slnt" 0, "CRSV" 0.501;
+}
+
+h4{
+  font-size: 1.25rem;
+  // equivalent to 22.5px
+}
+
+em {
+  font-variation-settings: "CRSV" 1;
+}
+
+blockquote {
+  font-variation-settings: "slnt" -15, "CRSV" 1;
+}
+
+figcaption {
+  font-variation-settings: "slnt" -15, "CRSV" 1;
+  font-size: 0.889rem;
+  padding-left: 30px;
+}
+
+/* ============================================================================ */
+/* ============================================================================ */
+/* CODE */
+
+// inline
+
+code {
+  font-variation-settings: 'MONO' 1, 'CASL' 0, 'slnt' 0, 'CRSV' 0.5;
+}
+
+// formatted code blocks
+
+pre {
+  // 16px equivalent
+  font-size: 0.889rem;
+  padding: 0.5em;
+  display: inline-block;
+  overflow-x: scroll;
+  width: 100%;
+}
+
+/* ============================================================================ */
+/* ============================================================================ */
+/* IMAGES */
+
+figure {
+  margin: auto;
+}
+
+// for attribution field in figure.html shortcode's captions
+.attribution {
+  font-style: normal;
+}
+
+/* ============================================================================ */
+/* ============================================================================ */
+/* HYPERLINKS */
+
+a, a:link, a:visited {
+  color: $fore;
+  text-decoration-color: $link;
+  text-decoration-line: underline;
+  text-decoration-style: solid;
+  text-decoration-thickness: 3px;
+  text-underline-offset: 6px;
+}
+
+a:hover, a:active, a:visited:hover {
+  text-decoration-color: $accent;
+}
+
+/* ============================================================================ */
+/* ============================================================================ */
+/* NAVIGATION LINKS */
+
+.headlinks {
+  font-variation-settings: 'wght' 500, 'MONO' 1, 'CASL' 0.5, 'slnt' 0, 'CRSV' 0.5;
+  font-size: 1.5rem;
+  color: $link;
+  }
+
+.headlinks a:link {
+  text-decoration: none;
+  text-transform: uppercase;
+  color: $link;
+}
+
+.headlinks a:visited {
+  text-decoration: none;
+  text-transform: uppercase;
+  color: $link;
+}
+
+.headlinks a:hover, a:focus, a:focus {
+  color: $accent;
+}

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode | default "en-US" }}">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>{{ .Title }}</title>
+	{{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
+	{{ with .Site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
+
+	<script>
+		/*to prevent Firefox FOUC, this must be here*/
+		0
+	</script>
+	
+	<!-- preloads -->
+	<link rel="preload" href="/fonts/Recursive/Recursive_VF_1.084--subset-GF_latin_basic.woff2" as="font" type="font/woff2" crossorigin>
+	
+	<!-- tachyons -->
+	<link rel="stylesheet" href="https://unpkg.com/tachyons@4.10.0/css/tachyons.min.css"/>
+
+	<!-- SCSS–>CSS -->
+	{{ $style := resources.Get "scss/style.scss" | resources.ExecuteAsTemplate "css/style.css" . | toCSS | minify | fingerprint -}}
+	<link rel="stylesheet" href="{{ $style.RelPermalink }}" />
+	{{- range .Site.Params.customCSS }}
+	{{- end }}
+
+	<!-- favicons -->
+	<link rel="apple-touch-icon" sizes="180x180" href="/img/favicon/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/img/favicon/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/img/favicon/favicon-16x16.png">
+		
+</head>
+
+<body>
+	{{ block "main" . }}{{ end }}
+</body>
+
+</html>

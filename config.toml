@@ -1,0 +1,23 @@
+baseURL = "https://princeton-cdh.github.io/"
+languageCode = "en-US"
+title = "Humanities & Data Science Institute"
+theme = "hds-institute"
+copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License."
+enableEmoji = true
+
+[markup]
+  defaultMarkdownHandler = 'goldmark'
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      typographer = true
+      footnote = true
+    [markup.goldmark.renderer]
+      unsafe = true
+    [markup.highlight]
+      style = 'dracula'
+      # options: https://xyproto.github.io/splash/docs/all.html
+      tabWidth = 4
+    [markup.tableOfContents]
+      endLevel = 4
+      ordered = false
+      startLevel = 2

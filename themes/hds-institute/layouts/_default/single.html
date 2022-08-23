@@ -1,0 +1,14 @@
+{{ define "main" }}
+	<main>
+	</main>
+
+{{ partial "header" . }}
+
+<div class="center measure-wide pa3">
+	<h1>{{ .Params.Title }}</h1>
+	{{ .Content }}
+</div>
+
+{{ partial "footer" . }}
+
+{{ end }}
