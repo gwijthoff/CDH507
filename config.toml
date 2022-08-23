@@ -1,4 +1,4 @@
-baseURL = "https://princeton-cdh.github.io/"
+baseURL = "https://princeton-cdh.github.io/hds-institute/"
 languageCode = "en-US"
 title = "Humanities & Data Science Institute"
 theme = "hds-institute"
