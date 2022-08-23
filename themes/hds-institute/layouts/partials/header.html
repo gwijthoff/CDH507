@@ -3,9 +3,9 @@
         <div class="tc ph1 pt4">
             <a href="{{ .Site.Params.baseURL | relURL }}">Home</a>
             <br>
-            <a href="/schedule">SCHEDULE</a> • <a href="/resources">RESOURCES</a>
+            <a href="{{ "schedule" | absURL}}">SCHEDULE</a> • <a href="{{ "resources" | absURL}}">RESOURCES</a>
             <br>
-            <a href="/people">PEOPLE</a> • <a href="/glossary">GLOSSARY</a>
+            <a href="{{ "people" | absURL}}">PEOPLE</a> • <a href="{{ "glossary" | absURL}}">GLOSSARY</a>
         </div>
     </span>
 </header>
