@@ -12,7 +12,7 @@ The following schedule runs from January 9 – 13, 2023. Each day will involve a
 
 - Seminar discussion on the history of data science and recent trends in computational methods in the humanities.
 - Presentations: how is data science intersecting with scholarship in your discipline?
-- Verify that all participants are able to load a Colab / Python notebook on their laptop.
+- Verify that all participants are able to open and run a Colab / Python notebook on their laptop.
 
 <span class="headlinks">Afternoon<span>
 
@@ -23,13 +23,13 @@ The following schedule runs from January 9 – 13, 2023. Each day will involve a
 
 *Please complete before the Institute!*
 
-Brian Beaton et al., “Debating Data Science: A Roundtable,” _Radical History Review_, no. 127 (January 2017): 133–48, <https://doi.org/10.1215/01636545-3690918>.
+Brian Beaton et al., **“Debating Data Science: A Roundtable,”** _Radical History Review_, no. 127 (January 2017): 133–48, <https://doi.org/10.1215/01636545-3690918>.
 
-Wai Chee Dimock, “AI and the Humanities,” _PMLA_ 135, no. 3 (May 2020): 449–54, <https://doi.org/10.1632/pmla.2020.135.3.449>.
+Wai Chee Dimock, **“AI and the Humanities,”** _PMLA_ 135, no. 3 (May 2020): 449–54, <https://doi.org/10.1632/pmla.2020.135.3.449>.
 
-Anne Helmreich, Matthew Lincoln, and Charles van den Heuvel, “Data Ecosystems and Futures of Art History,” *Histoire de l’art,* no. 87 (June 29, 2021): 45–54, <https://kilthub.cmu.edu/articles/journal_contribution/Data_Ecosystems_and_Futures_of_Art_History/14916072>
+Anne Helmreich, Matthew Lincoln, and Charles van den Heuvel, **“Data Ecosystems and Futures of Art History,”** *Histoire de l’art,* no. 87 (June 29, 2021): 45–54, <https://kilthub.cmu.edu/articles/journal_contribution/Data_Ecosystems_and_Futures_of_Art_History/14916072>
 
-Barbara McGillivray et al., “The Challenges and Prospects of the Intersection of Humanities and Data Science: A White Paper from The Alan Turing Institute,” 2020, <https://dx.doi.org/10.6084/m9.figshare.12732164>.
+Barbara McGillivray et al., **“The Challenges and Prospects of the Intersection of Humanities and Data Science: A White Paper from The Alan Turing Institute,”** 2020, <https://dx.doi.org/10.6084/m9.figshare.12732164>.
 
 ## Day 2: Fundamentals
 
