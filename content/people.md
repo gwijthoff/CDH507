@@ -8,6 +8,8 @@ title: People
 
 [Natalia Ermolaev](https://cdh.princeton.edu/people/natasha-ermolaev/), Associate Director, Center for Digital Humanities
 
+[Dan Friedman](https://danfriedman0.github.io/), PhD Student, Computer Science
+
 [Rebecca Sutton Koeser](https://cdh.princeton.edu/people/rebecca-sutton-koeser/), Lead Developer, Center for Digital Humanities
 
 [David Kinney](https://uchv.princeton.edu/people/david-kinney), Postdoctoral Research Associate in Cognitive Science of Values, University Center for Human Values
@@ -54,4 +56,4 @@ Cara Turnbull, PhD Student, Music
 
 ### Summer 2023
 
-CFP to come
+*CFP to come*
