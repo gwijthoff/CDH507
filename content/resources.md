@@ -69,7 +69,9 @@ Most of these workshops are now conducted online via Zoom and require an applica
 
 ### Online Tutorials
 
-[CUNY’s Digital Humanities Resource Initiative (DHRI)](https://www.curriculum.dhinstitutes.org/)  includes guided tutorials on the following topics:
+Be sure to check out Foundations and Applications of Humanities Analytics, cotaught at the Santa Fe Institute by David Kinney, one of the instructors at our Institute. This Foundations course "aims to empower scholars in the humanities by eliminating the black box of computational text analysis." All lectures are available as [a YouTube playlist](https://www.youtube.com/playlist?list=PLF0b3ThojznR0tE7LrfwWQfLRQhGn79-9).
+
+[CUNY’s Digital Humanities Resource Initiative (DHRI)](https://www.curriculum.dhinstitutes.org/) includes guided tutorials on the following topics:
 * [Data Literacies](https://www.curriculum.dhinstitutes.org/workshops/data-literacies/)
 * [Introduction to Git and GitHub](https://www.curriculum.dhinstitutes.org/workshops/git/)
 * [Introduction to HTML and CSS](https://www.curriculum.dhinstitutes.org/workshops/html-css/)
