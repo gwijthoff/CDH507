@@ -16,8 +16,9 @@ The following schedule runs from January 9 – 13, 2023. Each day will involve a
 
 <span class="headlinks">Afternoon<span>
 
-- Peter Ramadge, Gordon Y.S. Wu Professor of Engineering and Director of the [Center for Statistics and Machine Learning](https://csml.princeton.edu/), presents on the data science ecosystem at Princeton
-- Marina Rustow presents on Handwritten Text Recognition for the [Princeton Geniza Project](https://geniza.princeton.edu/en/) (HTR4PGP), supported by a seed grant from the [Center for Statistics and Machine Learning](https://csml.princeton.edu/news/eight-research-projects-receive-datax-funding#:-:text=htr4pgp)
+**1:00 – 2:00** ¦ Peter Ramadge, Gordon Y.S. Wu Professor of Engineering and Director of the [Center for Statistics and Machine Learning](https://csml.princeton.edu/). *Presentation on the data science ecosystem at Princeton.*
+
+**2:00 – 2:30** ¦ Marina Rustow, Khedouri A. Zilkha Professor of Jewish Civilization in the Near East. *Presentation on Handwritten Text Recognition for the [Princeton Geniza Project](https://geniza.princeton.edu/en/) (HTR4PGP), supported by a seed grant from the [Center for Statistics and Machine Learning](https://csml.princeton.edu/news/eight-research-projects-receive-datax-funding#:-:text=htr4pgp).*
 
 <span class="headlinks">Required Pre-Readings</span>
 
