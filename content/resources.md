@@ -87,6 +87,8 @@ Be sure to check out Foundations and Applications of Humanities Analytics, cotau
 * [Introduction to Jupyter Notebooks](https://programminghistorian.org/en/lessons/jupyter-notebooks)
 * [Analyzing Documents with TF-IDF](https://programminghistorian.org/en/lessons/analyzing-documents-with-tfidf)
 * [Finding Places in Text with the World Historical Gazeteer](https://programminghistorian.org/en/lessons/finding-places-world-historical-gazetteer)
+* [Computer Vision for the Humanities: An Introduction to Deep Learning for Image Classification](https://programminghistorian.org/en/lessons/computer-vision-deep-learning-pt1)
+* [Regression Analysis with Scikit-Learn](https://programminghistorian.org/en/lessons/linear-regression)
 
 [Library Carpentry](https://librarycarpentry.org/lessons/)’s lessons are geared towards library and information science professionals. They include: 
 * [Introduction to Working with Data (Regular Expressions)](https://librarycarpentry.org/lc-data-intro/)
