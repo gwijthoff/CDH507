@@ -16,9 +16,13 @@ The following schedule runs from January 9 – 13, 2023. Each day will involve a
 
 <span class="headlinks">Afternoon<span>
 
-**1:00 – 2:00** ¦ Peter Ramadge, Gordon Y.S. Wu Professor of Engineering and Director of the [Center for Statistics and Machine Learning](https://csml.princeton.edu/). *Presentation on the data science ecosystem at Princeton.*
+<span class="color">1:00 – 2:00</span> ¦ **Peter Ramadge, Gordon Y.S. Wu Professor of Engineering and Director of the [Center for Statistics and Machine Learning](https://csml.princeton.edu/).**
 
-**2:00 – 2:30** ¦ Marina Rustow, Khedouri A. Zilkha Professor of Jewish Civilization in the Near East. *Presentation on Handwritten Text Recognition for the [Princeton Geniza Project](https://geniza.princeton.edu/en/) (HTR4PGP), supported by a seed grant from the [Center for Statistics and Machine Learning](https://csml.princeton.edu/news/eight-research-projects-receive-datax-funding#:-:text=htr4pgp).*
+Presentation on the data science ecosystem at Princeton.
+
+<span class="color">2:00 – 2:30</span> ¦ **Marina Rustow, Khedouri A. Zilkha Professor of Jewish Civilization in the Near East.**
+
+Presentation on Handwritten Text Recognition for the [Princeton Geniza Project](https://geniza.princeton.edu/en/) (HTR4PGP), supported by a seed grant from the [Center for Statistics and Machine Learning](https://csml.princeton.edu/news/eight-research-projects-receive-datax-funding#:-:text=htr4pgp).
 
 <span class="headlinks">Required Pre-Readings</span>
 
@@ -34,16 +38,23 @@ Barbara McGillivray et al., **“The Challenges and Prospects of the Intersectio
 
 ## Day 2: Fundamentals
 
-*An introduction to the baseline statistical concepts used in machine learning, from distribution to regression. What does it mean to be "unsupervised"? How do we evaluate a model? Led by Amy Winecoff.*
+*An introduction to the baseline statistical concepts used in machine learning, from distribution to regression. What does it mean to be "unsupervised"? How do we evaluate a model?*
 
 <span class="headlinks">Morning</span>
 
-- Introduction to Machine Learning, part 1
+<span class="color">9:00 – 12:00</span> ¦ **Amy Winecoff, DataX Fellow, Center for IT Policy & Center for Statistics and Machine Learning**
+
+Introduction to Machine Learning
 
 <span class="headlinks">Afternoon</span>
 
-- Introduction to Machine Learning, part 2
-- Discussion of humanities scholarship that employs the statistical methods outlined this morning.
+<span class="color">1:00 – 4:00</span> ¦ **CDH Staff**
+
+Discussion of humanities scholarship that employs the statistical methods outlined this morning.
+
+<span class="headlinks">Readings</span>
+
+Meredith Broussard, “[Machine Learning: The DL on ML](https://drive.google.com/file/d/18kElRW7hVdz8W9QZ_Hv48O06fXQkSnYS/view?usp=sharing),” in *Artificial Unintelligence: How Computers Misunderstand the World* (Cambridge, Massachusetts London, England: The MIT Press, 2018).
 
 ## Day 3: History of Measurement
 
