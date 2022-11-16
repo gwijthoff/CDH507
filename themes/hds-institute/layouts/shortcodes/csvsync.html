@@ -1,0 +1,9 @@
+<!-- documentation on getting remote CSV data: -->
+<!-- https://gohugo.io/templates/data-templates/#get-remote-data -->
+
+{{ $glossary := getCSV "," "https://docs.google.com/spreadsheets/d/e/2PACX-1vTT7wZfcrxueSOKmJv5q2tSB5p5EBvLVnzfiA4lRau6eMjY2298KriqubfG5fAAFrIbdnag-HIoZBBL/pub?gid=0&single=true&output=csv" }}
+{{ range after 1 $glossary}}
+
+<span class="color">{{ index . 0 }}:</span> "{{ index . 1 }}" <a href="{{ index . 2 }}">Source</a><br><br>
+
+{{ end }}
