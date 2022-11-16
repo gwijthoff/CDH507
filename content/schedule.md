@@ -42,15 +42,15 @@ Barbara McGillivray et al., **“The Challenges and Prospects of the Intersectio
 
 <span class="headlinks">Morning</span>
 
-<span class="color">9:00 – 12:00</span> ¦ **Amy Winecoff, DataX Fellow, Center for IT Policy & Center for Statistics and Machine Learning**
+<span class="color">1:00 – 4:00</span> ¦ **Sierra Eckert, Perkins Postdoctoral Fellow, Center for Digital Humanities**
 
-Introduction to Machine Learning
+Humanities Data Fundamentals
 
 <span class="headlinks">Afternoon</span>
 
-<span class="color">1:00 – 4:00</span> ¦ **CDH Staff**
+<span class="color">9:00 – 12:00</span> ¦ **Amy Winecoff, DataX Fellow, Center for IT Policy & Center for Statistics and Machine Learning**
 
-Discussion of humanities scholarship that employs the statistical methods outlined this morning.
+Introduction to Machine Learning
 
 <span class="headlinks">Readings</span>
 
