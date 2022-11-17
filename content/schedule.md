@@ -20,6 +20,7 @@ The following schedule runs from January 9 – 13, 2023. Each day will involve a
 : **Natalia Ermolaev, Meredith Martin, and Grant Wythoff, Center for Digital Humanities**
 : Seminar discussion on the history of data science and recent trends in computational methods in the humanities.
 : Participant presentations: how is data science intersecting with scholarship in your discipline?
+: Preview of what will be covered in each day of the Institute
 
 <span class="color">11:00 – 12:00</span>
 : Verify that all participants are able to open and run a Colab / Python notebook on their laptops.
@@ -70,7 +71,11 @@ Barbara McGillivray et al., **“The Challenges and Prospects of the Intersectio
 
 <span class="headlinks">Readings</span>
 
-Meredith Broussard, “[Machine Learning: The DL on ML](https://drive.google.com/file/d/18kElRW7hVdz8W9QZ_Hv48O06fXQkSnYS/view?usp=sharing),” in *Artificial Unintelligence: How Computers Misunderstand the World* (Cambridge, Massachusetts London, England: The MIT Press, 2018).
+Meredith Broussard, “[Machine Learning: The DL on ML](https://drive.google.com/file/d/18kElRW7hVdz8W9QZ_Hv48O06fXQkSnYS/view?usp=sharing),” in *Artificial Unintelligence: How Computers Misunderstand the World* (Cambridge, Massachusetts & London, England: The MIT Press, 2018).
+
+Wendy Hui Kyong Chun, excerpt from *Discriminating Data: Correlation, Neighborhoods, and the New Politics of Recognition* (Cambridge, Massachusetts & London, England: The MIT Press, 2021).
+
+Richard So, “‘All Models Are Wrong,’” _PMLA_ 132, no. 3 (May 2017): 668–73, <https://doi.org/10.1632/pmla.2017.132.3.668>.
 
 ## Wednesday: History of Measurement
 
@@ -106,7 +111,7 @@ Hasok Chang, “Spirit, Air, and Quicksilver: The Search for the ‘Real’ Scal
 
 <span class="headlinks">Readings</span>
 
-Selections from Richard Jean So, *Redlining Culture: A Data History of Racial Inequality and Postwar Fiction* (Columbia University Press, 2020).
+Selections from Richard So, *Redlining Culture: A Data History of Racial Inequality and Postwar Fiction* (Columbia University Press, 2020).
 
 Ted Underwood, “Machine Learning and Human Perspective,” _PMLA_ 135, no. 1 (January 2020): 92–109, <https://doi.org/10.1632/pmla.2020.135.1.92>.
 
