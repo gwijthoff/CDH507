@@ -4,7 +4,13 @@ title: Schedule
 
 The following schedule runs from January 9 – 13, 2023. Each day will involve a mix of seminar-style discussion and hands-on technical work.
 
-## Day 1: Introductions & Setting the Stage
+{{< toc >}}
+
+<br>
+
+***********
+
+## Monday: Introductions & Setting the Stage
 
 *How are data science methods being used in the humanities? How are humanists studying the automation of decision-making and cultural production? Led by Natalia Ermolaev, Meredith Martin, and Grant Wythoff.*
 
@@ -36,7 +42,7 @@ Anne Helmreich, Matthew Lincoln, and Charles van den Heuvel, **“Data Ecosystem
 
 Barbara McGillivray et al., **“The Challenges and Prospects of the Intersection of Humanities and Data Science: A White Paper from The Alan Turing Institute,”** 2020, <https://dx.doi.org/10.6084/m9.figshare.12732164>.
 
-## Day 2: Fundamentals
+## Tuesday: Fundamentals
 
 *An introduction to the baseline statistical concepts used in machine learning, from distribution to regression. What does it mean to be "unsupervised"? How do we evaluate a model?*
 
@@ -56,7 +62,7 @@ Introduction to Machine Learning
 
 Meredith Broussard, “[Machine Learning: The DL on ML](https://drive.google.com/file/d/18kElRW7hVdz8W9QZ_Hv48O06fXQkSnYS/view?usp=sharing),” in *Artificial Unintelligence: How Computers Misunderstand the World* (Cambridge, Massachusetts London, England: The MIT Press, 2018).
 
-## Day 3: History of Measurement
+## Wednesday: History of Measurement
 
 *On the historical epistemology of quantification. How did measurement practices in the past cross the now-accepted divide between the sciences and humanities? Led by David Kinney.*
 
@@ -68,7 +74,7 @@ Meredith Broussard, “[Machine Learning: The DL on ML](https://drive.google.com
 
 - Hands-on: stochastic topic modeling
 
-## Day 4: Code Libraries
+## Thursday: Code Libraries
 
 *On the use of industry-created tools for influential humanities scholarship. How did software for speech recognition and image tagging end up in a literary text analysis tool? Led by Sierra Eckert, Rebecca Koeser, and Grant Wythoff.*
 
@@ -86,7 +92,7 @@ Selections from Richard Jean So, *Redlining Culture: A Data History of Racial In
 
 Ted Underwood, “Machine Learning and Human Perspective,” _PMLA_ 135, no. 1 (January 2020): 92–109, <https://doi.org/10.1632/pmla.2020.135.1.92>.
 
-## Day 5: Participant Projects
+## Friday: Participant Projects
 
 *An opportunity for participants to workshop their own project ideas. Moderated by Natalia Ermolaev and Meredith Martin.*
 
