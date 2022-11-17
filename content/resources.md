@@ -32,7 +32,6 @@ Lise Jaillant, ed., [*Archives, Access and Artificial Intelligence: Working with
 Inioluwa Deborah Raji et al., “AI and the Everything in the Whole Wide World Benchmark,” 35th Conference on Neural Information Processing Systems (NeurIPS 2021) ,<https://doi.org/10.48550/arXiv.2111.15366>.
 
 Amandalynne Paullada et al., “Data and Its (Dis)Contents: A Survey of Dataset Development and Use in Machine Learning Research,” _Patterns_, no. 2 (November 12, 2021): 1–14, [https://doi.org/10.1016/J.PATTER.2021.100336](https://doi.org/10.1016/J.PATTER.2021.100336).
-
 ## Data Sets & Data Work 💾
 
 The Center for Digital Humanities publishes datasets through research partnerships and curation grants. [They can be viewed here](https://cdh.princeton.edu/research/data-curation/datasets/). The CDH also curates a list of [Humanities Datasets in Context](https://docs.google.com/spreadsheets/d/1IBORIU3yMiD240Ivc1fQpGSbKz_L4SOom1ntYlHHGKU/edit?usp=sharing), organized by discipline and annotated with information about data format and collection practices.
@@ -141,3 +140,11 @@ Finally, some miscellaneous tutorials we'd recommend include:
 * Matthew Lincoln’s workshops
 	* [Critical Data Visualization with Palladio](https://matthewlincoln.net/mapping-knoedler-palladio/)
 	* [Tidy Humanities Data](https://matthewlincoln.net/tidy-dh-data/tidy-dh-data.pdf)
+
+## Examples of Humanities Research Using AI & ML 🧪
+
+DeepMind's [Ithaca](https://github.com/deepmind/ithaca), a project using AI to restore and attribute texts from Ancient Greece using neural networks as an aid to epigraphy.
+
+MIT researchers using AI to [decode the still-undeciphered Indus script](https://restofworld.org/2022/indus-translation-ai-code-script/). The paper [published in *Science*](https://www.science.org/doi/10.1126/science.1170391) concludes that the script is likely not just symbols, but language.
+
+[AEOLIAN (Artificial Intelligence for Cultural Organisations)](https://www.aeolian-network.net/), including [this writeup](https://www.aeolian-network.net/case-study-2-computer-vision-and-cultural-heritage/) on use of AI with medieval manuscripts.
