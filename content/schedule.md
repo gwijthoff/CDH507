@@ -12,7 +12,7 @@ The following schedule runs from January 9 – 13, 2023. Each day will involve a
 
 ## Monday: Introductions & Setting the Stage
 
-*How are data science methods being used in the humanities? How are humanists studying the automation of decision-making and cultural production?
+*How are data science methods being used in the humanities? How are humanists studying the automation of decision-making and cultural production?*
 
 <span class="headlinks">Morning</span>
 
@@ -74,7 +74,7 @@ Meredith Broussard, “[Machine Learning: The DL on ML](https://drive.google.com
 
 ## Wednesday: History of Measurement
 
-*On the historical epistemology of quantification. How did measurement practices in the past cross the now-accepted divide between the sciences and humanities? Led by David Kinney.*
+*On the historical epistemology of quantification. How did measurement practices in the past cross the now-accepted divide between the sciences and humanities?*
 
 <span class="headlinks">Morning</span>
 
