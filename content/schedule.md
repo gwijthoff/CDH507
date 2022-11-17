@@ -2,7 +2,7 @@
 title: Schedule
 ---
 
-The following schedule runs from January 9 – 13, 2023. Each day will involve a mix of seminar-style discussion and hands-on technical work.
+The following schedule runs from January 9 – 13, 2023. Each day will involve a mix of seminar-style discussion and hands-on technical work. Morning sessions from from 9:00a to 12:00p, afternoon sessions run from 1:00p to 4:00p.
 
 {{< toc >}}
 
@@ -12,25 +12,35 @@ The following schedule runs from January 9 – 13, 2023. Each day will involve a
 
 ## Monday: Introductions & Setting the Stage
 
-*How are data science methods being used in the humanities? How are humanists studying the automation of decision-making and cultural production? Led by Natalia Ermolaev, Meredith Martin, and Grant Wythoff.*
+*How are data science methods being used in the humanities? How are humanists studying the automation of decision-making and cultural production?
 
 <span class="headlinks">Morning</span>
 
-- Seminar discussion on the history of data science and recent trends in computational methods in the humanities.
-- Presentations: how is data science intersecting with scholarship in your discipline?
-- Verify that all participants are able to open and run a Colab / Python notebook on their laptop.
+<span class="color">9:00 – 11:00</span>
+: **Natalia Ermolaev, Meredith Martin, and Grant Wythoff, Center for Digital Humanities**
+: Seminar discussion on the history of data science and recent trends in computational methods in the humanities.
+: Participant presentations: how is data science intersecting with scholarship in your discipline?
+
+<span class="color">11:00 – 12:00</span>
+: Verify that all participants are able to open and run a Colab / Python notebook on their laptops.
 
 <span class="headlinks">Afternoon<span>
 
-<span class="color">1:00 – 2:00</span> ¦ **Peter Ramadge, Gordon Y.S. Wu Professor of Engineering and Director of the [Center for Statistics and Machine Learning](https://csml.princeton.edu/).**
+<span class="color">1:00 – 2:00</span>
+: **Peter Ramadge, Gordon Y.S. Wu Professor of Engineering and Director of the [Center for Statistics and Machine Learning](https://csml.princeton.edu/).**
+: *Presentation on the data science ecosystem at Princeton.*
 
-Presentation on the data science ecosystem at Princeton.
+<span class="color">2:00 – 2:30</span>
+: **Marina Rustow, Khedouri A. Zilkha Professor of Jewish Civilization in the Near East.**
+: *Presentation on Handwritten Text Recognition for the [Princeton Geniza Project](https://geniza.princeton.edu/en/) (HTR4PGP), supported by a seed grant from the [Center for Statistics and Machine Learning](https://csml.princeton.edu/news/eight-research-projects-receive-datax-funding#:-:text=htr4pgp).*
 
-<span class="color">2:00 – 2:30</span> ¦ **Marina Rustow, Khedouri A. Zilkha Professor of Jewish Civilization in the Near East.**
+<span class="color">2:30 – 3:00</span>
+: *Break*
 
-Presentation on Handwritten Text Recognition for the [Princeton Geniza Project](https://geniza.princeton.edu/en/) (HTR4PGP), supported by a seed grant from the [Center for Statistics and Machine Learning](https://csml.princeton.edu/news/eight-research-projects-receive-datax-funding#:-:text=htr4pgp).
+<span class="color">3:00 – 4:00</span>
+: *Discussion* of readings.
 
-<span class="headlinks">Required Pre-Readings</span>
+<span class="headlinks">Required Readings</span>
 
 *Please complete before the Institute!*
 
@@ -48,15 +58,15 @@ Barbara McGillivray et al., **“The Challenges and Prospects of the Intersectio
 
 <span class="headlinks">Morning</span>
 
-<span class="color">1:00 – 4:00</span> ¦ **Sierra Eckert, Perkins Postdoctoral Fellow, Center for Digital Humanities**
-
-Humanities Data Fundamentals
+<span class="color">9:00 – 12:00</span>
+: **Sierra Eckert, Perkins Postdoctoral Fellow, Center for Digital Humanities**
+: *Humanities Data Fundamentals*
 
 <span class="headlinks">Afternoon</span>
 
-<span class="color">9:00 – 12:00</span> ¦ **Amy Winecoff, DataX Fellow, Center for IT Policy & Center for Statistics and Machine Learning**
-
-Introduction to Machine Learning
+<span class="color">1:00 – 4:00</span>
+: **Amy Winecoff, DataX Fellow, Center for IT Policy & Center for Statistics and Machine Learning**
+: *Introduction to Machine Learning*
 
 <span class="headlinks">Readings</span>
 
@@ -68,11 +78,19 @@ Meredith Broussard, “[Machine Learning: The DL on ML](https://drive.google.com
 
 <span class="headlinks">Morning</span>
 
-- Lecture on the history of measurement across the disciplines
+<span class="color">9:00 – 12:00</span>
+: **David Kinney, Postdoctoral Research Associate in Cognitive Science of Values, University Center for Human Values**
+: *Lecture on the history of measurement across the disciplines*
 
 <span class="headlinks">Afternoon</span>
 
-- Hands-on: stochastic topic modeling
+<span class="color">1:00 – 4:00</span>
+: **David Kinney**
+: *Hands-on: stochastic topic modeling*
+
+<span class="headlinks">Readings</span>
+
+Hasok Chang, “Spirit, Air, and Quicksilver: The Search for the ‘Real’ Scale of Temperature,” _Historical Studies in the Physical and Biological Sciences_ 31, no. 2 (2001): 249–84, <https://doi.org/10.1525/hsps.2001.31.2.249>.
 
 ## Thursday: Code Libraries
 
