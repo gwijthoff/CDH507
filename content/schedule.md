@@ -16,14 +16,14 @@ The following schedule runs from January 9 – 13, 2023. Each day will involve a
 
 <span class="headlinks">Morning</span>
 
-<span class="color">9:00 – 11:00</span>
+<span class="color">9:00 – 10:00</span>
 : **Natalia Ermolaev, Meredith Martin, and Grant Wythoff, Center for Digital Humanities**
 : Seminar discussion on the history of data science and recent trends in computational methods in the humanities.
 : Participant presentations: how is data science intersecting with scholarship in your discipline?
 : Preview of what will be covered in each day of the Institute
 
-<span class="color">11:00 – 12:00</span>
-: Verify that all participants are able to open and run a Colab / Python notebook on their laptops.
+<span class="color">10:00 – 12:00</span>
+: *Discussion of readings.*
 
 <span class="headlinks">Afternoon<span>
 
@@ -39,7 +39,7 @@ The following schedule runs from January 9 – 13, 2023. Each day will involve a
 : *Break*
 
 <span class="color">3:00 – 4:00</span>
-: *Discussion* of readings.
+: Verify that all participants are able to open and run a Colab / Python notebook on their laptops.
 
 <span class="headlinks">Required Readings</span>
 
