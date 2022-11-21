@@ -18,9 +18,9 @@ The following schedule runs from January 9 – 13, 2023. Each day will involve a
 
 <span class="color">9:00 – 10:00</span>
 : **Natalia Ermolaev, Meredith Martin, and Grant Wythoff, Center for Digital Humanities**
-: Seminar discussion on the history of data science and recent trends in computational methods in the humanities.
-: Participant presentations: how is data science intersecting with scholarship in your discipline?
-: Preview of what will be covered in each day of the Institute
+: *Seminar discussion on the history of data science and recent trends in computational methods in the humanities.*
+: *Preview of what will be covered in each day of the Institute*
+: *Participant presentations: how is data science intersecting with scholarship in your discipline?*
 
 <span class="color">10:00 – 12:00</span>
 : *Discussion of readings.*
@@ -39,19 +39,19 @@ The following schedule runs from January 9 – 13, 2023. Each day will involve a
 : *Break*
 
 <span class="color">3:00 – 4:00</span>
-: Verify that all participants are able to open and run a Colab / Python notebook on their laptops.
+: *Verify that all participants are able to open and run a Colab / Python notebook on their laptops.*
 
 <span class="headlinks">Required Readings</span>
 
 *Please complete before the Institute!*
 
-Brian Beaton et al., **“Debating Data Science: A Roundtable,”** _Radical History Review_, no. 127 (January 2017): 133–48, <https://doi.org/10.1215/01636545-3690918>.
+Brian Beaton et al., “Debating Data Science: A Roundtable,” _Radical History Review_, no. 127 (January 2017): 133–48, <https://doi.org/10.1215/01636545-3690918>.
 
-Wai Chee Dimock, **“AI and the Humanities,”** _PMLA_ 135, no. 3 (May 2020): 449–54, <https://doi.org/10.1632/pmla.2020.135.3.449>.
+Wai Chee Dimock, “AI and the Humanities,” _PMLA_ 135, no. 3 (May 2020): 449–54, <https://doi.org/10.1632/pmla.2020.135.3.449>.
 
-Anne Helmreich, Matthew Lincoln, and Charles van den Heuvel, **“Data Ecosystems and Futures of Art History,”** *Histoire de l’art,* no. 87 (June 29, 2021): 45–54, <https://kilthub.cmu.edu/articles/journal_contribution/Data_Ecosystems_and_Futures_of_Art_History/14916072>
+Anne Helmreich, Matthew Lincoln, and Charles van den Heuvel, “Data Ecosystems and Futures of Art History,” *Histoire de l’art,* no. 87 (June 29, 2021): 45–54, <https://kilthub.cmu.edu/articles/journal_contribution/Data_Ecosystems_and_Futures_of_Art_History/14916072>
 
-Barbara McGillivray et al., **“The Challenges and Prospects of the Intersection of Humanities and Data Science: A White Paper from The Alan Turing Institute,”** 2020, <https://dx.doi.org/10.6084/m9.figshare.12732164>.
+Barbara McGillivray et al., “The Challenges and Prospects of the Intersection of Humanities and Data Science: A White Paper from The Alan Turing Institute,” 2020, <https://dx.doi.org/10.6084/m9.figshare.12732164>.
 
 ## Tuesday: Fundamentals
 
@@ -99,7 +99,7 @@ Hasok Chang, “Spirit, Air, and Quicksilver: The Search for the ‘Real’ Scal
 
 ## Thursday: Code Libraries
 
-*On the use of industry-created tools for influential humanities scholarship. How did software for speech recognition and image tagging end up in a literary text analysis tool? Led by Sierra Eckert, Rebecca Koeser, and Grant Wythoff.*
+*On the use of industry-created tools for influential humanities scholarship. How did software for speech recognition and image tagging end up in a literary text analysis tool? Led by Sierra Eckert and Ryan Heuser.*
 
 <span class="headlinks">Morning</span>
 
