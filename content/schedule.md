@@ -45,13 +45,13 @@ The following schedule runs from January 9 – 13, 2023. Each day will involve a
 
 *Please complete before the Institute!*
 
-Brian Beaton et al., “Debating Data Science: A Roundtable,” _Radical History Review_, no. 127 (January 2017): 133–48, <https://doi.org/10.1215/01636545-3690918>.
+Brian Beaton et al., “[Debating Data Science: A Roundtable](https://drive.google.com/file/d/17E26kC1sb-Ou-3FLbnfVyACw5T_eqGEu/view?usp=share_link),” _Radical History Review_, no. 127 (January 2017): 133–48.
 
-Wai Chee Dimock, “AI and the Humanities,” _PMLA_ 135, no. 3 (May 2020): 449–54, <https://doi.org/10.1632/pmla.2020.135.3.449>.
+Wai Chee Dimock, “[AI and the Humanities](https://drive.google.com/file/d/1MnvYC9C4x2vzrqpS44Koo-vHBsMVECi3/view?usp=share_link),” _PMLA_ 135, no. 3 (May 2020): 449–54.
 
-Anne Helmreich, Matthew Lincoln, and Charles van den Heuvel, “Data Ecosystems and Futures of Art History,” *Histoire de l’art,* no. 87 (June 29, 2021): 45–54, <https://kilthub.cmu.edu/articles/journal_contribution/Data_Ecosystems_and_Futures_of_Art_History/14916072>
+Anne Helmreich, Matthew Lincoln, and Charles van den Heuvel, “[Data Ecosystems and Futures of Art History](https://drive.google.com/file/d/1wytS8LdlMqSy7YDb6as-gpRwI86Q29RQ/view?usp=share_link),” *Histoire de l’art,* no. 87 (June 29, 2021): 45–54.
 
-Barbara McGillivray et al., “The Challenges and Prospects of the Intersection of Humanities and Data Science: A White Paper from The Alan Turing Institute,” 2020, <https://dx.doi.org/10.6084/m9.figshare.12732164>.
+Barbara McGillivray et al., “[The Challenges and Prospects of the Intersection of Humanities and Data Science: A White Paper from The Alan Turing Institute](https://drive.google.com/file/d/1cfLtHgv31BJuusZjy6OO2Yc3ledxtvLx/view?usp=share_link),” 2020.
 
 ## Tuesday: Fundamentals
 
@@ -97,7 +97,7 @@ Richard So, “‘All Models Are Wrong,’” _PMLA_ 132, no. 3 (May 2017): 668�
 
 Hasok Chang, “Spirit, Air, and Quicksilver: The Search for the ‘Real’ Scale of Temperature,” _Historical Studies in the Physical and Biological Sciences_ 31, no. 2 (2001): 249–84, <https://doi.org/10.1525/hsps.2001.31.2.249>.
 
-## Thursday: Code Libraries
+## Thursday: Unpacking my Code Libraries
 
 *On the use of industry-created tools for influential humanities scholarship. How did software for speech recognition and image tagging end up in a literary text analysis tool? Led by Sierra Eckert and Ryan Heuser.*
 
