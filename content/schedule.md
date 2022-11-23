@@ -20,10 +20,10 @@ The following schedule runs from January 9 – 13, 2023. Each day will involve a
 : **Natalia Ermolaev, Meredith Martin, and Grant Wythoff, Center for Digital Humanities**
 : *Seminar discussion on the history of data science and recent trends in computational methods in the humanities.*
 : *Preview of what will be covered in each day of the Institute*
-: *Participant presentations: how is data science intersecting with scholarship in your discipline?*
 
 <span class="color">10:00 – 12:00</span>
 : *Discussion of readings.*
+: *Participants: come prepared to discuss how data science is intersecting with scholarship in your discipline.*
 
 <span class="headlinks">Afternoon<span>
 
@@ -77,6 +77,8 @@ Wendy Hui Kyong Chun, excerpt from *Discriminating Data: Correlation, Neighborho
 
 Richard So, “‘All Models Are Wrong,’” _PMLA_ 132, no. 3 (May 2017): 668–73, <https://doi.org/10.1632/pmla.2017.132.3.668>.
 
+Tony Chu and Stephanie Yee, "[A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)," R2D3.
+
 ## Wednesday: History of Measurement
 
 *On the historical epistemology of quantification. How did measurement practices in the past cross the now-accepted divide between the sciences and humanities?*
@@ -99,11 +101,11 @@ Hasok Chang, “Spirit, Air, and Quicksilver: The Search for the ‘Real’ Scal
 
 ## Thursday: Unpacking my Code Libraries
 
-*On the use of industry-created tools for influential humanities scholarship. How did software for speech recognition and image tagging end up in a literary text analysis tool? Led by Sierra Eckert and Ryan Heuser.*
+*On the use of industry-created tools for influential humanities scholarship. How did software for speech recognition and image tagging end up in a literary text analysis tool? Led by Sierra Eckert and Ryan Heuser, Research Software Engineer, Center for Digita Humanities.*
 
 <span class="headlinks">Morning</span>
 
-- Hands-on experiments with [BookNLP](https://github.com/booknlp/booknlp)
+- Hands-on experiments with [BookNLP](https://github.com/booknlp/booknlp) and [spaCy](https://spacy.io/).
 
 <span class="headlinks">Afternoon</span>
 

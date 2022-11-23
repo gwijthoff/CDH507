@@ -36,6 +36,8 @@ Amandalynne Paullada et al., “Data and Its (Dis)Contents: A Survey of Dataset 
 
 The Center for Digital Humanities publishes datasets through research partnerships and curation grants. [They can be viewed here](https://cdh.princeton.edu/research/data-curation/datasets/). The CDH also curates a list of [Humanities Datasets in Context](https://docs.google.com/spreadsheets/d/1IBORIU3yMiD240Ivc1fQpGSbKz_L4SOom1ntYlHHGKU/edit?usp=sharing), organized by discipline and annotated with information about data format and collection practices.
 
+Tony Chu and Stephanie Yee, "[A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)," R2D3.
+
 ### Campus Resources
 
 - [Princeton Research Data Service](https://researchdata.princeton.edu/), for "expert services and infrastructure to store, manage, retain, and curate digital research data."
