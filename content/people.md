@@ -32,6 +32,8 @@ Barron Bixler, Art and Media Specialist, High Meadows Environmental Institute
 
 Dannelle Gutarra Cordero, Lecturer in African American Studies, Gender and Sexuality Studies
 
+Tiako Djomatchoua Murielle Sandra, PhD Student, French & Italian
+
 Brigid Doherty, Associate Professor of German and Art & Archaeology
 
 Sara Green, PhD Student, Art & Archaeology
