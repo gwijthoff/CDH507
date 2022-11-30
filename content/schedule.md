@@ -121,6 +121,23 @@ Ted Underwood, “Machine Learning and Human Perspective,” _PMLA_ 135, no. 1 (
 
 *An opportunity for participants to workshop their own project ideas. Moderated by Natalia Ermolaev and Meredith Martin.*
 
-- How can participants apply what they have learned to their own discipline?
-- What research projects or introductory course ideas do participants want to explore?
-- CDH staff will help participants scope their idea to attainable goals while identifying what support or additional training they need.
+<span class="headlinks">Morning</span>
+
+<span class="color">9:00 – 10:00</span>
+: *Roundtable: Computational & Digital Resources on Campus*
+: **Ian Cosden, Director, Research Software Engineering for Computational & Data Science**
+: **Jennifer Grayburn, Assistant Director of Digital and Open Scholarship**
+: **Ben Johnston, Senior Educational Technologist, McGraw Center for Teaching & Learning**
+: **Ariel Ackerly, Makerspace Specialist, Princeton University Library**
+: **Jonathan Halverson, Research Software and Computing Training Lead, Princeton Institute for Computational Science & Engineering**
+
+<span class="color">10:00 – 12:00</span>
+: *Participant Project Consultations*
+: How can participants apply what they have learned to their own discipline?
+: What research projects or introductory course ideas do participants want to explore?
+: CDH staff will help participants scope their idea to attainable goals while identifying what support or additional training they need.
+
+<span class="headlinks">Afternoon</span>
+
+<span class="color">1:00 – 4:00</span>
+: *Participant project consultations, continued.*
