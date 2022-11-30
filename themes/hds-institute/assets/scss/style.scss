@@ -180,3 +180,15 @@ a:hover, a:active, a:visited:hover {
 .headlinks a:hover, a:focus, a:focus {
   color: $accent;
 }
+
+/* ============================================================================ */
+/* ============================================================================ */
+/* DESCRIPTION LIST FORMATTING */
+
+dl, dt, dd {
+  margin-bottom: 0.5rem;
+}
+
+dd:last-child {
+  margin-bottom: 1.6rem;
+}
