@@ -38,6 +38,8 @@ The Center for Digital Humanities publishes datasets through research partnershi
 
 Tony Chu and Stephanie Yee, "[A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)," R2D3.
 
+Amy A. Winecoff and Elizabeth Anne Watkins, “[Artificial Concepts of Artificial Intelligence: Institutional Compliance and Resistance in AI Startups](https://doi.org/10.1145/3514094.3534138),” in *Proceedings of the 2022 AAAI/ACM Conference on AI, Ethics, and Society,* 2022, 788–99.
+
 ### Campus Resources
 
 - [Princeton Research Data Service](https://researchdata.princeton.edu/), for "expert services and infrastructure to store, manage, retain, and curate digital research data."
