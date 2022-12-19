@@ -2,7 +2,7 @@
 title: Schedule
 ---
 
-The following schedule runs from January 9 – 13, 2023. Each day will involve a mix of seminar-style discussion and hands-on technical work. Morning sessions from from 9:00a to 12:00p, afternoon sessions run from 1:00p to 4:00p.
+The following schedule runs from January 9 – 13, 2023. Each day will involve a mix of seminar-style discussion and hands-on technical work. Morning sessions will be 10:00a to 12:30p, afternoon sessions will be 1:30p to 4:00p.
 
 {{< toc >}}
 
@@ -16,18 +16,19 @@ The following schedule runs from January 9 – 13, 2023. Each day will involve a
 
 <span class="headlinks">Morning</span>
 
-<span class="color">9:00 – 10:00</span>
-: **Natalia Ermolaev, Meredith Martin, and Grant Wythoff, Center for Digital Humanities**
-: *Seminar discussion on the history of data science and recent trends in computational methods in the humanities.*
+<span class="color">10:00 – 11:00</span>
+: **Grant Wythoff, Meredith Martin, and Natalia Ermolaev, Center for Digital Humanities**
+: *Discussion on the history of data science and recent trends in computational methods in the humanities.*
 : *Preview of what will be covered in each day of the Institute*
 
-<span class="color">10:00 – 12:00</span>
+<span class="color">11:00 – 12:30</span>
+: **Natalia Ermolaev, moderator**
 : *Discussion of readings.*
 : *Participants: come prepared to discuss how data science is intersecting with scholarship in your discipline.*
 
 <span class="headlinks">Afternoon<span>
 
-<span class="color">1:00 – 2:00</span>
+<span class="color">1:30 – 2:00</span>
 : **Peter Ramadge, Gordon Y.S. Wu Professor of Engineering and Director of the [Center for Statistics and Machine Learning](https://csml.princeton.edu/).**
 : *Presentation on the data science ecosystem at Princeton.*
 
@@ -40,6 +41,7 @@ The following schedule runs from January 9 – 13, 2023. Each day will involve a
 
 <span class="color">3:00 – 4:00</span>
 : *Verify that all participants are able to open and run a Colab / Python notebook on their laptops.*
+: Sign into your institutional Google account, click the link to [this test notebook](https://drive.google.com/file/d/1nfjN0v6z5_DcSYqFOD4JRKtG9yDhXtKr/view?usp=sharing), select "Open with Google Colaboratory" at the top, then run the notebook and discuss.
 
 <span class="headlinks">Required Readings</span>
 
@@ -59,13 +61,13 @@ Barbara McGillivray et al., “[The Challenges and Prospects of the Intersection
 
 <span class="headlinks">Morning</span>
 
-<span class="color">9:00 – 12:00</span>
+<span class="color">10:00 – 12:30</span>
 : **Sierra Eckert, Perkins Postdoctoral Fellow, Center for Digital Humanities**
 : *Humanities Data Fundamentals*
 
 <span class="headlinks">Afternoon</span>
 
-<span class="color">1:00 – 4:00</span>
+<span class="color">1:30 – 4:00</span>
 : **Amy Winecoff, DataX Fellow, Center for IT Policy & Center for Statistics and Machine Learning**
 : *Introduction to Machine Learning*
 
@@ -85,13 +87,13 @@ Tony Chu and Stephanie Yee, "[A Visual Introduction to Machine Learning](http://
 
 <span class="headlinks">Morning</span>
 
-<span class="color">9:00 – 12:00</span>
+<span class="color">10:00 – 12:30</span>
 : **David Kinney, Postdoctoral Research Associate in Cognitive Science of Values, University Center for Human Values**
 : *Lecture on the history of measurement across the disciplines*
 
 <span class="headlinks">Afternoon</span>
 
-<span class="color">1:00 – 4:00</span>
+<span class="color">1:30 – 4:00</span>
 : **David Kinney**
 : *Hands-on: stochastic topic modeling*
 
@@ -123,7 +125,7 @@ Ted Underwood, “Machine Learning and Human Perspective,” _PMLA_ 135, no. 1 (
 
 <span class="headlinks">Morning</span>
 
-<span class="color">9:00 – 10:00</span>
+<span class="color">10:00 – 11:00</span>
 : *Roundtable: Computational & Digital Resources on Campus*
 : **Ian Cosden, Director, Research Software Engineering for Computational & Data Science**
 : **Jennifer Grayburn, Assistant Director of Digital and Open Scholarship**
@@ -131,7 +133,7 @@ Ted Underwood, “Machine Learning and Human Perspective,” _PMLA_ 135, no. 1 (
 : **Ariel Ackerly, Makerspace Specialist, Princeton University Library**
 : **Jonathan Halverson, Research Software and Computing Training Lead, Princeton Institute for Computational Science & Engineering**
 
-<span class="color">10:00 – 12:00</span>
+<span class="color">11:00 – 12:30</span>
 : *Participant Project Consultations*
 : How can participants apply what they have learned to their own discipline?
 : What research projects or introductory course ideas do participants want to explore?
@@ -139,5 +141,5 @@ Ted Underwood, “Machine Learning and Human Perspective,” _PMLA_ 135, no. 1 (
 
 <span class="headlinks">Afternoon</span>
 
-<span class="color">1:00 – 4:00</span>
+<span class="color">1:30 – 4:00</span>
 : *Participant project consultations, continued.*
