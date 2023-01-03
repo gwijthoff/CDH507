@@ -101,7 +101,11 @@ Tony Chu and Stephanie Yee, "[A Visual Introduction to Machine Learning](http://
 
 <span class="color">1:30 – 4:00</span>
 : **David Kinney**
-: *Hands-on: stochastic topic modeling*
+: *Hands-On: Stochastic Topic Modeling*
+: Relevant files:
+: - [`CDH_word_embedding_notebook.ipynb`](https://drive.google.com/file/d/1yp1VxZo-n-saLZgEpGd63p2gQGaKBMwC/view?usp=sharing)
+: - [`hansard_1900.json`](https://drive.google.com/file/d/11S48J5y-QKVKJxw3QHu6gay4l-0jVDT5/view?usp=share_link) (357 MB)
+: - [`congress_2001.json`](https://drive.google.com/file/d/1HrlE5cRVouZtswkwBAIouz0yKCtSyqMQ/view?usp=sharing) (172 MB)
 
 <span class="headlinks">Readings</span>
 
