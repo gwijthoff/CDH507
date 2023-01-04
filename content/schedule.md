@@ -109,7 +109,7 @@ Tony Chu and Stephanie Yee, "[A Visual Introduction to Machine Learning](http://
 
 <span class="headlinks">Readings</span>
 
-Hasok Chang, “Spirit, Air, and Quicksilver: The Search for the ‘Real’ Scale of Temperature,” _Historical Studies in the Physical and Biological Sciences_ 31, no. 2 (2001): 249–84, <https://doi.org/10.1525/hsps.2001.31.2.249>.
+Hasok Chang, “[Spirit, Air, and Quicksilver: The Search for the ‘Real’ Scale of Temperature](https://drive.google.com/file/d/19AD3WiYn0ucR0Cs2PsRLzq8QKUkM4S0A/view?usp=sharing),” _Historical Studies in the Physical and Biological Sciences_ 31, no. 2 (2001): 249–84.
 
 ## Thursday: Unpacking my Code Libraries
 
