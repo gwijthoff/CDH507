@@ -25,13 +25,20 @@ A bibliography we recommend is the [Critical Dataset Studies Reading List](https
 
 See also...
 
-Tasioulas, John. “[The Role of the Arts and Humanities in Thinking about Artificial Intelligence](https://blog.apaonline.org/2022/08/11/the-role-of-the-arts-and-humanities-in-thinking-about-artificial-intelligence-draft/).” *Blog of the APA* (blog), August 11, 2022.
+Benedetta Brevini, [*Is AI Good for the Planet?*](https://www.wiley.com/en-us/Is+AI+Good+for+the+Planet%3F-p-9781509547944), (Polity, 2022)
+
+The [Data Responsibly Series](https://airesponsibly.net/resources/#comics), comic books published by NYU's Center for Responsible AI.
 
 Lise Jaillant, ed., [*Archives, Access and Artificial Intelligence: Working with Born-Digital and Digitized Archival Collections*](https://www.transcript-publishing.com/978-3-8376-5584-1/archives-access-and-artificial-intelligence/) (Bielefeld University Press, 2022).
 
-Inioluwa Deborah Raji et al., “AI and the Everything in the Whole Wide World Benchmark,” 35th Conference on Neural Information Processing Systems (NeurIPS 2021) ,<https://doi.org/10.48550/arXiv.2111.15366>.
+Mimi Onuoha and Mother Cyborg, [*A People's Guide to AI*](https://alliedmedia.org/resources/peoples-guide-to-ai) (Allied Media Projects, 2018)
 
 Amandalynne Paullada et al., “Data and Its (Dis)Contents: A Survey of Dataset Development and Use in Machine Learning Research,” _Patterns_, no. 2 (November 12, 2021): 1–14, [https://doi.org/10.1016/J.PATTER.2021.100336](https://doi.org/10.1016/J.PATTER.2021.100336).
+
+Inioluwa Deborah Raji et al., “AI and the Everything in the Whole Wide World Benchmark,” 35th Conference on Neural Information Processing Systems (NeurIPS 2021) ,<https://doi.org/10.48550/arXiv.2111.15366>.
+
+Tasioulas, John. “[The Role of the Arts and Humanities in Thinking about Artificial Intelligence](https://blog.apaonline.org/2022/08/11/the-role-of-the-arts-and-humanities-in-thinking-about-artificial-intelligence-draft/).” *Blog of the APA* (blog), August 11, 2022.
+
 ## Data Sets & Data Work 💾
 
 The Center for Digital Humanities publishes datasets through research partnerships and curation grants. [They can be viewed here](https://cdh.princeton.edu/research/data-curation/datasets/). The CDH also curates a list of [Humanities Datasets in Context](https://docs.google.com/spreadsheets/d/1IBORIU3yMiD240Ivc1fQpGSbKz_L4SOom1ntYlHHGKU/edit?usp=sharing), organized by discipline and annotated with information about data format and collection practices.
@@ -144,6 +151,7 @@ Finally, some miscellaneous tutorials we'd recommend include:
 * Matthew Lincoln’s workshops
 	* [Critical Data Visualization with Palladio](https://matthewlincoln.net/mapping-knoedler-palladio/)
 	* [Tidy Humanities Data](https://matthewlincoln.net/tidy-dh-data/tidy-dh-data.pdf)
+* [Elements of AI](https://www.elementsofai.com/), "a free online introduction to artificial intelligence for non-experts."
 
 ## Examples of Humanities Research Using AI & ML 🧪
 
@@ -152,3 +160,5 @@ DeepMind's [Ithaca](https://github.com/deepmind/ithaca), a project using AI to r
 MIT researchers using AI to [decode the still-undeciphered Indus script](https://restofworld.org/2022/indus-translation-ai-code-script/). The paper [published in *Science*](https://www.science.org/doi/10.1126/science.1170391) concludes that the script is likely not just symbols, but language.
 
 [AEOLIAN (Artificial Intelligence for Cultural Organisations)](https://www.aeolian-network.net/), including [this writeup](https://www.aeolian-network.net/case-study-2-computer-vision-and-cultural-heritage/) on use of AI with medieval manuscripts.
+
+Ben Lee’s [video walkthrough of the Newspaper Navigator ML tool](https://vimeo.com/454247544) and the data paper behind the Newspaper Navigator dataset, [“Compounded Mediation: A Data Archaeology of the Newspaper Navigator Dataset“](http://digitalhumanities.org:8081/dhq/vol/15/4/000578/000578.html)

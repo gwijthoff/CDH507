@@ -16,7 +16,7 @@ The following schedule runs from January 9 – 13, 2023. Each day will involve a
 
 <span class="headlinks">Required Readings</span>
 
-*Please complete before the Institute!*
+\*Must be logged into a Princeton institutional Google account to access these PDFs.
 
 Brian Beaton et al., “[Debating Data Science: A Roundtable](https://drive.google.com/file/d/17E26kC1sb-Ou-3FLbnfVyACw5T_eqGEu/view?usp=share_link),” _Radical History Review_, no. 127 (January 2017): 133–48.
 
@@ -52,7 +52,7 @@ Barbara McGillivray et al., “[The Challenges and Prospects of the Intersection
 
 <span class="color">3:00 – 4:00</span>
 : *Verify that all participants are able to open and run a Colab / Python notebook on their laptops.*
-: Sign into your institutional Google account, click the link to [`colab_test.ipynb`](https://drive.google.com/file/d/1nfjN0v6z5_DcSYqFOD4JRKtG9yDhXtKr/view?usp=sharing), select "Open with Google Colaboratory" at the top, then run the notebook and discuss.
+: Sign into your institutional Google account, click the link to [`colab_intro.ipynb`](https://drive.google.com/file/d/1nfjN0v6z5_DcSYqFOD4JRKtG9yDhXtKr/view?usp=sharing), select "Open with Google Colaboratory" at the top, then run the notebook and discuss.
 
 ## Tuesday: Fundamentals
 
