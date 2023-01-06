@@ -8,8 +8,6 @@ title: People
 
 [Natalia Ermolaev](https://cdh.princeton.edu/people/natasha-ermolaev/), Executive Director, Center for Digital Humanities
 
-[Dan Friedman](https://danfriedman0.github.io/), PhD Student, Computer Science
-
 [Ryan Heuser](https://ryanheuser.org/), Research Software Engineer, Center for Digital Humanities
 
 [Rebecca Sutton Koeser](https://cdh.princeton.edu/people/rebecca-sutton-koeser/), Lead Developer, Center for Digital Humanities

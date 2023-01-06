@@ -68,7 +68,7 @@ Richard So, “‘All Models Are Wrong,’” _PMLA_ 132, no. 3 (May 2017): 668�
 
 Tony Chu and Stephanie Yee, "[A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)," R2D3.
 
-[optional] Amy Winecoff, ["Introduction to Machine Learning for the Humanities"](https://github.com/amywinecoff/ml-teaching/blob/main/cdh/presentation/winecoff_intro_ml_humanities.pdf) (2023)
+Amy Winecoff, ["Introduction to Machine Learning for the Humanities"](https://github.com/amywinecoff/ml-teaching/blob/main/cdh/presentation/winecoff_intro_ml_humanities.pdf) (2023)
 
 <span class="headlinks">Morning</span>
 
@@ -157,4 +157,4 @@ Ted Underwood, “Machine Learning and Human Perspective,” _PMLA_ 135, no. 1 (
 : *Participant project consultations, continued.*
 
 <span class="color">3:00 – 4:00</span>
-: *Feedback for next summer's Institute.*
+: *Share feedback for next summer's Institute in [this exit survey](https://forms.gle/QnYGoz98GsM8k6gC6).*
