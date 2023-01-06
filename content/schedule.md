@@ -111,9 +111,9 @@ Amy Winecoff, ["Introduction to Machine Learning for the Humanities"](https://gi
 
 Hasok Chang, “[Spirit, Air, and Quicksilver: The Search for the ‘Real’ Scale of Temperature](https://drive.google.com/file/d/19AD3WiYn0ucR0Cs2PsRLzq8QKUkM4S0A/view?usp=sharing),” _Historical Studies in the Physical and Biological Sciences_ 31, no. 2 (2001): 249–84.
 
-## Thursday: Unpacking my Code Libraries
+## Thursday: Unpacking Our Code Libraries
 
-*On the use of industry-created tools for influential humanities scholarship. How did software for speech recognition and image tagging end up in a literary text analysis tool? Led by Sierra Eckert and Ryan Heuser, Research Software Engineer, Center for Digita Humanities.*
+*On the use of industry-created tools for influential humanities scholarship. How did software for speech recognition and image tagging end up in a literary text analysis tool?*
 
 <span class="headlinks">Readings</span>
 
@@ -123,11 +123,20 @@ Ted Underwood, “Machine Learning and Human Perspective,” _PMLA_ 135, no. 1 (
 
 <span class="headlinks">Morning</span>
 
-- Hands-on experiments with [BookNLP](https://github.com/booknlp/booknlp) and [spaCy](https://spacy.io/).
+<span class="color">10:00 – 12:30</span>
+: **Sierra Eckert, Perkins Postdoctoral Fellow, Center for Digital Humanities**
+: **Ryan Heuser, Research Software Engineer, Center for Digita Humanities**
+: *Useful Natural Language Processing*
+: Relevant files:
+: - [`HDSI-ThursSession.ipynb`](https://colab.research.google.com/drive/1cEyCf24C1Nf6WvRJctMSKtB0JtQrpu8g#scrollTo=HDSI_Useful_NLP), part 1
 
 <span class="headlinks">Afternoon</span>
 
-- Seminar discussion of recent research employing BookNLP
+<span class="color">1:30 – 4:00</span>
+: **Sierra Eckert, Ryan Heuser**
+: *Named Entity Recognition, Geocoding, and Mapping*
+: Relevant files:
+: - [`HDSI-ThursSession.ipynb`](https://colab.research.google.com/drive/1cEyCf24C1Nf6WvRJctMSKtB0JtQrpu8g#scrollTo=NER_Geocoding_and_Mapping), part 2
 
 ## Friday: Participant Projects
 
