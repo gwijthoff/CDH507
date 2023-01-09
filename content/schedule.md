@@ -101,7 +101,7 @@ Amy Winecoff, ["Introduction to Machine Learning for the Humanities"](https://gi
 
 <span class="color">1:30 – 4:00</span>
 : **David Kinney**
-: *Hands-On: Stochastic Topic Modeling*
+: *Hands-On: Word Embeddings*
 : Relevant files:
 : - [`CDH_word_embedding_notebook.ipynb`](https://drive.google.com/file/d/1yp1VxZo-n-saLZgEpGd63p2gQGaKBMwC/view?usp=sharing)
 : - [`hansard_1900.json`](https://drive.google.com/file/d/11S48J5y-QKVKJxw3QHu6gay4l-0jVDT5/view?usp=share_link) (357 MB)
