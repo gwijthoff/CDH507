@@ -103,8 +103,8 @@ Amy Winecoff, ["Introduction to Machine Learning for the Humanities"](https://gi
 : **David Kinney**
 : *Hands-On: Word Embeddings*
 : Relevant files:
-: - [`CDH_word_embedding_notebook.ipynb`](https://drive.google.com/file/d/1yp1VxZo-n-saLZgEpGd63p2gQGaKBMwC/view?usp=sharing)
-: - [`hansard_1900.json`](https://drive.google.com/file/d/11S48J5y-QKVKJxw3QHu6gay4l-0jVDT5/view?usp=share_link) (357 MB)
+: - [`CDH_word_embedding_notebook.ipynb`](https://drive.google.com/file/d/12fpp2FZAn4beaN7YtknAanVOxG6Hna_8/view?usp=share_link)
+: - [`hansard_1890.json`](https://drive.google.com/file/d/1jQOq_xKTD-BSawjsSbz3fVOjM6p6h6Mv/view?usp=sharing) (210 MB)
 : - [`congress_2001.json`](https://drive.google.com/file/d/1HrlE5cRVouZtswkwBAIouz0yKCtSyqMQ/view?usp=sharing) (172 MB)
 
 <span class="headlinks">Readings</span>
