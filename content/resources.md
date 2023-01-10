@@ -64,6 +64,15 @@ Amy A. Winecoff and Elizabeth Anne Watkins, “[Artificial Concepts of Artificia
 - [UC Berkeley Library's Text Mining & Computational Text Analysis](https://guides.lib.berkeley.edu/c.php?g=491766&p=7828496) web portal, with tutorials, sources, etc.
 - See also [this conversation](https://discourse.computational-humanities-research.org/t/is-there-such-a-thing-as-humanities-data/175/7) on how to define and understand "humanities data."
 
+## Tools ⚒️
+
+The following tools and platforms were mentioned throughout the institute:
+
+- [Notion](https://www.notion.so/), a knowledge management platform for rich spreadsheets, where each row can become a document or a form. Also has task and project management features for collaboration.
+- [Regex 101](https://regex101.com/) for learning about and testing regular expressions, or, commands for searching for various types of text.
+- [Tropy](https://tropy.org/), an app for organizing photos, notes, and bibliographic metadata for archival researchers. Developed by the Roy Rosenzweig Center for History and New Media at George Mason University.
+- [Obsidian](https://obsidian.md/), a plain text / markdown notetaking app that allows you to hyperlink between notes, or add `#tags`. Similar to a personal wiki for all of your notes. Has lots of plugins for literature citation notes, metadata, daily task lists, etc.
+
 ## Technical Instruction ⚙️
 
 ### Python Notebooks & Textbooks
