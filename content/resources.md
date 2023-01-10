@@ -72,6 +72,8 @@ The following tools and platforms were mentioned throughout the institute:
 - [Regex 101](https://regex101.com/) for learning about and testing regular expressions, or, commands for searching for various types of text.
 - [Tropy](https://tropy.org/), an app for organizing photos, notes, and bibliographic metadata for archival researchers. Developed by the Roy Rosenzweig Center for History and New Media at George Mason University.
 - [Obsidian](https://obsidian.md/), a plain text / markdown notetaking app that allows you to hyperlink between notes, or add `#tags`. Similar to a personal wiki for all of your notes. Has lots of plugins for literature citation notes, metadata, daily task lists, etc.
+- [Altair](https://altair-viz.github.io/gallery/index.html), a visualization library for Python, based on Vega, developed by the University of Washington Interactive Data Lab. Vega is "a visualization grammar, a declarative language for creating, saving, and sharing interactive visualization designs."
+- [Voyant](https://voyant-tools.org/), a basic dashboard for text anslysis and an off-the self alternative for exploeratory data analysis.
 
 ## Technical Instruction ⚙️
 
