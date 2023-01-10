@@ -76,8 +76,9 @@ Amy Winecoff, ["Introduction to Machine Learning for the Humanities"](https://gi
 : **Sierra Eckert, Perkins Postdoctoral Fellow, Center for Digital Humanities**
 : *Humanities Data Fundamentals*
 : Relevant files:
-: - [`Humanities Data Fundamentals (slides)](https://docs.google.com/presentation/d/1sl22NkfGyWIg9pq2yzW4K-_LcX45DaqNWmfFRbDce_g/edit?usp=sharing)
+: - [`Humanities Data Fundamentals (slides)`](https://docs.google.com/presentation/d/1sl22NkfGyWIg9pq2yzW4K-_LcX45DaqNWmfFRbDce_g/edit?usp=sharing)
 : - [`Humanities-Data-Fundamentals.ipynb`](https://drive.google.com/file/d/1t3UKhFtQzvlfilxSUT5QhXePwVk9xw1f/view?usp=share_link)
+: - [`Introduction to Text Analysis with Voyant`](https://github.com/Princeton-CDH/hds-institute/blob/main/static/Eckert-Text-Analysis-Introduction-to-Voyant.pdf)
 
 <span class="headlinks">Afternoon</span>
 
