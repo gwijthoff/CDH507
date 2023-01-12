@@ -92,6 +92,7 @@ Folgert Karsdorp, Mike Kestemont, and Allen Riddell, [*Humanities Data Analysis:
 Melanie Walsh’s [Introduction to Cultural Analytics and Python](https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html) [book-length course]
 
 W.J.B. Mattingly’s [Introduction to Python for Text Analysis](https://python-textbook.pythonhumanities.com/intro.html) [book-length course]
+	
 
 ### Workshops
 
@@ -163,6 +164,9 @@ Finally, some miscellaneous tutorials we'd recommend include:
 	* [Critical Data Visualization with Palladio](https://matthewlincoln.net/mapping-knoedler-palladio/)
 	* [Tidy Humanities Data](https://matthewlincoln.net/tidy-dh-data/tidy-dh-data.pdf)
 * [Elements of AI](https://www.elementsofai.com/), "a free online introduction to artificial intelligence for non-experts."
+* If you want to train your own NLP Model for Named Entity Recognition (rather than using the pre-trained model):
+	* W.J.B. Mattingly's [tutorial on how to create a training dataset for `spaCy`](https://ner.pythonhumanities.com/03_01_create_ner_training_set.html)
+	* W.J.B. Mattingly's [tutorial on how to train your own NER model in `spaCy`](https://ner.pythonhumanities.com/03_02_train_spacy_ner_model.html) 
 
 ## Examples of Humanities Research Using AI & ML 🧪
 
