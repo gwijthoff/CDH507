@@ -87,8 +87,9 @@ Amy Winecoff, ["Introduction to Machine Learning for the Humanities"](https://gi
 : **Amy Winecoff, DataX Fellow, Center for IT Policy & Center for Statistics and Machine Learning**
 : *Introduction to Machine Learning for the Humanities*
 : Relevant files:
+: - [slides](https://docs.google.com/presentation/d/1iaCoTr1Ywmdq3kGvv5j-XcrkWXjtPbt52hZ_QZ2ZSpE/edit?usp=sharing)
+: - [`cdh-knn.ipynb`](https://colab.research.google.com/drive/1inEExC3Utjo8reOZ9cIf9F4dKRY3EsA8?usp=sharing)
 : - [`spirits_unknown_1.csv`](https://github.com/amywinecoff/ml-teaching/blob/main/cdh/presentation/spirits_unknown_1.csv)
-: - [`spirits_unknown_2.csv`](https://github.com/amywinecoff/ml-teaching/blob/main/cdh/presentation/spirits_unknown_2.csv)
 
 ## Wednesday: History of Measurement
 
