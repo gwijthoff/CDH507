@@ -74,6 +74,8 @@ The following tools and platforms were mentioned throughout the institute:
 - [Obsidian](https://obsidian.md/), a plain text / markdown notetaking app that allows you to hyperlink between notes, or add `#tags`. Similar to a personal wiki for all of your notes. Has lots of plugins for literature citation notes, metadata, daily task lists, etc.
 - [Altair](https://altair-viz.github.io/gallery/index.html), a visualization library for Python, based on Vega, developed by the University of Washington Interactive Data Lab. Vega is "a visualization grammar, a declarative language for creating, saving, and sharing interactive visualization designs."
 - [Voyant](https://voyant-tools.org/), a basic dashboard for text anslysis and an off-the self alternative for exploeratory data analysis.
+- [Distant Viewing Toolkit](https://github.com/distant-viewing/dvt), a Python library for performing machine learning on still and moving images, developed by the Distant Viewing Lab at the University of Richmond. 
+- [HiPSTAS Audio Tagging Toolkit](https://github.com/hipstas/audio-tagging-toolkit), a Python library for labeling audio data for training machine learning classification models, developed by Steve McLaughlin, in the High Performance Sound Technologies for Access and Scholarship Project at University of Texas, Austin.
 
 ## Technical Instruction ⚙️
 
@@ -92,6 +94,7 @@ Folgert Karsdorp, Mike Kestemont, and Allen Riddell, [*Humanities Data Analysis:
 Melanie Walsh’s [Introduction to Cultural Analytics and Python](https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html) [book-length course]
 
 W.J.B. Mattingly’s [Introduction to Python for Text Analysis](https://python-textbook.pythonhumanities.com/intro.html) [book-length course]
+	
 
 ### Workshops
 
@@ -163,6 +166,9 @@ Finally, some miscellaneous tutorials we'd recommend include:
 	* [Critical Data Visualization with Palladio](https://matthewlincoln.net/mapping-knoedler-palladio/)
 	* [Tidy Humanities Data](https://matthewlincoln.net/tidy-dh-data/tidy-dh-data.pdf)
 * [Elements of AI](https://www.elementsofai.com/), "a free online introduction to artificial intelligence for non-experts."
+* If you want to train your own NLP Model for Named Entity Recognition (rather than using the pre-trained model):
+	* W.J.B. Mattingly's [tutorial on how to create a training dataset for `spaCy`](https://ner.pythonhumanities.com/03_01_create_ner_training_set.html)
+	* W.J.B. Mattingly's [tutorial on how to train your own NER model in `spaCy`](https://ner.pythonhumanities.com/03_02_train_spacy_ner_model.html) 
 
 ## Examples of Humanities Research Using AI & ML 🧪
 
