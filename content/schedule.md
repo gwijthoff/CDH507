@@ -32,7 +32,7 @@ Barbara McGillivray et al., “[The Challenges and Prospects of the Intersection
 : **Grant Wythoff and Meredith Martin, Center for Digital Humanities**
 : *Discussion on the history of data science and recent trends in computational methods in the humanities.*
 : *Preview of what will be covered in each day of the Institute*
-: [Opening Slides](/hds-institute/2022-01-09_Institute_Opening_Comments.pdf)
+: [Opening Slides](/hds-institute/pdf/2022-01-09_Institute_Opening_Comments.pdf)
 
 <span class="color">11:00 – 12:30</span>
 : *Discussion of readings.*
@@ -79,7 +79,7 @@ Amy Winecoff, ["Introduction to Machine Learning for the Humanities"](https://gi
 : Relevant files:
 : - [`Humanities Data Fundamentals (slides)`](https://docs.google.com/presentation/d/1sl22NkfGyWIg9pq2yzW4K-_LcX45DaqNWmfFRbDce_g/edit?usp=sharing)
 : - [`Humanities-Data-Fundamentals.ipynb`](https://drive.google.com/file/d/1t3UKhFtQzvlfilxSUT5QhXePwVk9xw1f/view?usp=share_link)
-: - [`Introduction to Text Analysis with Voyant`](/hds-institute/Eckert-Text-Analysis-Introduction-to-Voyant.pdf)
+: - [`Introduction to Text Analysis with Voyant`](/hds-institute/pdf/Eckert-Text-Analysis-Introduction-to-Voyant.pdf)
 
 <span class="headlinks">Afternoon</span>
 
@@ -150,10 +150,10 @@ Ted Underwood, “Machine Learning and Human Perspective,” _PMLA_ 135, no. 1 (
 <span class="color">10:00 – 11:00</span>
 : *Roundtable: Computational & Digital Resources on Campus*
 : **Natalia Ermolaev, moderator**
-: **Ian Cosden, Director, Research Software Engineering for Computational & Data Science**
-: **Jennifer Grayburn, Assistant Director of Digital and Open Scholarship**
-: **Ben Johnston, Senior Educational Technologist, McGraw Center for Teaching & Learning**
-: **Ariel Ackerly, Makerspace Specialist, Princeton University Library**
+: **Ian Cosden, Director, Research Software Engineering for Computational & Data Science** [[slides](/hds-institute/pdf/2023-01-13_Cosden_slides.pdf)]
+: **Jennifer Grayburn, Assistant Director of Digital and Open Scholarship** [[slides](/hds-institute/pdf/2023-01-13_grayburn_slides.pdf)]
+: **Ben Johnston, Senior Educational Technologist, McGraw Center for Teaching & Learning** [[slides](/hds-institute/pdf/2023-01-13_johnston_slides.pdf)]
+: **Ariel Ackerly, Makerspace Specialist, Princeton University Library** [[slides](/hds-institute/pdf/2023-01-13_Ackerly_slides.pdf)]
 : **Jonathan Halverson, Research Software and Computing Training Lead, Princeton Institute for Computational Science & Engineering**
 
 <span class="color">11:00 – 12:30</span>
