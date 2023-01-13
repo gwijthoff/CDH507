@@ -74,6 +74,8 @@ The following tools and platforms were mentioned throughout the institute:
 - [Obsidian](https://obsidian.md/), a plain text / markdown notetaking app that allows you to hyperlink between notes, or add `#tags`. Similar to a personal wiki for all of your notes. Has lots of plugins for literature citation notes, metadata, daily task lists, etc.
 - [Altair](https://altair-viz.github.io/gallery/index.html), a visualization library for Python, based on Vega, developed by the University of Washington Interactive Data Lab. Vega is "a visualization grammar, a declarative language for creating, saving, and sharing interactive visualization designs."
 - [Voyant](https://voyant-tools.org/), a basic dashboard for text anslysis and an off-the self alternative for exploeratory data analysis.
+- [Distant Viewing Toolkit](https://github.com/distant-viewing/dvt), a Python library for performing machine learning on still and moving images, developed by the Distant Viewing Lab at the University of Richmond. 
+- [HiPSTAS Audio Tagging Toolkit](https://github.com/hipstas/audio-tagging-toolkit), a Python library for labeling audio data for training machine learning classification models, developed by Steve McLaughlin, in the High Performance Sound Technologies for Access and Scholarship Project at University of Texas, Austin.
 
 ## Technical Instruction ⚙️
 
