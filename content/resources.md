@@ -153,6 +153,7 @@ Be sure to check out Foundations and Applications of Humanities Analytics, cotau
 * [Working with Dataset Files](https://constellate.org/tutorials/working-with-dataset-files)
 * [Pandas 1](https://constellate.org/tutorials/pandas-1)
 * [Pandas 2](https://constellate.org/tutorials/pandas-2)
+* [Pandas 3](https://constellate.org/tutorials/pandas-3)
 * [Creating a Stopwords List](https://constellate.org/tutorials/creating-stopwords-list)
 * [Counter Objects](https://constellate.org/tutorials/counter-objects)
 * [Sentiment Analysis with VADER](https://constellate.org/tutorials/sentiment-analysis-with-vader)
