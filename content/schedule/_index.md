@@ -1,8 +1,11 @@
 ---
 title: Schedule
+layout: single
 ---
 
-The following schedule runs from January 9 – 13, 2023. Each day will involve a mix of seminar-style discussion and hands-on technical work. Morning sessions will be 10:00a to 12:30p, afternoon sessions will be 1:30p to 4:00p.
+The following schedule runs from June 5 – 9, 2023. (Last January's institute schedule is available on the [Winter page](/hds-institute/schedule/2023-01).) Each day will involve a mix of seminar-style discussion and hands-on technical work. Morning sessions will be 10:00a to 12:30p, afternoon sessions will be 1:30p to 4:00p. 
+
+An orientation and tech setup day will be held on May 24, 2023, 2-4PM.
 
 {{< toc >}}
 
@@ -16,7 +19,7 @@ The following schedule runs from January 9 – 13, 2023. Each day will involve a
 
 <span class="headlinks">Required Readings</span>
 
-\*Must be logged into a Princeton institutional Google account to access these PDFs.
+\*<em>Must be logged into a Princeton institutional Google account to access these PDFs.</em>
 
 Brian Beaton et al., “[Debating Data Science: A Roundtable](https://drive.google.com/file/d/17E26kC1sb-Ou-3FLbnfVyACw5T_eqGEu/view?usp=share_link),” _Radical History Review_, no. 127 (January 2017): 133–48.
 

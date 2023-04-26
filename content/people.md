@@ -22,6 +22,30 @@ title: People
 
 ## Participants
 
+### Summer 2023
+
+Alex Davis, Lecturer, Princeton Writing Program
+
+Allison Carruth, Professor of American Studies and Environmental Studies
+
+Andrea Capra, Postdoctoral Fellow in the Society of Fellows and Lecturer in French and Italian
+
+Andrew Chignell, Professor, University Center for Human Values; Religion; Philosophy
+
+Beth Semel, Assistant Professor of Anthropology
+
+Elise Mitchell, Presidential Postdoctoral Fellow and Lecturer in History
+
+Haley Brennan, PhD Student, Philosophy
+
+Mario Soriano, Postdoctoral Research Associate, Lecturer, and Fellow at the High Meadows Environmental Institute
+
+Patrick Jaojoco, PhD Student, African American Studies
+
+Reena Goldthreem, Assistant Professor, African American Studies
+
+Xin Zou	Lecturer, East Asian Studies
+
 ### Winter 2023
 
 Jada Bishop, PhD Student, Classics
@@ -55,7 +79,3 @@ Marina Rustow, Khedouri A. Zilkha Professor of Jewish Civilization in the Near E
 Tim Szetela, Lecturer in Visual Arts, Lewis Center for the Arts
 
 Cara Turnbull, PhD Student, Music
-
-### Summer 2023
-
-*CFP to come*
