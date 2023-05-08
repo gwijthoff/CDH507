@@ -31,13 +31,16 @@ Barbara McGillivray et al., “[The Challenges and Prospects of the Intersection
 
 <span class="headlinks">Morning</span>
 
-<span class="color">10:00 – 11:00</span>
+<span class="color">10:00 – 10:30</span>
 : **Grant Wythoff and Meredith Martin, Center for Digital Humanities**
 : *Discussion on the history of data science and recent trends in computational methods in the humanities.*
 : *Preview of what will be covered in each day of the Institute*
 : [Opening Slides](/hds-institute/pdf/2022-01-09_Institute_Opening_Comments.pdf)
 
-<span class="color">11:00 – 12:30</span>
+<span class="color">10:30 – 11:30</span>
+: *Participant introductions and project descriptions. What do you hope to learn at this Institute?*
+
+<span class="color">11:30 – 12:30</span>
 : *Discussion of readings.*
 : *Participants: come prepared to discuss how data science is intersecting with scholarship in your discipline.*
 
@@ -48,8 +51,7 @@ Barbara McGillivray et al., “[The Challenges and Prospects of the Intersection
 : *Presentation on the data science ecosystem at Princeton.*
 
 <span class="color">2:00 – 2:30</span>
-: **Marina Rustow, Khedouri A. Zilkha Professor of Jewish Civilization in the Near East.**
-: *Presentation on Handwritten Text Recognition for the [Princeton Geniza Project](https://geniza.princeton.edu/en/) (HTR4PGP), supported by a seed grant from the [Center for Statistics and Machine Learning](https://csml.princeton.edu/news/eight-research-projects-receive-datax-funding#:-:text=htr4pgp).*
+: [presentation slot held]
 
 <span class="color">2:30 – 3:00</span>
 : *Break*
