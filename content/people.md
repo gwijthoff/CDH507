@@ -42,7 +42,7 @@ Mario Soriano, Postdoctoral Research Associate, Lecturer, and Fellow at the High
 
 Patrick Jaojoco, PhD Student, African American Studies
 
-Reena Goldthreem, Assistant Professor, African American Studies
+Reena Goldthree, Assistant Professor, African American Studies
 
 Xin Zou	Lecturer, East Asian Studies
 
