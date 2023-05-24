@@ -44,7 +44,7 @@ Patrick Jaojoco, PhD Student, African American Studies
 
 Reena Goldthree, Assistant Professor, African American Studies
 
-Xin Zou	Lecturer, East Asian Studies
+Xin Zou, Lecturer, East Asian Studies
 
 ### Winter 2023
 
