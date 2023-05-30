@@ -32,7 +32,7 @@ Barbara McGillivray et al., “[The Challenges and Prospects of the Intersection
 <span class="headlinks">Morning</span>
 
 <span class="color">10:00 – 10:30</span>
-: **Grant Wythoff and Meredith Martin, Center for Digital Humanities**
+: **Sierra Eckert and Ryan Heuser, Center for Digital Humanities**
 : *Discussion on the history of data science and recent trends in computational methods in the humanities.*
 : *Preview of what will be covered in each day of the Institute*
 : [Opening Slides](/hds-institute/pdf/2022-01-09_Institute_Opening_Comments.pdf)
@@ -51,7 +51,8 @@ Barbara McGillivray et al., “[The Challenges and Prospects of the Intersection
 : *Presentation on the data science ecosystem at Princeton.*
 
 <span class="color">2:00 – 2:30</span>
-: [presentation slot held]
+: **Natalia Ermolaev, Executive Director, Center for Digital Humanities**
+: *Presentation on the NEH-funded [New Languages for NLP: Building Linguistic Diversity in the Digital Humanities](https://newnlp.princeton.edu/).*
 
 <span class="color">2:30 – 3:00</span>
 : *Break*
