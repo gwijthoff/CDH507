@@ -165,7 +165,7 @@ Ted Underwood, “Machine Learning and Human Perspective,” _PMLA_ 135, no. 1 (
 
 <span class="color">11:00 – 12:30</span>
 : *Participant Project Consultations*
-: **Meredith Martin and Natalia Ermolaev, moderators**
+: **Grant Wythoff, moderator**
 : How can participants apply what they have learned to their own discipline?
 : What research projects or introductory course ideas do participants want to explore?
 : CDH staff will help participants scope their idea to attainable goals while identifying what support or additional training they need.
