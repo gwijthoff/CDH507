@@ -55,11 +55,7 @@ Barbara McGillivray et al., “[The Challenges and Prospects of the Intersection
 : *Presentation on the NEH-funded [New Languages for NLP: Building Linguistic Diversity in the Digital Humanities](https://newnlp.princeton.edu/).*
 
 <span class="color">2:30 – 3:00</span>
-: *Break*
-
-<span class="color">3:00 – 4:00</span>
-: *Verify that all participants are able to open and run a Colab / Python notebook on their laptops.*
-: Sign into your institutional Google account, click the link to [`colab_intro.ipynb`](https://drive.google.com/file/d/1nfjN0v6z5_DcSYqFOD4JRKtG9yDhXtKr/view?usp=sharing), select "Open with Google Colaboratory" at the top, then run the notebook and discuss.
+: *Informal discussion.*
 
 ## Tuesday: Fundamentals
 
