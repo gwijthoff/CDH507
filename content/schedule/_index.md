@@ -51,8 +51,8 @@ Barbara McGillivray et al., “[The Challenges and Prospects of the Intersection
 : *Presentation on the data science ecosystem at Princeton.*
 
 <span class="color">2:00 – 2:30</span>
-: **Natalia Ermolaev, Executive Director, Center for Digital Humanities**
-: *Presentation on the NEH-funded [New Languages for NLP: Building Linguistic Diversity in the Digital Humanities](https://newnlp.princeton.edu/).*
+: **Helmut Reimitz, Professor of History; Director, Program in Medieval Studies**
+: *Presentation on [History Books and the History of the Book in the Middle Ages](https://cdh.princeton.edu/projects/history-books-and-the-history-of-the-book-in-the-middle-ages/): applying computational tools to learn about the “history of histories” in medieval Europe.*
 
 <span class="color">2:30 – 3:00</span>
 : *Informal discussion.*
