@@ -134,7 +134,7 @@ Ted Underwood, “Machine Learning and Human Perspective,” _PMLA_ 135, no. 1 (
 : **Ryan Heuser, Research Software Engineer, Center for Digita Humanities**
 : *Useful Natural Language Processing*
 : Relevant files:
-: - [`HDSI-ThursSession.ipynb`](https://colab.research.google.com/drive/1cEyCf24C1Nf6WvRJctMSKtB0JtQrpu8g#scrollTo=HDSI_Useful_NLP), part 1
+: - [`HDSI-ThursSession.ipynb`](https://colab.research.google.com/drive/1k-nE1dm8emzGxkEEDNkryy5Ht9WaNlG7#scrollTo=HDSI_Useful_NLP), part 1
 
 <span class="headlinks">Afternoon</span>
 
@@ -142,7 +142,7 @@ Ted Underwood, “Machine Learning and Human Perspective,” _PMLA_ 135, no. 1 (
 : **Sierra Eckert, Ryan Heuser**
 : *Named Entity Recognition, Geocoding, and Mapping*
 : Relevant files:
-: - [`HDSI-ThursSession.ipynb`](https://colab.research.google.com/drive/1cEyCf24C1Nf6WvRJctMSKtB0JtQrpu8g#scrollTo=NER_Geocoding_and_Mapping), part 2
+: - [`HDSI-ThursSession.ipynb`](https://colab.research.google.com/drive/1k-nE1dm8emzGxkEEDNkryy5Ht9WaNlG7#scrollTo=9793a8d3-19e2-4615-bf01-6cb70a22fadd), part 2
 
 ## Friday: Participant Projects
 
