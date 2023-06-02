@@ -1,0 +1,719 @@
+Large-scale GWAS reveals insights into the genetic architecture of same-sex sexual behavior
+Andrea Ganna, Karin J. H. Verweij, Michel G. Nivard, Robert Maier, Robbee Wedow, Alexander S. Busch, Abdel Abdellaoui, Shengru Guo, J. Fah Sathirapongsasuti, [...] , and Brendan P. Zietsch 
+Science
+30 Aug 2019
+Vol 365, Issue 6456
+DOI: 10.1126/science.aat7693
+
+The genetics of sexual orientation
+Twin studies and other analyses of inheritance of sexual orientation in humans has indicated that same-sex sexual behavior has a genetic component. Previous searches for the specific genes involved have been underpowered and thus unable to detect genetic signals. Ganna et al. perform a genome-wide association study on 493,001 participants from the United States, the United Kingdom, and Sweden to study genes associated with sexual orientation (see the Perspective by Mills). They find multiple loci implicated in same-sex sexual behavior indicating that, like other behavioral traits, nonheterosexual behavior is polygenic.
+
+Structured Abstract
+INTRODUCTION
+Across human societies and in both sexes, some 2 to 10% of individuals report engaging in sex with same-sex partners, either exclusively or in addition to sex with opposite-sex partners. Twin and family studies have shown that same-sex sexual behavior is partly genetically influenced, but previous searches for the specific genes involved have been underpowered to detect effect sizes realistic for complex traits.
+RATIONALE
+For the first time, new large-scale datasets afford sufficient statistical power to identify genetic variants associated with same-sex sexual behavior (ever versus never had a same-sex partner), estimate the proportion of variation in the trait accounted for by all variants in aggregate, estimate the genetic correlation of same-sex sexual behavior with other traits, and probe the biology and complexity of the trait. To these ends, we performed genome-wide association discovery analyses on 477,522 individuals from the United Kingdom and United States, replication analyses in 15,142 individuals from the United States and Sweden, and follow-up analyses using different aspects of sexual preference.
+RESULTS
+In the discovery samples (UK Biobank and 23andMe), five autosomal loci were significantly associated with same-sex sexual behavior. Follow-up of these loci suggested links to biological pathways that involve sex hormone regulation and olfaction. Three of the loci were significant in a meta-analysis of smaller, independent replication samples. Although only a few loci passed the stringent statistical corrections for genome-wide multiple testing and were replicated in other samples, our analyses show that many loci underlie same-sex sexual behavior in both sexes. In aggregate, all tested genetic variants accounted for 8 to 25% of variation in male and female same-sex sexual behavior, and the genetic influences were positively but imperfectly correlated between the sexes [genetic correlation coefficient (rg) = 0.63; 95% confidence intervals, 0.48 to 0.78]. These aggregate genetic influences partly overlapped with those on a variety of other traits, including externalizing behaviors such as smoking, cannabis use, risk-taking, and the personality trait “openness to experience.” Additional analyses suggested that sexual behavior, attraction, identity, and fantasies are influenced by a similar set of genetic variants (rg > 0.83); however, the genetic effects that differentiate heterosexual from same-sex sexual behavior are not the same as those that differ among nonheterosexuals with lower versus higher proportions of same-sex partners, which suggests that there is no single continuum from opposite-sex to same-sex preference.
+CONCLUSION
+Same-sex sexual behavior is influenced by not one or a few genes but many. Overlap with genetic influences on other traits provides insights into the underlying biology of same-sex sexual behavior, and analysis of different aspects of sexual preference underscore its complexity and call into question the validity of bipolar continuum measures such as the Kinsey scale. Nevertheless, many uncertainties remain to be explored, including how sociocultural influences on sexual preference might interact with genetic influences. To help communicate our study to the broader public, we organized workshops in which representatives of the public, activists, and researchers discussed the rationale, results, and implications of our study.
+
+Abstract
+Twin and family studies have shown that same-sex sexual behavior is partly genetically influenced, but previous searches for specific genes involved have been underpowered. We performed a genome-wide association study (GWAS) on 477,522 individuals, revealing five loci significantly associated with same-sex sexual behavior. In aggregate, all tested genetic variants accounted for 8 to 25% of variation in same-sex sexual behavior, only partially overlapped between males and females, and do not allow meaningful prediction of an individual’s sexual behavior. Comparing these GWAS results with those for the proportion of same-sex to total number of sexual partners among nonheterosexuals suggests that there is no single continuum from opposite-sex to same-sex sexual behavior. Overall, our findings provide insights into the genetics underlying same-sex sexual behavior and underscore the complexity of sexuality.
+
+Across human societies and in both sexes, some 2 to 10% of individuals report engaging in sex with same-sex partners, either exclusively or in addition to sex with opposite-sex partners (1–4). The biological factors that contribute to sexual preference are largely unknown (5), but genetic influences are suggested by the observation that same-sex sexual behavior appears to run in families (6) and is concordant more often in genetically identical (monozygotic) twin pairs than in fraternal twin pairs or siblings (7).
+With respect to genetic influences, several questions arise. First, what genes are involved and what biological processes do they affect? Previous reports of genetic variants associated with sexual orientation (8–10) were based on relatively small samples and did not meet current standards of genome-wide significance (P < 5 × 10−8). Identification of robustly associated variants could enable exploration of the biological pathways and processes involved in development of same-sex sexual behavior. One hypothesis suggests that sex hormones are involved (11–13), but little direct genetic or biological evidence is available. Second, to what extent are genetic influences the same or different for females and males; behavior, attraction, and identity; and heterosexuality and different same-sex sexual behaviors (such as bisexuality)?
+In order to identify genetic variants associated with same-sex sexual behavior and explore its genetic architecture and underlying biology, we performed a genome-wide association study (GWAS) of same-sex sexual behavior. Analyses were conducted in the UK Biobank from the United Kingdom and a cohort of research participants from 23andMe, predominantly located in the United States, and replications were performed in three other smaller studies. This study is part of a preregistered research plan (Open Science Framework; https://osf.io/357tn), and we explain our deviations from that plan in (14).
+Phenotypic characterization
+The UK Biobank study comprises a sample of ~500,000 genotyped UK residents aged 40 to 70 years (tables S1 and S2) (14). Our primary phenotype of interest is a binary, self-reported measure of whether respondents had ever had sex with someone of the same sex (here termed “nonheterosexuals”) or had not (here termed “heterosexuals”) (Box 1).
+In the UK Biobank sample, 4.1% of males and 2.8% of females reported ever having had sex with someone of the same sex (tables S1 and S2), with higher rates among younger participants (Fig. 1A). This binary phenotype follows from previous work proposing that sexual preference is taxonic rather than dimensional in structure, with individuals reporting exclusively opposite-sex preference differing from individuals reporting any same-sex preference (15). However, the binary variable also collapses rich and multifaceted diversity among nonheterosexual individuals (15), so we explored finer-scaled measurements and some of the complexities of the phenotype, although intricacies of the social and cultural influences on sexuality made it impossible to fully explore this complexity. The 23andMe sample comprised 23andMe customers who consented to participate in research and chose to complete a survey about sexual orientation (from many possible survey topics). Individuals who engage in same-sex sexual behavior may be more likely to self-select the sexual orientation survey, which would explain the unusually high proportion of individuals who had had same-sex sexual partners in this sample (18.9%) (table S3) (14).
+We also performed replication analyses in three smaller datasets (14): (i) Molecular Genetic Study of Sexual Orientation (MGSOSO) (n = 2308 U.S. adult males), in which respondents were asked about their sexual identity; (ii) Add Health (n = 4755 U.S. young adults), in which respondents were asked whether they ever had same-sex intercourse and whether they were romantically attracted to the same sex; and (iii) Child and Adolescent Twin Study in Sweden (CATSS) (n = 8093 Swedish adolescents), in which participants reported the degree of attraction to the same versus opposite sex.
+We observed in the UK Biobank that individuals who reported same-sex sexual behavior had on average fewer offspring than those of individuals who engaged exclusively in heterosexual behavior, even for individuals reporting only a minority of same-sex partners (Fig. 1B). This reduction in number of children is comparable with or greater than for other traits that have been linked to lower fertility rates (fig. S1) (14). This reproductive deficit raises questions about the evolutionary maintenance of the trait, but we do not address these here.
+Genetic architecture of same-sex sexual behavior
+We first assessed whether same-sex sexual behavior clustered in families in a manner consistent with genetic influences on the phenotype. Among pairs of individuals in the UK Biobank related at full cousin or closer [as identified by genomic similarity (14); n pairs = 106,979], more closely related individuals were more likely to be concordant in terms of same-sex sexual behavior. By modeling the correspondence of relatedness among individuals and the similarity of their sexual behavior, we estimated broad-sense heritability—the percentage of variation in a trait attributable to genetic variation—at 32.4% [95% confidence intervals (CIs), 10.6 to 54.3] (table S4). This estimate is consistent with previous estimates from smaller twin studies (7).
+To identify genetic variants [largely single-nucleotide polymorphisms (SNPs)] associated with same-sex sexual behavior, we performed a GWAS in the UK Biobank study (n = 408,995 individuals) (14). To increase power and generalizability of our results, we also performed a GWAS in the cohort from 23andMe using an equivalent variable (individuals who reported having had sex with “Other sex only” versus the other options on a seven-point scale regarding participants’ sexual partners) (n = 68,527 individuals, of which 12,933 reported same-sex sexual behavior) (table S3) (14). We estimated the genetic correlation (16) between different heritable traits to determine the degree of consistency of genetic influences on same-sex sexual behavior in the two studies, which was high [genetic correlation coefficient (rg) = 0.87; 95% CIs, 0.67 to 1.06] (table S5) (14). Genetic correlations between same-sex sexual behavior and 28 different traits were largely similar in the UK Biobank and 23andMe (fig. S2) (14), although a few differences were observed; for example, in females, the genetic correlations between same-sex sexual behavior and anorexia were in opposite directions in the UK Biobank (rg = –0.36; 95% CIs, –0.60 and –0.09) and 23andMe data (rg = 0.36; 95% CIs, 0.08 to 0.65; Wald test P value for differences = 0.0001). Overall, these results indicate that the genetic influences on same-sex sexual behavior in the two samples is similar, although there is some suggestion of phenotypic heterogeneity. We meta-analyzed the two sample sets using MTAG (17), which models their genetic correlation to determine the meta-analytic weights, yielding a total sample size of 477,522 individuals (26,827 individuals reporting same-sex sexual behavior).
+After standard quality control checks (table S6) (14), we identified two genome-wide significant signals for same-sex sexual behavior (rs11114975-12q21.31 and rs10261857-7q31.2) (Fig. 2 and tables S7 and S8). We discuss these SNPs further in the section “In-silico follow-up of GWAS results.” To assess differences in effects between females and males, we also performed sex-specific analyses. These results suggested only a partially shared genetic architecture across the sexes; the across-sex genetic correlation was 0.63 (95% CIs, 0.48 to 0.78) (table S9). This is noteworthy given that most other studied traits show much higher across-sex genetic correlations, often close to 1 (18–21). Through the sex-specific analyses, we identified two additional signals in males (rs28371400-15q21.3 and rs34730029-11q12.1), which showed no significant association in females, and one in females (rs13135637-4p14), which showed no significant association in males. Overall, three of the SNPs replicated at a nominal P value in the meta-analyzed replication datasets (Wald test P = 0.027 for rs34730029, P = 0.003 for rs28371400, and P = 0.006 for rs11114975) (table S10), despite the much smaller sample size (MGSOSO, Add Health, and CATSS; total sample size = 15,156 individuals, effective sample size = 4887 individuals).
+The SNPs that reached genome-wide significance had very small effects (odds ratios ~1.1) (table S7). For example, in the UK Biobank, males with a GT genotype at the rs34730029 locus had 0.4% higher prevalence of same-sex sexual behavior than those with a TT genotype (4.0 versus 3.6%). Nevertheless, the contribution of all measured common SNPs in aggregate (SNP-based heritability) was estimated to be 8 to 25% (95% CIs, 5 to 30%) of variation in female and male same-sex sexual behavior, in which the range reflects differing estimates by using different analysis methods or prevalence assumptions (table S11) (14). The discrepancy between the variance captured by the significant SNPs and all common SNPs suggests that same-sex sexual behavior, like most complex human traits, is influenced by the small, additive effects of very many genetic variants, most of which cannot be detected at the current sample size (22). Consistent with this interpretation, we show that the contribution of each chromosome to heritability is broadly proportional to its size (fig. S3) (14). In contrast to linkage studies that found substantial association of sexual orientation with variants on the X-chromosome (8, 23), we found no excess of signal (and no individual genome-wide significant loci) on the X-chromosome (fig. S4).
+To test whether these aggregate estimates of genetic effects correlate with sexuality in other samples, we constructed polygenic scores for same-sex sexual behavior (14, 24). These polygenic scores were significantly associated with sexual identity in MGSOSO (Wald test, P = 0.001) and same-sex attraction in the Add Health (P = 0.017) and CATSS (P = 3.5 × 10−6) studies (tables S12, S13, and S14). In CATSS, polygenic scores were also significantly associated with sexual attraction in participants at age 15 years (P = 6.4 × 10−5), suggesting that at least some of the genetic influences on same-sex sexual behavior manifest early in sexual development. The purpose of these analyses is to further characterize the genetic influences on same-sex sexual behavior and not to predict same-sex sexual behavior on the individual level. In all cases, the variance explained by the polygenic scores was extremely low (<1%); these scores could not be used to accurately predict sexual behavior in an individual.
+Overall, these findings suggest that genetic influences on same-sex sexual behavior are highly polygenic and are not specific to the discovery samples or measures. All the SNPs measured, when combined, do not capture the entirety of family-based heritability (8 to 25% from GWAS versus 32% from family-based methods). In this, same-sex sexual behavior is similar to many other complex traits; the ratio between family-based heritability and SNP-heritability estimated in the same sample is consistent with empirical findings for the other 16 traits we tested (family heritability approximately three times larger than SNP-heritability) (Fig. 3) (14). There are many possible reasons for this discrepancy, including, but not limited to, variants not captured by genotyping arrays, nonadditive genetic effects, and phenotypic heterogeneity.
+In silico follow-up of GWAS results
+To explore the biological processes that may influence same-sex sexual behavior, we performed cell- and tissue-type enrichment analyses using the GWAS discovery dataset (14, 25). We did not find clear evidence of enrichment for any particular cell or tissue (fig S5). However, we did find that genes near variants associated with same-sex sexual behavior are more likely than chance to be highly constrained [having unusually low prevalence of loss-of-function variants, suggesting stronger evolutionary constraint (14, 26)], even after controlling for expression in the brain (table S15).
+At the level of individual loci, we investigated biological pathways by integrating information from expression quantitative trait loci (eQTL) analyses (27), phenome-wide association study (PheWAS) (table S16) (28), and gene-based analysis by using MAGMA (14, 29). A full report can be found in table S17. Here, we highlight findings relating to the two SNPs associated with male same-sex sexual behavior: rs34730029 and rs28371400. First, the locus encompassing rs34730029-11q12.1 contains a number of olfactory receptor genes (several of which were significantly associated with same-sex sexual behavior in a gene-based test) (fig. S6 and table S18). This SNP is correlated [linkage disequilibrium, coefficient of determination (R2) = 0.70] with a missense variant (rs6591536) in OR5A1 that has been reported to have a substantial effect on the sensitivity to certain scents (30). Second, rs28371400-15q21.3 had several indications of being involved in sex hormone regulation: The allele positively associated with same-sex sexual behavior is associated with higher rate of male pattern balding [in which sex-hormone sensitivity is implicated (31)] and is located ~20 kb upstream of the TCF12 gene. TCF12 is the primary heterodimerization partner for TCF21, a transcription factor essential for normal development of the gonads in mice (32), and is involved in the downstream actions of the SRY gene (which is responsible for the initiation of male sex determination) in humans (33).
+Genetic correlations with other traits
+Next, we explored the genetic correlations between same-sex sexual behavior and 28 other relevant traits chosen before the analyses, using summary statistics from other GWASs (Fig. 4 and table S19) (14). In particular, we included mental health traits because they are substantially heritable (34), and previous population surveys have shown elevated risk of adverse mental health outcomes (such as depression, anxiety, or substance use) in sexual minority populations, including individuals engaging in same-sex sexual behavior (35, 36).
+We found several personality traits (loneliness and openness to experience), risky behaviors (smoking and cannabis use) and mental health disorders, but not physical traits, to be significantly genetically correlated with same-sex sexual behavior. We found in both sexes that same-sex sexual behavior was positively genetically correlated with several psychiatric or mental health traits [for example, depression, rg = 0.44 in females (95% CIs, 0.32 and 0.55), rg = 0.33 in males (95% CIs, 0.22 and 0.43); schizophrenia, rg = 0.17 in females (95% CIs 0.08 and 0.35), rg = 0.13 in males (95% CIs, 0.05 and 0.26); all Wald test P < 0.001]. We emphasize that the causal processes underlying these genetic correlations are unclear and could be generated by environmental factors relating to prejudice against individuals engaging in same-sex sexual behavior, among other possibilities, which we discuss in (14). Some associations were sex specific. In particular, the genetic correlations with bipolar disorder, cannabis use, and number of sexual partners were significantly higher in females than in males (Wald test P = 0.001, 1.47 × 10−6, and 3.13 × 10−5 respectively) (table S19).
+Last, given the potential roles of sex hormones in sexual behaviors, we directly explored whether there is a genetic correlation with serum sex-hormone–binding globulin (SHBG) levels (37), which are thought to be inversely related to bioactive testosterone and estrogen in females and males, respectively (38). There was a significant correlation in females (rg = 0.25, Wald test P = 0.03) but not in males (rg = 0.10, Wald test P = 0.32).
+Complexity and heterogeneity
+To maximize our sample size and increase the power to detect SNP associations, we defined our primary phenotype as ever or never having had a same sex partner. Such a measure fails to capture the multifaceted richness and complexity of human sexual orientation. To explore the consequences of this simplification, we pursued genetic analyses across different aspects of sexual preference and behavior.
+First, within participants reporting same-sex sexual behavior, we performed a GWAS on the proportion of same-sex partners to total partners, with a higher value indicating a higher proportion of same-sex partners (14). In the UK Biobank, this is measured directly from participants’ reported number of same-sex and all partners, whereas in 23andMe, we used participants’ raw responses to the item “With whom have you had sex?”, which in individuals reporting same-sex sexual behavior could be “other sex mostly,” “other sex slightly,” “equal,” “same sex slightly,” “same sex mostly,” or “same sex only.” The UK Biobank and 23andMe variables were heritable (table S20A) and genetically correlated with each other (rg = 0.52 and 95% CIs, –0.16 to 1.20 for females; rg = 0.73 and 95% CIs, 0.18 to 1.27 for males) (Fig. 5A and table S20C), so we used MTAG to meta-analyze across the two studies for subsequent analyses.
+We found little evidence for genetic correlation of the proportion of same-sex to total partners among individuals reporting same-sex sexual behavior (nonheterosexuals) with the binary same-sex sexual behavior variable [rg = –0.31 (95% CIs, –0.62 to 0.00) for females and rg = 0.03 (95% CIs, –0.18 to 0.23) for males] (table S20B). Further, this phenotype showed a markedly different pattern of genetic correlations with other traits, as compared with corresponding genetic correlations with the binary same-sex sexual behavior variable (Fig. 5B and table S21). These findings suggest that the same-sex sexual behavior variable and the proportion of same-sex partners among nonheterosexuals capture aspects of sexuality that are distinct on the genetic level, which in turn suggests that there is no single continuum from opposite-sex to same-sex sexual behavior. Interpretations of any one set of results in our study must consider this complexity.
+With this in mind, we examined the possibility of different genetic variants distinguishing heterosexual behavior from differing proportions of same-sex partners within nonheterosexuals. To do so, we performed additional GWASs in the UK Biobank data on the following traits: those whose partners were (i) less than a third same-sex, (ii) between a third and two-thirds same-sex, (iii) more than two-thirds same-sex, and (iv) exclusively same-sex. Genetic correlations of the first three categories with the fourth were 0.13, 0.80, and 0.95 (table S22), indicating partly different genetic variants distinguishing heterosexual behavior from differing proportions of same-sex partners within nonheterosexuals.
+Last, using additional measures from 23andMe, we showed strong genetic correlations (all rg ≥ 0.83) (Fig. 5C and fig. S7) of same-sex sexual behavior with items assessing same-sex attraction, identity, and fantasies (a full list of items is provided in table S5), suggesting that these different aspects of sexual orientation are influenced by largely the same genetic variants. The full set of results of phenotypic and genetic correlations for females, males, and the whole sample is available in fig. S7 and table S5.
+Discussion
+We identified genome-wide significant loci associated with same-sex sexual behavior and found evidence of a broader contribution of common genetic variation. We established that the underlying genetic architecture is highly complex; there is certainly no single genetic determinant (sometimes referred to as the “gay gene” in the media). Rather, many loci with individually small effects, spread across the whole genome and partly overlapping in females and males, additively contribute to individual differences in predisposition to same-sex sexual behavior. All measured common variants together explain only part of the genetic heritability at the population level and do not allow meaningful prediction of an individual’s sexual preference.
+The knowledge that the variants involved are numerous and spread across the genome enabled us to leverage whole-genome analytic techniques to explore human sexual behavior in ways previously impossible. We determined that the genetic effects that differentiate heterosexual from same-sex sexual behavior are not the same as those that differ among nonheterosexuals with lower versus higher proportions of same-sex partners. This finding suggests that on the genetic level, there is no single dimension from opposite-sex to same-sex preference. The existence of such a dimension, in which the more someone is attracted to the same-sex the less they are attracted to the opposite-sex, is the premise of the Kinsey scale (39), a research tool ubiquitously used to measure sexual orientation. Another measure, the Klein Grid (40), retains the same premise but separately measures sexual attraction, behavior, fantasies, and identification (as well as nonsexual preferences); however, we found that these sexual measures are influenced by similar genetic factors. Overall, our findings suggest that the most popular measures are based on a misconception of the underlying structure of sexual orientation and may need to be rethought. In particular, using separate measures of attraction to the opposite sex and attraction to the same sex, such as in the Sell Assessment of Sexual Orientation (41), would remove the assumption that these variables are perfectly inversely related and would enable more nuanced exploration of the full diversity of sexual orientation, including bisexuality and asexuality.
+Although we emphasize the polygenicity of the genetic effects on same-sex sexual behavior, we identified five SNPs whose association with same-sex sexual behavior reached genome-wide significance. Three of these replicated in other independent samples whose measures related to identity and attraction rather than behavior. These SNPs may serve to generate new lines of enquiry. In particular, the finding that one of the replicated SNPs (rs28371400-15q21.3) is linked to male pattern balding and is nearby a gene (TCF12) relevant to sexual differentiation strengthens the idea that sex-hormone regulation may be involved in the development of same-sex sexual behavior. Also, that another replicated SNP (rs34730029-11q12.1) is strongly linked to several genes involved in olfaction raises intriguing questions. Although the underlying mechanism at this locus is unclear, a link between olfaction and reproductive function has previously been established. Individuals with Kallmann syndrome exhibit both delayed or absent pubertal development and an impaired sense of smell because of the close developmental origin of fetal gonadotropin-releasing hormone and olfactory neurons (42).
+Our study focused on the genetic basis of same-sex sexual behavior, but several of our results point to the importance of sociocultural context as well. We observed changes in prevalence of reported same-sex sexual behavior across time, raising questions about how genetic and sociocultural influences on sexual behavior might interact. We also observed partly different genetic influences on same-sex sexual behavior in females and males; this could reflect sex differences in hormonal influences on sexual behavior (for example, importance of testosterone versus estrogen) but could also relate to different sociocultural contexts of female and male same-sex behavior and different demographics of gay, lesbian, and bisexual groups (43). With these points in mind, we acknowledge the limitation that we only studied participants of European ancestry and from a few Western countries; research involving larger and more diverse samples will afford greater insight into how these findings fare across different sociocultural contexts.
+Our findings provide insights into the biological underpinnings of same-sex sexual behavior but also underscore the importance of resisting simplistic conclusions (Box 2)—because the behavioral phenotypes are complex, because our genetic insights are rudimentary, and because there is a long history of misusing genetic results for social purposes.
+Materials and methods summary
+Study samples
+We used data from genotyped individuals from five cohorts (total n = 492,678) who provided self-report information using different questionnaire-based measurement scales. Informed consent was provided from all individuals participating in the studies, which were approved by their local research ethic committee.
+Genetic association analyses
+After standard quality control, we performed GWASs for “same-sex sexual behavior” (defined as ever versus never having had sex with a same-sex partner) in the UK Biobank and 23andMe samples, which we meta-analysed using MTAG (17). We also conducted GWASs separately by sex. Genome-wide significant SNPs were replicated in three independent samples. Also, using LD-pred (24), we derived polygenic score for same-sex sexual behavior according to the meta-analyzed GWAS results and tested the association between this polygenic score and same-sex sexual behavior in three independent samples. To explore diversity among individuals reporting same-sex sexual behavior, we also conducted GWASs in the UK-Biobank and 23andMe samples (meta-analyzed using MTAG) on the “proportion of same-sex to total number of sexual partners among nonheterosexuals.”
+Heritability estimation
+We estimated family-based heritability of same-sex sexual behavior on the basis of known familial relationships in the UK Biobank study. The relatedness between pairs of participants was estimated by using KING (44). Additive genetic effects as well as shared and unshared environmental variance components were estimated on the basis of the covariance between different pairs of relatives. Second, heritability explained by all measured common SNPs (SNP-based heritability) was estimated by using linkage disequilibrium (LD) score regression (45) and transformed to the liability scale (46). Using a similar approach, we also estimated the SNP-based heritability per chromosome and evaluated heritability enrichment across various tissues on the basis of Genotype-Tissue Expression (GTEx) gene-expression results (47).
+In silico follow-up
+The GWAS results for same-sex sexual behavior were followed up with gene-based tests of association in MAGMA (29) and an enrichment analysis of evolutionarily constrained genes by using partitioned LD score regression (45) and MAGMA. We also performed a PheWAS (28) to examine whether the SNPs we identified for same-sex sexual behavior have also been associated with other phenotypes and eQTL mapping (27) to link SNPs with gene expression.
+Genetic correlations and phenotypic heterogeneity
+Using cross-trait LD score regression (16), we estimated the genetic correlations of same-sex sexual behavior and proportion of same-sex to total number of sexual partners among nonheterosexuals with a range of traits, including mental health, personality, and sexually dimorphic traits. To examine heterogeneity of genetic influences, we looked at the genetic correlations between sexes, between cohorts, and between different measures of sexual preference.
+Science communication strategy
+To communicate the results of the study to the broader audience, we engaged with different LGBTQIA+ (lesbian, gay, bisexual, transgender, queer, intersex, asexual, and other+) and science communication organizations and created multimedia materials for a lay audience.
+Detailed materials and methods can be found in the supplementary materials (14).
+Acknowledgments
+We thank N. J. Cox, M. C. Keller, and E. S. Lander for carefully reading and commenting on the manuscript. We thank P. Turley and R. Walters for constructive discussion about MTAG. This research was conducted by using the UK Biobank Resource under application 25995. We thank all cohort participants for making this study possible. Funding: A.R.S. received funding from the Eunice Kennedy Shriver National Institute of Child Health and Human Development specifically to investigate the genetics of sexual orientation: R01HD041563 (A.R.S., principal investigator) and R21HD080410 (A.R.S. and E.R.M., multiple principal investigators). E.R.M., G.W.B., and S.G. are also supported by R21HD080410. No other member of the group received funding specifically for this study, but members of our team received salary funding from organizations as well as our own universities. B.P.Z. received funding from The Australian Research Council (FT160100298). A.G. was supported by the Knut and Alice Wallenberg Foundation (2015.0327) and the Swedish Research Council (2016-00250). A.G., R.M., and B.M.N. were supported by National Institutes of Health (NIH) grant 1R01MH107649-03 (to B.M.N.). R.W. was supported by the National Science Foundation’s Graduate Research Fellowship Program (DGE 1144083). Any opinion, findings, conclusions, or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the National Science Foundation. M.G.N. is supported by ZonMw grants 849200011 and 531003014 from the Netherlands Organisation for Health Research and Development. This research used data from Add Health, a program project directed by K.M.H. (principal investigator) and designed by J. R. Udry, P. S. Bearman, and K.M.H. at the University of North Carolina at Chapel Hill, and funded by grant P01-HD031921 from the Eunice Kennedy Shriver National Institute of Child Health and Human Development, with cooperative funding from 23 other federal agencies and foundations. Information on how to obtain the Add Health data files is available on the Add Health website (www.cpc.unc.edu/addhealth). This research used Add Health GWAS data funded by Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD) grants R01 HD073342 to K.M.H. (principal investigator) and R01 HD060726 to K.M.H., J. D. Boardman, and M. B. McQueen (multiple principal investigators). The genetic part of the CATSS study was supported by grant 2014-0834 from the Swedish Council for Working Life and Social Research. We thank the research participants of 23andMe and the other contributing cohorts for making this study possible. Collaborators for the 23andMe Research Team are M. Agee, B. Alipanahi, A. Auton, R. K. Bell, K. Bryc, S. L. Elson, P. Fontanillas, N. A. Furlotte, B. Hicks, K. E. Huber, E. M. Jewett, Y. Jiang, A. Kleinman, K.-H. Lin, N. K. Litterman, J. C. McCreight, M. H. McIntyre, K. F. McManus, J. L. Mountain, E. S. Noblin, C. A. M. Northover, S. J. Pitts, G. D. Poznik, A. J. Shastri, J. F. Shelton, S. Shringarpure, C. Tian, J. Y. Tung, V. Vacic, X. Wang, and C. H. Wilson. Author contributions: A.G., K.J.H.V., M.G.N., J.R.B.P., B.M.N., and B.P.Z. were responsible for the study concept and the design of the study. A.G. was the main analyst, performed the majority of analyses, and created most of the figures and tables. J.F.S., 23andMe Research Team, and A.Au. contributed to data acquisition and analysis of the 23andMe dataset. R.W. and K.M.H. contributed to data acquisition and analysis of the Add Health data. S.G., G.W.B., E.R.M., and A.R.S. contributed to data acquisition and analysis of the MGSOSO data. A.G., P.L., S.L., and N.L. contributed to data acquisition and analysis of the CATSS data. K.J.H.V., M.G.N., R.M., R.W., A.S.B., A.Ab., S.G., J.F.S., G.W.B., E.R.M. contributed to secondary analyses of the data. B.P.Z. wrote most of the manuscript; A.G., K.J.H.V., M.G.N., R.W., J.R.B.P., and B.M.N. contributed substantially to the writing of the manuscript. K.J.H.V. was in charge of writing the supplementary material. A.G., M.G.N., R.M., R.W., A.S.B., E.R.M., A.R.S., and B.P.Z. provided important input for the supplementary materials. A.G., K.J.H.V., R.W., A.R.S., B.M.N., and B.P.Z. contributed to engaging in community-based outreach with alliance and advocacy groups. All authors provided critical revision of the manuscript for important intellectual content. Competing interests: J.F.S., A.Au., and members of the 23andMe Research Team are employees of 23andMe and hold stock or stock options in 23andMe. B.M.N. is a member of the scientific advisory board at Deep Genomics and a paid consultant for Camp4 Therapeutics Corporation, Takeda Pharmaceutical, and Biogen. Data and materials availability: The code is available through GitHub (https://github.com/andgan/sexual_orientation_GWAS), archived at Zenodo (48), and the GWAS summary statistics of the UK Biobank sample (and the top 10,000 independent SNPs from the meta-analysis including 23andMe data) are available at GWAS Catalog (www.ebi.ac.uk/gwas/downloads/summary-statistics). Access to the full summary statistics of the 23andMe sample (for all SNPs) can be obtained by qualified researchers through a data transfer agreement with 23andMe that protects the privacy of the 23andMe participants. Researchers interested in the full meta-analysis summary statistics containing 23andMe data must also apply to 23andMe. Please visit (https://research.23andme.com/dataset-access) for more information and to apply to access the data. Access to individual level data from the UK Biobank can be obtained by bona fide scientists through application with UK Biobank (www.ukbiobank.ac.uk/researchers). Summary statistics from the Neale Lab database used for the pheWAS are available at GWAS Catalog (www.ebi.ac.uk/gwas/downloads/summary-statistics).
+References and Notes
+1
+ACSF investigators, AIDS and sexual behaviour in France. ACSF investigators. Nature 360, 407–409 (1992).
+
+
+
+
+
+2
+M. Melbye, R. J. Biggar, Interactions between persons at risk for AIDS and the general population in Denmark. Am. J. Epidemiol. 135, 593–602 (1992).
+
+
+
+
+3
+S. W. Semenyna, D. P. VanderLaan, L. J. Petterson, P. L. Vasey, Familial patterning and prevalence of male androphilia in Samoa. J. Sex Res. 54, 1077–1084 (2017).
+
+
+
+
+4
+J. M. Bailey, P. L. Vasey, L. M. Diamond, S. M. Breedlove, E. Vilain, M. Epprecht, Sexual orientation, controversy, and science. Psychol. Sci. Public Interest 17, 45–101 (2016).
+
+
+
+
+5
+D. Scasta, P. Bialer, American Psychiatric Association, Position statement on issues related to homosexuality (American Psychiatric Association, 2013); www.psychiatry.org/psychiatrists/search-directories-databases/policy-finder (accessed on 26 February 2019).
+
+
+6
+R. C. Pillard, J. M. Bailey, Human sexual orientation has a heritable component. Hum. Biol. 70, 347–365 (1998).
+
+
+
+
+7
+N. Långström, Q. Rahman, E. Carlström, P. Lichtenstein, Genetic and environmental effects on same-sex sexual behavior: A population study of twins in Sweden. Arch. Sex. Behav. 39, 75–80 (2010).
+
+
+
+
+8
+D. H. Hamer, S. Hu, V. L. Magnuson, N. Hu, A. M. Pattatucci, A linkage between DNA markers on the X chromosome and male sexual orientation. Science 261, 321–327 (1993).
+
+
+
+
+9
+G. Rice, C. Anderson, N. Risch, G. Ebers, Male homosexuality: Absence of linkage to microsatellite markers at Xq28. Science 284, 665–667 (1999).
+
+
+
+
+10
+A. R. Sanders, G. W. Beecham, S. Guo, K. Dawood, G. Rieger, J. A. Badner, E. S. Gershon, R. S. Krishnappa, A. B. Kolundzija, J. Duan, P. V. Gejman, J. M. Bailey, E. R. Martin, MGS Collaboration, Genome-wide association study of male sexual orientation. Sci. Rep. 7, 16950 (2017).
+
+
+
+
+11
+R. A. Lippa, Sex differences and sexual orientation differences in personality: Findings from the BBC Internet survey. Arch. Sex. Behav. 37, 173–187 (2008).
+
+
+
+
+
+12
+Y. Wang, M. Kosinski, Deep neural networks are more accurate than humans at detecting sexual orientation from facial images. J. Pers. Soc. Psychol. 114, 246–257 (2018).
+
+
+
+
+13
+J. M. Bailey, M. P. Dunne, N. G. Martin, Genetic and environmental influences on sexual orientation and its correlates in an Australian twin sample. J. Pers. Soc. Psychol. 78, 524–536 (2000).
+
+
+
+
+
+14
+Materials and methods are available as supplementary materials.
+15
+A. L. Norris, D. K. Marcus, B. A. Green, Homosexuality as a discrete class. Psychol. Sci. 26, 1843–1853 (2015).
+
+
+
+
+16
+B. Bulik-Sullivan, H. K. Finucane, V. Anttila, A. Gusev, F. R. Day, P.-R. Loh, L. Duncan, J. R. B. Perry, N. Patterson, E. B. Robinson, M. J. Daly, A. L. Price, B. M. Neale, ReproGen Consortium; Psychiatric Genomics Consortium, Genetic Consortium for Anorexia Nervosa of the Wellcome Trust Case Control Consortium 3, An atlas of genetic correlations across human diseases and traits. Nat. Genet. 47, 1236–1241 (2015).
+
+
+
+
+17
+P. Turley, R. K. Walters, O. Maghzian, A. Okbay, J. J. Lee, M. A. Fontana, T. A. Nguyen-Viet, R. Wedow, M. Zacher, N. A. Furlotte, P. Magnusson, S. Oskarsson, M. Johannesson, P. M. Visscher, D. Laibson, D. Cesarini, B. M. Neale, D. J. Benjamin, 23andMe Research Team, Social Science Genetic Association Consortium, Multi-trait analysis of genome-wide association summary statistics using MTAG. Nat. Genet. 50, 229–237 (2018).
+
+
+
+
+18
+K. Rawlik, O. Canela-Xandri, A. Tenesa, Evidence for sex-specific genetic architectures across a spectrum of human complex traits. Genome Biol. 17, 166 (2016).
+
+
+
+
+
+19
+A. Okbay, et al., Genome-wide association study identifies 74 loci associated with educational attainment. Nature 533, 539–542 (2016).
+
+
+
+
+20
+J. Martin, et al., A Genetic investigation of sex bias in the prevalence of attention-deficit/hyperactivity disorder. Biol. Psychiatry 83, 1044–1053 (2018).
+
+
+
+
+21
+R. Karlsson Linnér, P. Biroli, E. Kong, S. F. W. Meddens, R. Wedow, M. A. Fontana, M. Lebreton, S. P. Tino, A. Abdellaoui, A. R. Hammerschlag, M. G. Nivard, A. Okbay, C. A. Rietveld, P. N. Timshel, M. Trzaskowski, R. Vlaming, C. L. Zünd, Y. Bao, L. Buzdugan, A. H. Caplin, C.-Y. Chen, P. Eibich, P. Fontanillas, J. R. Gonzalez, P. K. Joshi, V. Karhunen, A. Kleinman, R. Z. Levin, C. M. Lill, G. A. Meddens, G. Muntané, S. Sanchez-Roige, F. J. V. Rooij, E. Taskesen, Y. Wu, F. Zhang, A. Auton, J. D. Boardman, D. W. Clark, A. Conlin, C. C. Dolan, U. Fischbacher, P. J. F. Groenen, K. M. Harris, G. Hasler, A. Hofman, M. A. Ikram, S. Jain, R. Karlsson, R. C. Kessler, M. Kooyman, J. MacKillop, M. Männikkö, C. Morcillo-Suarez, M. B. McQueen, K. M. Schmidt, M. C. Smart, M. Sutter, A. R. Thurik, A. G. Uitterlinden, J. White, H. Wit, J. Yang, L. Bertram, D. I. Boomsma, T. Esko, E. Fehr, D. A. Hinds, M. Johannesson, M. Kumari, D. Laibson, P. K. E. Magnusson, M. N. Meyer, A. Navarro, A. A. Palmer, T. H. Pers, D. Posthuma, D. Schunk, M. B. Stein, R. Svento, H. Tiemeier, P. R. H. J. Timmers, P. Turley, R. J. Ursano, G. G. Wagner, J. F. Wilson, J. Gratten, J. J. Lee, D. Cesarini, D. J. Benjamin, P. D. Koellinger, J. P. Beauchamp, 23and Me Research Team, eQTLgen Consortium, International Cannabis Consortium, Social Science Genetic Association Consortium, Genome-wide association analyses of risk tolerance and risky behaviors in over 1 million individuals identify hundreds of loci and shared genetic influences. Nat. Genet. 51, 245–257 (2019).
+
+
+
+
+
+22
+M. E. Goddard, K. E. Kemper, I. M. MacLeod, A. J. Chamberlain, B. J. Hayes, Genetics of complex traits: Prediction of phenotype, identification of causal polymorphisms and genetic architecture. Proc. Biol. Sci. 283, 20160569 (2016).
+
+
+
+
+
+23
+A. R. Sanders, E. R. Martin, G. W. Beecham, S. Guo, K. Dawood, G. Rieger, J. A. Badner, E. S. Gershon, R. S. Krishnappa, A. B. Kolundzija, J. Duan, P. V. Gejman, J. M. Bailey, Genome-wide scan demonstrates significant linkage for male sexual orientation. Psychol. Med. 45, 1379–1388 (2015).
+
+
+
+
+
+24
+B. J. Vilhjálmsson, J. Yang, H. K. Finucane, A. Gusev, S. Lindström, S. Ripke, G. Genovese, P. R. Loh, G. Bhatia, R. Do, T. Hayeck, H. H. Won, S. Kathiresan, M. Pato, C. Pato, R. Tamimi, E. Stahl, N. Zaitlen, B. Pasaniuc, G. Belbin, E. E. Kenny, M. H. Schierup, P. De Jager, N. A. Patsopoulos, S. McCarroll, M. Daly, S. Purcell, D. Chasman, B. Neale, M. Goddard, P. M. Visscher, P. Kraft, N. Patterson, A. L. Price, Schizophrenia Working Group of the Psychiatric Genomics Consortium, Discovery, biology, and risk of inherited variants in breast cancer (DRIVE) study, modeling linkage disequilibrium increases accuracy of polygenic risk scores. Am. J. Hum. Genet. 97, 576–592 (2015).
+
+
+
+
+25
+H. K. Finucane, B. Bulik-Sullivan, A. Gusev, G. Trynka, Y. Reshef, P.-R. Loh, V. Anttila, H. Xu, C. Zang, K. Farh, S. Ripke, F. R. Day, S. Purcell, E. Stahl, S. Lindstrom, J. R. B. Perry, Y. Okada, S. Raychaudhuri, M. J. Daly, N. Patterson, B. M. Neale, A. L. Price, ReproGen Consortium, Schizophrenia Working Group of the Psychiatric Genomics Consortium, RACI Consortium, Partitioning heritability by functional annotation using genome-wide association summary statistics. Nat. Genet. 47, 1228–1235 (2015).
+
+
+
+
+
+26
+M. Lek, K. J. Karczewski, E. V. Minikel, K. E. Samocha, E. Banks, T. Fennell, A. H. O’Donnell-Luria, J. S. Ware, A. J. Hill, B. B. Cummings, T. Tukiainen, D. P. Birnbaum, J. A. Kosmicki, L. E. Duncan, K. Estrada, F. Zhao, J. Zou, E. Pierce-Hoffman, J. Berghout, D. N. Cooper, N. Deflaux, M. DePristo, R. Do, J. Flannick, M. Fromer, L. Gauthier, J. Goldstein, N. Gupta, D. Howrigan, A. Kiezun, M. I. Kurki, A. L. Moonshine, P. Natarajan, L. Orozco, G. M. Peloso, R. Poplin, M. A. Rivas, V. Ruano-Rubio, S. A. Rose, D. M. Ruderfer, K. Shakir, P. D. Stenson, C. Stevens, B. P. Thomas, G. Tiao, M. T. Tusie-Luna, B. Weisburd, H.-H. Won, D. Yu, D. M. Altshuler, D. Ardissino, M. Boehnke, J. Danesh, S. Donnelly, R. Elosua, J. C. Florez, S. B. Gabriel, G. Getz, S. J. Glatt, C. M. Hultman, S. Kathiresan, M. Laakso, S. McCarroll, M. I. McCarthy, D. McGovern, R. McPherson, B. M. Neale, A. Palotie, S. M. Purcell, D. Saleheen, J. M. Scharf, P. Sklar, P. F. Sullivan, J. Tuomilehto, M. T. Tsuang, H. C. Watkins, J. G. Wilson, M. J. Daly, D. G. MacArthur, Exome Aggregation Consortium, Analysis of protein-coding genetic variation in 60,706 humans. Nature 536, 285–291 (2016).
+
+
+
+
+
+27
+A. Gusev, A. Ko, H. Shi, G. Bhatia, W. Chung, B. W. J. H. Penninx, R. Jansen, E. J. C. de Geus, D. I. Boomsma, F. A. Wright, P. F. Sullivan, E. Nikkola, M. Alvarez, M. Civelek, A. J. Lusis, T. Lehtimäki, E. Raitoharju, M. Kähönen, I. Seppälä, O. T. Raitakari, J. Kuusisto, M. Laakso, A. L. Price, P. Pajukanta, B. Pasaniuc, Integrative approaches for large-scale transcriptome-wide association studies. Nat. Genet. 48, 245–252 (2016).
+
+
+
+
+28
+J. C. Denny, M. D. Ritchie, M. A. Basford, J. M. Pulley, L. Bastarache, K. Brown-Gentry, D. Wang, D. R. Masys, D. M. Roden, D. C. Crawford, PheWAS: Demonstrating the feasibility of a phenome-wide scan to discover gene-disease associations. Bioinformatics 26, 1205–1210 (2010).
+
+
+
+
+29
+C. A. de Leeuw, J. M. Mooij, T. Heskes, D. Posthuma, MAGMA: Generalized gene-set analysis of GWAS data. PLOS Comput. Biol. 11, e1004219 (2015).
+
+
+
+
+30
+S. R. Jaeger, J. F. McRae, C. M. Bava, M. K. Beresford, D. Hunter, Y. Jia, S. L. Chheang, D. Jin, M. Peng, J. C. Gamble, K. R. Atkinson, L. G. Axten, A. G. Paisley, L. Tooman, B. Pineau, S. A. Rouse, R. D. Newcomb, A Mendelian trait for olfactory sensitivity affects odor experience and food selection. Curr. Biol. 23, 1601–1605 (2013).
+
+
+
+
+
+31
+H. Kische, A. Arnold, S. Gross, H. Wallaschofski, H. Völzke, M. Nauck, R. Haring, Sex hormones and hair loss in men from the general population of northeastern Germany. JAMA Dermatol. 153, 935–937 (2017).
+
+
+
+
+
+32
+S. Cui, A. Ross, N. Stallings, K. L. Parker, B. Capel, S. E. Quaggin, Disrupted gonadogenesis and male-to-female sex reversal in Pod1 knockout mice. Development 131, 4095–4105 (2004).
+
+
+
+
+
+33
+R. K. Bhandari, I. Sadler-Riggleman, T. M. Clement, M. K. Skinner, Basic helix-loop-helix transcription factor TCF21 is a downstream target of the male sex determining gene SRY. PLOS ONE 6, e19935 (2011).
+
+
+
+
+
+34
+P. F. Sullivan, M. J. Daly, M. O’Donovan, Genetic architectures of psychiatric disorders: The emerging picture and its implications. Nat. Rev. Genet. 13, 537–551 (2012).
+
+
+
+
+
+35
+T. G. M. Sandfort, R. de Graaf, R. V. Bijl, P. Schnabel, Same-sex sexual behavior and psychiatric disorders: Findings from the Netherlands Mental Health Survey and Incidence Study (NEMESIS). Arch. Gen. Psychiatry 58, 85–91 (2001).
+
+
+
+
+
+36
+J. Semlyen, M. King, J. Varney, G. Hagger-Johnson, Sexual orientation and symptoms of common mental disorder or low wellbeing: Combined meta-analysis of 12 UK population health surveys. BMC Psychiatry 16, 67 (2016).
+
+
+
+
+
+37
+A. D. Coviello, R. Haring, M. Wellons, D. Vaidya, T. Lehtimäki, S. Keildson, K. L. Lunetta, C. He, M. Fornage, V. Lagou, M. Mangino, N. C. Onland-Moret, B. Chen, J. Eriksson, M. Garcia, Y. M. Liu, A. Koster, K. Lohman, L.-P. Lyytikäinen, A.-K. Petersen, J. Prescott, L. Stolk, L. Vandenput, A. R. Wood, W. V. Zhuang, A. Ruokonen, A.-L. Hartikainen, A. Pouta, S. Bandinelli, R. Biffar, G. Brabant, D. G. Cox, Y. Chen, S. Cummings, L. Ferrucci, M. J. Gunter, S. E. Hankinson, H. Martikainen, A. Hofman, G. Homuth, T. Illig, J.-O. Jansson, A. D. Johnson, D. Karasik, M. Karlsson, J. Kettunen, D. P. Kiel, P. Kraft, J. Liu, Ö. Ljunggren, M. Lorentzon, M. Maggio, M. R. P. Markus, D. Mellström, I. Miljkovic, D. Mirel, S. Nelson, L. Morin Papunen, P. H. M. Peeters, I. Prokopenko, L. Raffel, M. Reincke, A. P. Reiner, K. Rexrode, F. Rivadeneira, S. M. Schwartz, D. Siscovick, N. Soranzo, D. Stöckl, S. Tworoger, A. G. Uitterlinden, C. H. van Gils, R. S. Vasan, H.-E. Wichmann, G. Zhai, S. Bhasin, M. Bidlingmaier, S. J. Chanock, I. De Vivo, T. B. Harris, D. J. Hunter, M. Kähönen, S. Liu, P. Ouyang, T. D. Spector, Y. T. van der Schouw, J. Viikari, H. Wallaschofski, M. I. McCarthy, T. M. Frayling, A. Murray, S. Franks, M.-R. Järvelin, F. H. de Jong, O. Raitakari, A. Teumer, C. Ohlsson, J. M. Murabito, J. R. B. Perry, A genome-wide association meta-analysis of circulating sex hormone-binding globulin reveals multiple Loci implicated in sex steroid hormone regulation. PLOS Genet. 8, e1002805 (2012).
+
+
+
+
+
+38
+C. W. Burke, D. C. Anderson, Sex-hormone-binding globulin is an oestrogen amplifier. Nature 240, 38–40 (1972).
+
+
+
+
+
+39
+A. C. Kinsey, W. B. Pomeroy, C. E. Martin, Sexual Behavior in the Human Male (W.B. Saunders, 1948).
+
+
+40
+F. Klein, The Bisexual Option (Routledge, ed. 2, 1993).
+
+
+41
+R. L. Sell, Defining and measuring sexual orientation: A review. Arch. Sex. Behav. 26, 643–658 (1997).
+
+
+
+
+
+42
+H. Valdes-Socin, M. Rubio Almanza, M. Tomé Fernández-Ladreda, F. G. Debray, V. Bours, A. Beckers, Reproduction, smell, and neurodevelopmental disorders: Genetic defects in different hypogonadotropic hypogonadal syndromes. Front. Endocrinol. 5, 109 (2014).
+
+
+
+
+
+43
+G. M. Herek, A. T. Norton, T. J. Allen, C. L. Sims, Demographic, Psychological, and Social Characteristics of Self-Identified Lesbian, Gay, and Bisexual Adults in a US Probability Sample. Sex. Res. Social Policy 7, 176–200 (2010).
+
+
+
+
+44
+A. Manichaikul, J. C. Mychaleckyj, S. S. Rich, K. Daly, M. Sale, W.-M. Chen, Robust relationship inference in genome-wide association studies. Bioinformatics 26, 2867–2873 (2010).
+
+
+
+
+
+45
+B. K. Bulik-Sullivan, P. R. Loh, H. K. Finucane, S. Ripke, J. Yang, N. Patterson, M. J. Daly, A. L. Price, B. M. Neale, Schizophrenia Working Group of the Psychiatric Genomics Consortium, LD Score regression distinguishes confounding from polygenicity in genome-wide association studies. Nat. Genet. 47, 291–295 (2015).
+
+
+
+
+46
+S. H. Lee, N. R. Wray, M. E. Goddard, P. M. Visscher, Estimating missing heritability for disease from genome-wide association studies. Am. J. Hum. Genet. 88, 294–305 (2011).
+
+
+
+
+
+47
+J. Lonsdale, J. Thomas, M. Salvatore, R. Phillips, E. Lo, S. Shad, R. Hasz, G. Walters, F. Garcia, N. Young, B. Foster, M. Moser, E. Karasik, B. Gillard, K. Ramsey, S. Sullivan, J. Bridge, H. Magazine, J. Syron, J. Fleming, L. Siminoff, H. Traino, M. Mosavel, L. Barker, S. Jewell, D. Rohrer, D. Maxim, D. Filkins, P. Harbach, E. Cortadillo, B. Berghuis, L. Turner, E. Hudson, K. Feenstra, L. Sobin, J. Robb, P. Branton, G. Korzeniewski, C. Shive, D. Tabor, L. Qi, K. Groch, S. Nampally, S. Buia, A. Zimmerman, A. Smith, R. Burges, K. Robinson, K. Valentino, D. Bradbury, M. Cosentino, N. Diaz-Mayoral, M. Kennedy, T. Engel, P. Williams, K. Erickson, K. Ardlie, W. Winckler, G. Getz, D. DeLuca, D. MacArthur, M. Kellis, A. Thomson, T. Young, E. Gelfand, M. Donovan, Y. Meng, G. Grant, D. Mash, Y. Marcus, M. Basile, J. Liu, J. Zhu, Z. Tu, N. J. Cox, D. L. Nicolae, E. R. Gamazon, H. K. Im, A. Konkashbaev, J. Pritchard, M. Stevens, T. Flutre, X. Wen, E. T. Dermitzakis, T. Lappalainen, R. Guigo, J. Monlong, M. Sammeth, D. Koller, A. Battle, S. Mostafavi, M. McCarthy, M. Rivas, J. Maller, I. Rusyn, A. Nobel, F. Wright, A. Shabalin, M. Feolo, N. Sharopova, A. Sturcke, J. Paschal, J. M. Anderson, E. L. Wilder, L. K. Derr, E. D. Green, J. P. Struewing, G. Temple, S. Volpi, J. T. Boyer, E. J. Thomson, M. S. Guyer, C. Ng, A. Abdallah, D. Colantuoni, T. R. Insel, S. E. Koester, A. R. Little, P. K. Bender, T. Lehner, Y. Yao, C. C. Compton, J. B. Vaught, S. Sawyer, N. C. Lockhart, J. Demchok, H. F. Moore, The Genotype-Tissue Expression (GTEx) project. Nat. Genet. 45, 580–585 (2013).
+
+
+
+
+
+48
+A. Ganna, andgan/sexual_orientation_GWAS v1.0. Zenodo (2019); doi:10.5281/zenodo.3232892
+49
+C. Bycroft, C. Freeman, D. Petkova, G. Band, L. T. Elliott, K. Sharp, A. Motyer, D. Vukcevic, O. Delaneau, J. O’Connell, A. Cortes, S. Welsh, A. Young, M. Effingham, G. McVean, S. Leslie, N. Allen, P. Donnelly, J. Marchini, The UK Biobank resource with deep phenotyping and genomic data. Nature 562, 203–209 (2018).
+
+
+
+
+
+50
+K. M. Harris, C. Tucker Halpern, E. A. Whitsel, J. M. Hussey, L. A. Killeya-Jones, J. Tabor, S. C. Dean, Cohort Profile: The National Longitudinal Study of Adolescent to Adult Health (Add Health). Int. J. Epidemiol. 10.1093/ije/dyz115 (2019).
+
+
+
+51
+M. B. McQueen, J. D. Boardman, B. W. Domingue, A. Smolen, J. Tabor, L. Killeya-Jones, C. T. Halpern, E. A. Whitsel, K. M. Harris, The National Longitudinal Study of Adolescent to Adult Health (Add Health) sibling pairs genome-wide data. Behav. Genet. 45, 12–23 (2015).
+
+
+
+
+52
+S. McCarthy, S. Das, W. Kretzschmar, O. Delaneau, A. R. Wood, A. Teumer, H. M. Kang, C. Fuchsberger, P. Danecek, K. Sharp, Y. Luo, C. Sidore, A. Kwong, N. Timpson, S. Koskinen, S. Vrieze, L. J. Scott, H. Zhang, A. Mahajan, J. Veldink, U. Peters, C. Pato, C. M. van Duijn, C. E. Gillies, I. Gandin, M. Mezzavilla, A. Gilly, M. Cocca, M. Traglia, A. Angius, J. C. Barrett, D. Boomsma, K. Branham, G. Breen, C. M. Brummett, F. Busonero, H. Campbell, A. Chan, S. Chen, E. Chew, F. S. Collins, L. J. Corbin, G. D. Smith, G. Dedoussis, M. Dorr, A. E. Farmaki, L. Ferrucci, L. Forer, R. M. Fraser, S. Gabriel, S. Levy, L. Groop, T. Harrison, A. Hattersley, O. L. Holmen, K. Hveem, M. Kretzler, J. C. Lee, M. McGue, T. Meitinger, D. Melzer, J. L. Min, K. L. Mohlke, J. B. Vincent, M. Nauck, D. Nickerson, A. Palotie, M. Pato, N. Pirastu, M. McInnis, J. B. Richards, C. Sala, V. Salomaa, D. Schlessinger, S. Schoenherr, P. E. Slagboom, K. Small, T. Spector, D. Stambolian, M. Tuke, J. Tuomilehto, L. H. Van den Berg, W. Van Rheenen, U. Volker, C. Wijmenga, D. Toniolo, E. Zeggini, P. Gasparini, M. G. Sampson, J. F. Wilson, T. Frayling, P. I. de Bakker, M. A. Swertz, S. McCarroll, C. Kooperberg, A. Dekker, D. Altshuler, C. Willer, W. Iacono, S. Ripatti, N. Soranzo, K. Walter, A. Swaroop, F. Cucca, C. A. Anderson, R. M. Myers, M. Boehnke, M. I. McCarthy, R. Durbin, Haplotype Reference Consortium, A reference panel of 64,976 haplotypes for genotype imputation. Nat. Genet. 48, 1279–1283 (2016).
+
+
+
+
+53
+S. Das, L. Forer, S. Schönherr, C. Sidore, A. E. Locke, A. Kwong, S. I. Vrieze, E. Y. Chew, S. Levy, M. McGue, D. Schlessinger, D. Stambolian, P.-R. Loh, W. G. Iacono, A. Swaroop, L. J. Scott, F. Cucca, F. Kronenberg, M. Boehnke, G. R. Abecasis, C. Fuchsberger, Next-generation genotype imputation service and methods. Nat. Genet. 48, 1284–1287 (2016).
+
+
+
+
+54
+A. R. Sanders, D. F. Levinson, J. Duan, J. M. Dennis, R. Li, K. S. Kendler, J. P. Rice, J. Shi, B. J. Mowry, F. Amin, J. M. Silverman, N. G. Buccola, W. F. Byerley, D. W. Black, R. Freedman, C. R. Cloninger, P. V. Gejman, The Internet-based MGS2 control sample: Self report of mental illness. Am. J. Psychiatry 167, 854–865 (2010).
+
+
+
+
+55
+J. Shi, D. F. Levinson, J. Duan, A. R. Sanders, Y. Zheng, I. Pe’er, F. Dudbridge, P. A. Holmans, A. S. Whittemore, B. J. Mowry, A. Olincy, F. Amin, C. R. Cloninger, J. M. Silverman, N. G. Buccola, W. F. Byerley, D. W. Black, R. R. Crowe, J. R. Oksenberg, D. B. Mirel, K. S. Kendler, R. Freedman, P. V. Gejman, Common variants on chromosome 6p22.1 are associated with schizophrenia. Nature 460, 753–757 (2009).
+
+
+
+
+56
+G. R. Abecasis, D. Altshuler, A. Auton, L. D. Brooks, R. M. Durbin, R. A. Gibbs, M. E. Hurles, G. A. McVean, 1000 Genomes Project Consortium, A map of human genome variation from population-scale sequencing. Nature 467, 1061–1073 (2010).
+
+
+
+
+57
+B. N. Howie, P. Donnelly, J. Marchini, A flexible and accurate genotype imputation method for the next generation of genome-wide association studies. PLOS Genet. 5, e1000529 (2009).
+
+
+
+
+58
+P. R. Loh, G. Tucker, B. K. Bulik-Sullivan, B. J. Vilhjálmsson, H. K. Finucane, R. M. Salem, D. I. Chasman, P. M. Ridker, B. M. Neale, B. Berger, N. Patterson, A. L. Price, Efficient Bayesian mixed-model analysis increases association power in large cohorts. Nat. Genet. 47, 284–290 (2015).
+
+
+
+
+59
+K. Watanabe, E. Taskesen, A. van Bochoven, D. Posthuma, Functional mapping and annotation of genetic associations with FUMA. Nat. Commun. 8, 1826 (2017).
+
+
+
+60
+L. R. Lloyd-Jones, M. R. Robinson, J. Yang, P. M. Visscher, Transformation of summary statistics from linear mixed model association on all-or-none traits to odds ratio, transformation of summary statistics from linear mixed model association on all-or-none traits to odds ratio. Genetics 208, 1397–1408 (2018).
+
+
+
+
+61
+X. Zhan, Y. Hu, B. Li, G. R. Abecasis, D. J. Liu, RVTESTS: An efficient and comprehensive tool for rare variant association analysis using sequence data. Bioinformatics 32, 1423–1426 (2016).
+
+
+
+
+62
+M. H. Chen, Q. Yang, GWAF: An R package for genome-wide association analyses with family data. Bioinformatics 26, 580–581 (2010).
+
+
+
+
+63
+K. E. Samocha, E. B. Robinson, S. J. Sanders, C. Stevens, A. Sabo, L. M. McGrath, J. A. Kosmicki, K. Rehnström, S. Mallick, A. Kirby, D. P. Wall, D. G. MacArthur, S. B. Gabriel, M. DePristo, S. M. Purcell, A. Palotie, E. Boerwinkle, J. D. Buxbaum, E. H. Cook Jr., R. A. Gibbs, G. D. Schellenberg, J. S. Sutcliffe, B. Devlin, K. Roeder, B. M. Neale, M. J. Daly, A framework for the interpretation of de novo mutation in human disease. Nat. Genet. 46, 944–950 (2014).
+
+
+
+
+64
+A. Ganna, F. K. Satterstrom, S. M. Zekavat, I. Das, M. I. Kurki, C. Churchhouse, J. Alfoldi, A. R. Martin, A. S. Havulinna, A. Byrnes, W. K. Thompson, P. R. Nielsen, K. J. Karczewski, E. Saarentaus, M. A. Rivas, N. Gupta, O. Pietiläinen, C. A. Emdin, F. Lescai, J. Bybjerg-Grauholm, J. Flannick, J. M. Mercader, M. Udler, M. Laakso, V. Salomaa, C. Hultman, S. Ripatti, E. Hämäläinen, J. S. Moilanen, J. Körkkö, O. Kuismin, M. Nordentoft, D. M. Hougaard, O. Mors, T. Werge, P. B. Mortensen, D. MacArthur, M. J. Daly, P. F. Sullivan, A. E. Locke, A. Palotie, A. D. Børglum, S. Kathiresan, B. M. Neale, GoT2D/T2D-GENES Consortium, SIGMA Consortium Helmsley IBD Exome Sequencing Project, FinMetSeq Consortium, iPSYCH-Broad Consortium, Quantifying the impact of rare and ultra-rare coding variation across the phenotypic spectrum. Am. J. Hum. Genet. 102, 1204–1211 (2018).
+
+
+
+
+65
+A. F. Pardiñas, P. Holmans, A. J. Pocklington, V. Escott-Price, S. Ripke, N. Carrera, S. E. Legge, S. Bishop, D. Cameron, M. L. Hamshere, J. Han, L. Hubbard, A. Lynham, K. Mantripragada, E. Rees, J. H. MacCabe, S. A. McCarroll, B. T. Baune, G. Breen, E. M. Byrne, U. Dannlowski, T. C. Eley, C. Hayward, N. G. Martin, A. M. McIntosh, R. Plomin, D. J. Porteous, N. R. Wray, A. Caballero, D. H. Geschwind, L. M. Huckins, D. M. Ruderfer, E. Santiago, P. Sklar, E. A. Stahl, H. Won, E. Agerbo, T. D. Als, O. A. Andreassen, M. Bækvad-Hansen, P. B. Mortensen, C. B. Pedersen, A. D. Børglum, J. Bybjerg-Grauholm, S. Djurovic, N. Durmishi, M. G. Pedersen, V. Golimbet, J. Grove, D. M. Hougaard, M. Mattheisen, E. Molden, O. Mors, M. Nordentoft, M. Pejovic-Milovancevic, E. Sigurdsson, T. Silagadze, C. S. Hansen, K. Stefansson, H. Stefansson, S. Steinberg, S. Tosato, T. Werge, D. A. Collier, D. Rujescu, G. Kirov, M. J. Owen, M. C. O’Donovan, J. T. R. Walters, GERAD1 Consortium, CRESTAR Consortium, Common schizophrenia alleles are enriched in mutation-intolerant genes and in regions under strong background selection. Nat. Genet. 50, 381–389 (2018).
+
+
+
+
+66
+D. Demontis, R. K. Walters, J. Martin, M. Mattheisen, T. D. Als, E. Agerbo, G. Baldursson, R. Belliveau, J. Bybjerg-Grauholm, M. Bækvad-Hansen, F. Cerrato, K. Chambert, C. Churchhouse, A. Dumont, N. Eriksson, M. Gandal, J. I. Goldstein, K. L. Grasby, J. Grove, O. O. Gudmundsson, C. S. Hansen, M. E. Hauberg, M. V. Hollegaard, D. P. Howrigan, H. Huang, J. B. Maller, A. R. Martin, N. G. Martin, J. Moran, J. Pallesen, D. S. Palmer, C. B. Pedersen, M. G. Pedersen, T. Poterba, J. B. Poulsen, S. Ripke, E. B. Robinson, F. K. Satterstrom, H. Stefansson, C. Stevens, P. Turley, G. B. Walters, H. Won, M. J. Wright, O. A. Andreassen, P. Asherson, C. L. Burton, D. I. Boomsma, B. Cormand, S. Dalsgaard, B. Franke, J. Gelernter, D. Geschwind, H. Hakonarson, J. Haavik, H. R. Kranzler, J. Kuntsi, K. Langley, K.-P. Lesch, C. Middeldorp, A. Reif, L. A. Rohde, P. Roussos, R. Schachar, P. Sklar, E. J. S. Sonuga-Barke, P. F. Sullivan, A. Thapar, J. Y. Tung, I. D. Waldman, S. E. Medland, K. Stefansson, M. Nordentoft, D. M. Hougaard, T. Werge, O. Mors, P. B. Mortensen, M. J. Daly, S. V. Faraone, A. D. Børglum, B. M. Neale, ADHD Working Group of the Psychiatric Genomics Consortium (PGC), Early Lifecourse & Genetic Epidemiology (EAGLE) Consortium, 23andMe Research Team, Discovery of the first genome-wide significant risk loci for attention deficit/hyperactivity disorder. Nat. Genet. 51, 63–75 (2019).
+
+
+
+
+67
+H. K. Finucane, Y. A. Reshef, V. Anttila, K. Slowikowski, A. Gusev, A. Byrnes, S. Gazal, P.-R. Loh, C. Lareau, N. Shoresh, G. Genovese, A. Saunders, E. Macosko, S. Pollack, J. R. B. Perry, J. D. Buenrostro, B. E. Bernstein, S. Raychaudhuri, S. McCarroll, B. M. Neale, A. L. Price, Brainstorm Consortium, Heritability enrichment of specifically expressed genes identifies disease-relevant tissues and cell types. Nat. Genet. 50, 621–629 (2018).
+
+
+
+
+68
+K. I. Kim, M. A. van de Wiel, Effects of dependence in high-dimensional multiple testing problems. BMC Bioinformatics 9, 114 (2008).
+
+
+
+
+69
+J. MacArthur, E. Bowler, M. Cerezo, L. Gil, P. Hall, E. Hastings, H. Junkins, A. McMahon, A. Milano, J. Morales, Z. M. Pendlington, D. Welter, T. Burdett, L. Hindorff, P. Flicek, F. Cunningham, H. Parkinson, The new NHGRI-EBI Catalog of published genome-wide association studies (GWAS Catalog). Nucleic Acids Res. 45 (D1), D896–D901 (2017).
+
+
+
+
+70
+W. J. Peyrot, D. I. Boomsma, B. W. Penninx, N. R. Wray, Disease and polygenic architecture: Avoid trio design and appropriately account for unscreened control subjects for common disease. Am. J. Hum. Genet. 98, 382–391 (2016).
+
+
+
+
+71
+C. H. Mercer, C. Tanton, P. Prah, B. Erens, P. Sonnenberg, S. Clifton, W. Macdowall, R. Lewis, N. Field, J. Datta, A. J. Copas, A. Phelps, K. Wellings, A. M. Johnson, Changes in sexual attitudes and lifestyles in Britain through the life course and over time: Findings from the National Surveys of Sexual Attitudes and Lifestyles (Natsal). Lancet 382, 1781–1794 (2013).
+
+
+
+
+72
+GALLUP, In U.S., Estimate of LGBT population rises to 4.5% (2018); https://news.gallup.com/poll/234863/estimate-lgbt-population-rises.aspx.
+
+73
+B. P. Zietsch, in Psychiatric Disorders—Worldwide Advances, T. Uehara, Ed. (InTech, 2011), pp. 277–300.
+
+74
+M. Lynch, B. Walsh, Genetics and Analysis of Quantitative Traits (Sinauer Sunderland, 1998), vol. 1.
+
+75
+S. V. Eastwood, R. Mathur, M. Atkinson, S. Brophy, C. Sudlow, R. Flaig, S. de Lusignan, N. Allen, N. Chaturvedi, Algorithms for the capture and adjudication of prevalent and incident diabetes in UK Biobank. PLOS ONE 11, e0162388 (2016).
+
+
+
+
+76
+S. Purcell, B. Neale, K. Todd-Brown, L. Thomas, M. A. R. Ferreira, D. Bender, J. Maller, P. Sklar, P. I. W. de Bakker, M. J. Daly, P. C. Sham, PLINK: A tool set for whole-genome association and population-based linkage analyses. Am. J. Hum. Genet. 81, 559–575 (2007).
+
+
+
+
+77
+R. A. Power, S. Kyaga, R. Uher, J. H. MacCabe, N. Långström, M. Landen, P. McGuffin, C. M. Lewis, P. Lichtenstein, A. C. Svensson, Fecundity of patients with schizophrenia, autism, bipolar disorder, depression, anorexia nervosa, or substance abuse vs their unaffected siblings. JAMA Psychiatry 70, 22–30 (2013).
+
+
+
+
+78
+J. K. Pickrell, T. Berisa, J. Z. Liu, L. Ségurel, J. Y. Tung, D. A. Hinds, Detection and interpretation of shared genetic influences on 42 human traits. Nat. Genet. 48, 709–717 (2016).
+
+
+
+
+79
+C. Tian, B. S. Hromatka, A. K. Kiefer, N. Eriksson, S. M. Noble, J. Y. Tung, D. A. Hinds, Genome-wide association and HLA region fine-mapping studies identify susceptibility loci for multiple common infections. Nat. Commun. 8, 599 (2017).
+
+
+
+80
+J. F. McRae, S. R. Jaeger, C. M. Bava, M. K. Beresford, D. Hunter, Y. Jia, S. L. Chheang, D. Jin, M. Peng, J. C. Gamble, K. R. Atkinson, L. G. Axten, A. G. Paisley, L. Williams, L. Tooman, B. Pineau, S. A. Rouse, R. D. Newcomb, Identification of regions associated with variation in sensitivity to food-related odors in the human genome. Curr. Biol. 23, 1596–1600 (2013).
+
+
+
+
+81
+W. J. Astle, H. Elding, T. Jiang, D. Allen, D. Ruklisa, A. L. Mann, D. Mead, H. Bouman, F. Riveros-Mckay, M. A. Kostadima, J. J. Lambourne, S. Sivapalaratnam, K. Downes, K. Kundu, L. Bomba, K. Berentsen, J. R. Bradley, L. C. Daugherty, O. Delaneau, K. Freson, S. F. Garner, L. Grassi, J. Guerrero, M. Haimel, E. M. Janssen-Megens, A. Kaan, M. Kamat, B. Kim, A. Mandoli, J. Marchini, J. H. A. Martens, S. Meacham, K. Megy, J. O’Connell, R. Petersen, N. Sharifi, S. M. Sheard, J. R. Staley, S. Tuna, M. van der Ent, K. Walter, S.-Y. Wang, E. Wheeler, S. P. Wilder, V. Iotchkova, C. Moore, J. Sambrook, H. G. Stunnenberg, E. Di Angelantonio, S. Kaptoge, T. W. Kuijpers, E. Carrillo-de-Santa-Pau, D. Juan, D. Rico, A. Valencia, L. Chen, B. Ge, L. Vasquez, T. Kwan, D. Garrido-Martín, S. Watt, Y. Yang, R. Guigo, S. Beck, D. S. Paul, T. Pastinen, D. Bujold, G. Bourque, M. Frontini, J. Danesh, D. J. Roberts, W. H. Ouwehand, A. S. Butterworth, N. Soranzo, The allelic landscape of human blood cell trait variation and links to common complex disease. Cell 167, 1415–1429.e19 (2016).
+
+
+
+
+82
+J. J. Lee, R. Wedow, A. Okbay, E. Kong, O. Maghzian, M. Zacher, T. A. Nguyen-Viet, P. Bowers, J. Sidorenko, R. Karlsson Linnér, M. A. Fontana, T. Kundu, C. Lee, H. Li, R. Li, R. Royer, P. N. Timshel, R. K. Walters, E. A. Willoughby, L. Yengo, M. Alver, Y. Bao, D. W. Clark, F. R. Day, N. A. Furlotte, P. K. Joshi, K. E. Kemper, A. Kleinman, C. Langenberg, R. Mägi, J. W. Trampush, S. S. Verma, Y. Wu, M. Lam, J. H. Zhao, Z. Zheng, J. D. Boardman, H. Campbell, J. Freese, K. M. Harris, C. Hayward, P. Herd, M. Kumari, T. Lencz, J. Luan, A. K. Malhotra, A. Metspalu, L. Milani, K. K. Ong, J. R. B. Perry, D. J. Porteous, M. D. Ritchie, M. C. Smart, B. H. Smith, J. Y. Tung, N. J. Wareham, J. F. Wilson, J. P. Beauchamp, D. C. Conley, T. Esko, S. F. Lehrer, P. K. E. Magnusson, S. Oskarsson, T. H. Pers, M. R. Robinson, K. Thom, C. Watson, C. F. Chabris, M. N. Meyer, D. I. Laibson, J. Yang, M. Johannesson, P. D. Koellinger, P. Turley, P. M. Visscher, D. J. Benjamin, D. Cesarini, 23andMe Research Team, COGENT (Cognitive Genomics Consortium), Social Science Genetic Association Consortium, Gene discovery and polygenic prediction from a genome-wide association study of educational attainment in 1.1 million individuals. Nat. Genet. 50, 1112–1121 (2018).
+
+
+
+
+83
+T. W. Winkler, et al., The influence of age and sex on genetic associations with adult body size and shape: A large-scale genome-wide interaction study. PLOS Genet. 11, e1005378 (2015).
+
+
+
+
+84
+D. F. Levinson, J. Shi, K. Wang, S. Oh, B. Riley, A. E. Pulver, D. B. Wildenauer, C. Laurent, B. J. Mowry, P. V. Gejman, M. J. Owen, K. S. Kendler, G. Nestadt, S. G. Schwab, J. Mallet, D. Nertney, A. R. Sanders, N. M. Williams, B. Wormley, V. K. Lasseter, M. Albus, S. Godard-Bauché, M. Alexander, J. Duan, M. C. O’Donovan, D. Walsh, A. O’Neill, G. N. Papadimitriou, D. Dikeos, W. Maier, B. Lerer, D. Campion, D. Cohen, M. Jay, A. Fanous, P. Eichhammer, J. M. Silverman, N. Norton, N. Zhang, H. Hakonarson, C. Gao, A. Citri, M. Hansen, S. Ripke, F. Dudbridge, P. A. Holmans, Schizophrenia Psychiatric GWAS Consortium, Genome-wide association study of multiplex schizophrenia pedigrees. Am. J. Psychiatry 169, 963–973 (2012).
+
+
+
+
+85
+D. T. Uehara, S. Hayashi, N. Okamoto, S. Mizuno, Y. Chinen, R. Kosaki, T. Kosho, K. Kurosawa, H. Matsumoto, H. Mitsubuchi, H. Numabe, S. Saitoh, Y. Makita, A. Hata, I. Imoto, J. Inazawa, SNP array screening of cryptic genomic imbalances in 450 Japanese subjects with intellectual disability and multiple congenital anomalies previously negative for large rearrangements. J. Hum. Genet. 61, 335–343 (2016).
+
+
+
+
+86
+G. M. Lowe, K. Vlismas, D. L. Graham, M. Carail, C. Caris-Veyrat, A. J. Young, The degradation of (all-E)-beta-carotene by cigarette smoke. Free Radic. Res. 43, 280–286 (2009).
+
+
+
+
+87
+D. S. Manoli, P. Fan, E. J. Fraser, N. M. Shah, Neural control of sexually dimorphic behaviors. Curr. Opin. Neurobiol. 23, 330–338 (2013).
+
+
+
+
+88
+Z. Xu, X. Gao, Y. He, J. Ju, M. Zhang, R. Liu, Y. Wu, C. Ma, C. Ma, Z. Lin, X. Huang, Q. Zhao, Synergistic effect of SRY and its direct target, WDR5, on Sox9 expression. PLOS ONE 7, e34327 (2012).
+
+
+
+
+89
+N. Barban, et al., Genome-wide analysis identifies 12 loci influencing human reproductive behavior. Nat. Genet. 48, 1462–1472 (2016).
+
+
+
+
+90
+J. R. Perry, et al., Parent-of-origin-specific allelic associations among 106 genomic loci for age at menarche. Nature 514, 92–97 (2014).
+
+
+
+
+91
+F. R. Day, et al., Large-scale genomic analyses link reproductive aging to hypothalamic signaling, breast cancer susceptibility and BRCA1-mediated DNA repair. Nat. Genet. 47, 1294–1303 (2015).
+
+
+
+
+92
+T. K. Clarke, M. J. Adams, G. Davies, D. M. Howard, L. S. Hall, S. Padmanabhan, A. D. Murray, B. H. Smith, A. Campbell, C. Hayward, D. J. Porteous, I. J. Deary, A. M. McIntosh, Genome-wide association study of alcohol consumption and genetic overlap with other health-related traits in UK Biobank (N=112 117). Mol. Psychiatry 22, 1376–1384 (2017).
+
+
+
+
+93
+V. Boraska, et al., A genome-wide association study of anorexia nervosa. Mol. Psychiatry 19, 1085–1094 (2014).
+
+
+
+
+94
+T. Otowa, K. Hek, M. Lee, E. M. Byrne, S. S. Mirza, M. G. Nivard, T. Bigdeli, S. H. Aggen, D. Adkins, A. Wolen, A. Fanous, M. C. Keller, E. Castelao, Z. Kutalik, S. Van der Auwera, G. Homuth, M. Nauck, A. Teumer, Y. Milaneschi, J.-J. Hottenga, N. Direk, A. Hofman, A. Uitterlinden, C. L. Mulder, A. K. Henders, S. E. Medland, S. Gordon, A. C. Heath, P A F. Madden, M. L. Pergadia, P. J. van der Most, I. M. Nolte, F. V. A. van Oort, C. A. Hartman, A. J. Oldehinkel, M. Preisig, H. J. Grabe, C. M. Middeldorp, B. W. J. H. Penninx, D. Boomsma, N. G. Martin, G. Montgomery, B. S. Maher, E. J. van den Oord, N. R. Wray, H. Tiemeier, J. M. Hettema, Meta-analysis of genome-wide association studies of anxiety disorders. Mol. Psychiatry 21, 1391–1399 (2016).
+
+
+
+
+95
+J. Grove, S. Ripke, T. D. Als, M. Mattheisen, R. K. Walters, H. Won, J. Pallesen, E. Agerbo, O. A. Andreassen, R. Anney, S. Awashti, R. Belliveau, F. Bettella, J. D. Buxbaum, J. Bybjerg-Grauholm, M. Bækvad-Hansen, F. Cerrato, K. Chambert, J. H. Christensen, C. Churchhouse, K. Dellenvall, D. Demontis, S. De Rubeis, B. Devlin, S. Djurovic, A. L. Dumont, J. I. Goldstein, C. S. Hansen, M. E. Hauberg, M. V. Hollegaard, S. Hope, D. P. Howrigan, H. Huang, C. M. Hultman, L. Klei, J. Maller, J. Martin, A. R. Martin, J. L. Moran, M. Nyegaard, T. Nærland, D. S. Palmer, A. Palotie, C. B. Pedersen, M. G. Pedersen, T. dPoterba, J. B. Poulsen, B. S. Pourcain, P. Qvist, K. Rehnström, A. Reichenberg, J. Reichert, E. B. Robinson, K. Roeder, P. Roussos, E. Saemundsen, S. Sandin, F. K. Satterstrom, G. Davey Smith, H. Stefansson, S. Steinberg, C. R. Stevens, P. F. Sullivan, P. Turley, G. B. Walters, X. Xu, K. Stefansson, D. H. Geschwind, M. Nordentoft, D. M. Hougaard, T. Werge, O. Mors, P. B. Mortensen, B. M. Neale, M. J. Daly, A. D. Børglum; Autism Spectrum Disorder Working Group of the Psychiatric Genomics Consortium; BUPGEN; Major Depressive Disorder Working Group of the Psychiatric Genomics Consortium; 23andMe Research Team, Identification of common genetic risk variants for autism spectrum disorder. Nat. Genet. 51, 431–444 (2019).
+
+
+
+
+96
+Psychiatric GWAS Consortium Bipolar Disorder Working Group, Large-scale genome-wide association analysis of bipolar disorder identifies a new susceptibility locus near ODZ4. Nat. Genet. 43, 977–983 (2011).
+
+
+
+
+97
+M. Horikoshi, et al., Genome-wide associations for birth weight and correlations with adult disease. Nature 538, 248–252 (2016).
+
+
+
+
+98
+J. A. Pasman, K. J. H. Verweij, Z. Gerring, S. Stringer, S. Sanchez-Roige, J. L. Treur, A. Abdellaoui, M. G. Nivard, B. M. L. Baselmans, J.-S. Ong, H. F. Ip, M. D. van der Zee, M. Bartels, F. R. Day, P. Fontanillas, S. L. Elson, H. de Wit, L. K. Davis, J. MacKillop, J. L. Derringer, S. J. T. Branje, C. A. Hartman, A. C. Heath, P. A. C. van Lier, P. A. F. Madden, R. Mägi, W. Meeus, G. W. Montgomery, A. J. Oldehinkel, Z. Pausova, J. A. Ramos-Quiroga, T. Paus, M. Ribases, J. Kaprio, M. P. M. Boks, J. T. Bell, T. D. Spector, J. Gelernter, D. I. Boomsma, N. G. Martin, S. MacGregor, J. R. B. Perry, A. A. Palmer, D. Posthuma, M. R. Munafò, N. A. Gillespie, E. M. Derks, J. M. Vink; 23andMe Research Team; Substance Use Disorders Working Group of the Psychiatric Genomics Consortium; International Cannabis Consortium, GWAS of lifetime cannabis use reveals new risk loci, genetic overlap with psychiatric traits, and a causal effect of schizophrenia liability. Nat. Neurosci. 21, 1161–1170 (2018).
+
+
+
+
+99
+A. R. Wood, et al., Defining the role of common variation in the genomic and biological architecture of adult human height. Nat. Genet. 46, 1173–1186 (2014).
+
+
+
+
+100
+N. R. Wray, et al., Genome-wide association analyses identify 44 risk variants and refine the genetic architecture of major depression. Nat. Genet. 50, 668–681 (2018).
+
+
+
+
+101
+A. Okbay, et al., Genetic variants associated with subjective well-being, depressive symptoms, and neuroticism identified through genome-wide analyses. Nat. Genet. 48, 624–633 (2016).
+
+
+
+
+102
+M. H. M. de Moor, P. T. Costa, A. Terracciano, R. F. Krueger, E. J. C. de Geus, T. Toshiko, B. W. J. H. Penninx, T. Esko, P A F. Madden, J. Derringer, N. Amin, G. Willemsen, J.-J. Hottenga, M. A. Distel, M. Uda, S. Sanna, P. Spinhoven, C. A. Hartman, P. Sullivan, A. Realo, J. Allik, A. C. Heath, M. L. Pergadia, A. Agrawal, P. Lin, R. Grucza, T. Nutile, M. Ciullo, D. Rujescu, I. Giegling, B. Konte, E. Widen, D. L. Cousminer, J. G. Eriksson, A. Palotie, L. Peltonen, M. Luciano, A. Tenesa, G. Davies, L. M. Lopez, N. K. Hansell, S. E. Medland, L. Ferrucci, D. Schlessinger, G. W. Montgomery, M. J. Wright, Y. S. Aulchenko, A. C. J. W. Janssens, B. A. Oostra, A. Metspalu, G. R. Abecasis, I. J. Deary, K. Räikkönen, L. J. Bierut, N. G. Martin, C. M. van Duijn, D. I. Boomsma, Meta-analysis of genome-wide association studies for personality. Mol. Psychiatry 17, 337–349 (2012).
+
+
+
+
+103
+M. T. Lo, D. A. Hinds, J. Y. Tung, C. Franz, C.-C. Fan, Y. Wang, O. B. Smeland, A. Schork, D. Holland, K. Kauppi, N. Sanyal, V. Escott-Price, D. J. Smith, M. O’Donovan, H. Stefansson, G. Bjornsdottir, T. E. Thorgeirsson, K. Stefansson, L. K. McEvoy, A. M. Dale, O. A. Andreassen, C.-H. Chen, Genome-wide analyses for personality traits identify six genomic loci and show correlations with psychiatric disorders. Nat. Genet. 49, 152–156 (2017).
+
+
+
+
+104
+Schizophrenia Working Group of the Psychiatric Genomics Consortium, Biological insights from 108 schizophrenia-associated genetic loci. Nature 511, 421–427 (2014).
+
+
+
+
+105
+S. E. Harris, S. P. Hagenaars, G. Davies, W. David Hill, D. C. M. Liewald, S. J. Ritchie, R. E. Marioni, C. L. M. Sudlow, J. M. Wardlaw, A. M. McIntosh, C. R. Gale, I. J. Deary; METASTROKE Consortium, International Consortium for Blood Pressure Genome-Wide Association Studies; International Consortium for Blood Pressure Genome-Wide Association
+Studies; CHARGE Consortium Aging and Longevity Group; CHARGE Consortium Cognitive Group, Molecular genetic contributions to self-rated health. Int. J. Epidemiol. 46, 994–1009 (2017).
+
+
+
+106
+Tobacco and Genetics Consortium, Genome-wide meta-analyses identify multiple loci associated with smoking behavior. Nat. Genet. 42, 441–447 (2010).
+
+
+
+
+107
+J. C. Randall, et al., Sex-stratified genome-wide association studies including 270,000 individuals show sexual dimorphism in genetic loci for anthropometric traits. PLOS Genet. 9, e1003500 (2013).
+
+
+
+
+108
+N. M. Warrington, E. Shevroja, G. Hemani, P. G. Hysi, Y. Jiang, A. Auton, C. G. Boer, M. Mangino, C. A. Wang, J. P. Kemp, G. McMahon, C. Medina-Gomez, M. Hickey, K. Trajanoska, D. Wolke, M. A. Ikram, G. W. Montgomery, J. F. Felix, M. J. Wright, D. A. Mackey, V. W. Jaddoe, N. G. Martin, J. Y. Tung, G. Davey Smith, C. E. Pennell, T. D. Spector, J. van Meurs, F. Rivadeneira, S. E. Medland, D. M. Evans; 23andMe Research Team, Genome-wide association study identifies nine novel loci for 2D:4D finger ratio, a putative retrospective biomarker of testosterone exposure in utero. Hum. Mol. Genet. 27, 2025–2038 (2018).
+
+
+
