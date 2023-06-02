@@ -35,7 +35,7 @@ Barbara McGillivray et al., “[The Challenges and Prospects of the Intersection
 : **Sierra Eckert and Ryan Heuser, Center for Digital Humanities**
 : *Discussion on the history of data science and recent trends in computational methods in the humanities.*
 : *Preview of what will be covered in each day of the Institute*
-: [Opening Slides](/hds-institute/pdf/2022-01-09_Institute_Opening_Comments.pdf)
+: [Opening Slides](/hds-institute/pdf/2023-06-5 Institute Opening Comments.pdf)
 
 <span class="color">10:30 – 11:30</span>
 : *Participant introductions and project descriptions. What do you hope to learn at this Institute?*
@@ -79,8 +79,8 @@ Amy Winecoff, ["Introduction to Machine Learning for the Humanities"](https://gi
 : **Sierra Eckert, Perkins Postdoctoral Fellow, Center for Digital Humanities**
 : *Humanities Data Fundamentals*
 : Relevant files:
-: - [`Humanities Data Fundamentals (slides)`](https://docs.google.com/presentation/d/1sl22NkfGyWIg9pq2yzW4K-_LcX45DaqNWmfFRbDce_g/edit?usp=sharing)
-: - [`Humanities-Data-Fundamentals.ipynb`](https://drive.google.com/file/d/1t3UKhFtQzvlfilxSUT5QhXePwVk9xw1f/view?usp=share_link)
+: - [`Humanities Data Fundamentals (slides)`](https://docs.google.com/presentation/d/1DH5_MiIAtjC97R651Iq1M8zsNwf2ggyKHWMWO2Z2-_g/edit?usp=sharing)
+: - [`Humanities-Data-Fundamentals.ipynb`](https://drive.google.com/file/d/1a4uwJDp2_m842apdC0wCkucktj5682SZ/view?usp=sharing)
 : - [`Introduction to Text Analysis with Voyant`](/hds-institute/pdf/Eckert-Text-Analysis-Introduction-to-Voyant.pdf)
 
 <span class="headlinks">Afternoon</span>
@@ -134,7 +134,7 @@ Ted Underwood, “Machine Learning and Human Perspective,” _PMLA_ 135, no. 1 (
 : **Ryan Heuser, Research Software Engineer, Center for Digita Humanities**
 : *Useful Natural Language Processing*
 : Relevant files:
-: - [`HDSI-ThursSession.ipynb`](https://colab.research.google.com/drive/1cEyCf24C1Nf6WvRJctMSKtB0JtQrpu8g#scrollTo=HDSI_Useful_NLP), part 1
+: - [`HDSI-ThursSession.ipynb`](https://colab.research.google.com/drive/1k-nE1dm8emzGxkEEDNkryy5Ht9WaNlG7#scrollTo=HDSI_Useful_NLP), part 1
 
 <span class="headlinks">Afternoon</span>
 
@@ -142,7 +142,7 @@ Ted Underwood, “Machine Learning and Human Perspective,” _PMLA_ 135, no. 1 (
 : **Sierra Eckert, Ryan Heuser**
 : *Named Entity Recognition, Geocoding, and Mapping*
 : Relevant files:
-: - [`HDSI-ThursSession.ipynb`](https://colab.research.google.com/drive/1cEyCf24C1Nf6WvRJctMSKtB0JtQrpu8g#scrollTo=NER_Geocoding_and_Mapping), part 2
+: - [`HDSI-ThursSession.ipynb`](https://colab.research.google.com/drive/1k-nE1dm8emzGxkEEDNkryy5Ht9WaNlG7#scrollTo=9793a8d3-19e2-4615-bf01-6cb70a22fadd), part 2
 
 ## Friday: Participant Projects
 
