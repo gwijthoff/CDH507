@@ -35,7 +35,7 @@ Barbara McGillivray et al., “[The Challenges and Prospects of the Intersection
 : **Sierra Eckert and Ryan Heuser, Center for Digital Humanities**
 : *Discussion on the history of data science and recent trends in computational methods in the humanities.*
 : *Preview of what will be covered in each day of the Institute*
-: [Opening Slides](/hds-institute/pdf/2023-06-5 Institute Opening Comments.pdf)
+: [Opening Slides](https://princeton-cdh.github.io/hds-institute/pdf/2023-06-5_Institute_Opening_Comments.pdf)
 
 <span class="color">10:30 – 11:30</span>
 : *Participant introductions and project descriptions. What do you hope to learn at this Institute?*
