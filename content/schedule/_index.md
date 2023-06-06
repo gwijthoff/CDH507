@@ -52,6 +52,8 @@ Barbara McGillivray et al., “[The Challenges and Prospects of the Intersection
 
 <span class="color">2:00 – 2:30</span>
 : **Helmut Reimitz, Professor of History; Director, Program in Medieval Studies**
+: **Tim Geelhaar, SFB 1288 Praktiken des Vergleichens – Dateninfrastruktur and Digital Humanities, University of Bielefeld**
+: **Jan Odstrčilík, Institut für Mittelalterforschung, Austrian Academy of Sciences**
 : *Presentation on [History Books and the History of the Book in the Middle Ages](https://cdh.princeton.edu/projects/history-books-and-the-history-of-the-book-in-the-middle-ages/): applying computational tools to learn about the “history of histories” in medieval Europe.*
 
 <span class="color">2:30 – 3:00</span>
@@ -89,9 +91,7 @@ Amy Winecoff, ["Introduction to Machine Learning for the Humanities"](https://gi
 : **Amy Winecoff, DataX Fellow, Center for IT Policy & Center for Statistics and Machine Learning**
 : *Introduction to Machine Learning for the Humanities*
 : Relevant files:
-: - [slides](https://docs.google.com/presentation/d/1iaCoTr1Ywmdq3kGvv5j-XcrkWXjtPbt52hZ_QZ2ZSpE/edit?usp=sharing)
-: - [`cdh-knn.ipynb`](https://colab.research.google.com/drive/1inEExC3Utjo8reOZ9cIf9F4dKRY3EsA8?usp=sharing)
-: - [`spirits_unknown_1.csv`](https://github.com/amywinecoff/ml-teaching/blob/main/cdh/presentation/spirits_unknown_1.csv)
+: - [GitHub repository](https://github.com/amywinecoff/ml-teaching/tree/main/cdh/presentation)
 
 ## Wednesday: History of Measurement
 
