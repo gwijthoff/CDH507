@@ -47,6 +47,8 @@ Tony Chu and Stephanie Yee, "[A Visual Introduction to Machine Learning](http://
 
 Amy A. Winecoff and Elizabeth Anne Watkins, “[Artificial Concepts of Artificial Intelligence: Institutional Compliance and Resistance in AI Startups](https://doi.org/10.1145/3514094.3534138),” in *Proceedings of the 2022 AAAI/ACM Conference on AI, Ethics, and Society,* 2022, 788–99.
 
+Evan Odell's [Hansard Speeches 1979-2020. Version 3.0.1](https://evanodell.com/projects/datasets/hansard-data/)
+
 ### Campus Resources
 
 - [Princeton Research Data Service](https://researchdata.princeton.edu/), for "expert services and infrastructure to store, manage, retain, and curate digital research data."
