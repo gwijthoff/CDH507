@@ -39,6 +39,14 @@ Inioluwa Deborah Raji et al., “AI and the Everything in the Whole Wide World B
 
 Tasioulas, John. “[The Role of the Arts and Humanities in Thinking about Artificial Intelligence](https://blog.apaonline.org/2022/08/11/the-role-of-the-arts-and-humanities-in-thinking-about-artificial-intelligence-draft/).” *Blog of the APA* (blog), August 11, 2022.
 
+Matthew K. Gold, ed.,[*Debates in the Digital Humanities* ](https://dhdebates.gc.cuny.edu/projects/debates-in-the-digital-humanities)(U of Minnesota Press, 2012)
+
+Matthew K. Gold and Lauren Klein, eds.,[*Debates in the Digital Humanities*](https://dhdebates.gc.cuny.edu/projects/debates-in-the-digital-humanities-2016) (U of Minnesota Press, 2016)
+
+Matthew K. Gold and Lauren Klein, eds.,[*Debates in the Digital Humanities*](https://dhdebates.gc.cuny.edu/projects/debates-in-the-digital-humanities-2019) (U of Minnesota Press, 2019)
+
+Sandeep Soni, Lauren F. Klein, and Jacob Eisenstein, [“Abolitionist Networks: Modeling Language Change in Nineteenth-Century Activist Newspapers,”](https://doi.org/10.22148/001c.18841.) *Journal of Cultural Analytics* 6, no. 1 (January 18, 2021).
+
 ## Data Sets & Data Work 💾
 
 The Center for Digital Humanities publishes datasets through research partnerships and curation grants. [They can be viewed here](https://cdh.princeton.edu/research/data-curation/datasets/). The CDH also curates a list of [Humanities Datasets in Context](https://docs.google.com/spreadsheets/d/1IBORIU3yMiD240Ivc1fQpGSbKz_L4SOom1ntYlHHGKU/edit?usp=sharing), organized by discipline and annotated with information about data format and collection practices.
@@ -46,6 +54,8 @@ The Center for Digital Humanities publishes datasets through research partnershi
 Tony Chu and Stephanie Yee, "[A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)," R2D3.
 
 Amy A. Winecoff and Elizabeth Anne Watkins, “[Artificial Concepts of Artificial Intelligence: Institutional Compliance and Resistance in AI Startups](https://doi.org/10.1145/3514094.3534138),” in *Proceedings of the 2022 AAAI/ACM Conference on AI, Ethics, and Society,* 2022, 788–99.
+
+Evan Odell's [Hansard Speeches 1979-2020. Version 3.0.1](https://evanodell.com/projects/datasets/hansard-data/)
 
 ### Campus Resources
 
@@ -81,7 +91,7 @@ The following tools and platforms were mentioned throughout the institute:
 
 ### Python Notebooks & Textbooks
 
-Quinn Dombrowski curates a list of [Jupyter Notebooks for digital humanities](https://github.com/quinnanya/dh-jupyter). These notebooks, in the spirit of "literate programming," contain data files and executable code interwoven with textual descriptions of what's happening.
+Quinn Dombrowski curates a list of [Jupyter Notebooks for digital humanities](https://github.com/quinnanya/dh-jupyter). These notebooks, in the spirit of "literate programming," contain data files and executable code interwoven with textual descriptions of what's happening. Dombrowski also curates a [list of resources specifically for multilingual NLP](https://github.com/multilingual-dh/nlp-resources).
 
 Peace Ossom-Williamson and Kenton Rambsy, [*The Data Notebook*](https://uta.pressbooks.pub/datanotebook/) (Mavs Open Press, 2021), a platform-agnostic "online suite of open interactive resources" on the principles of data storytelling.
 
