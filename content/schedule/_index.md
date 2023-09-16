@@ -3,9 +3,7 @@ title: Schedule
 layout: single
 ---
 
-The following schedule runs from June 5 – 9, 2023. (Last January's institute schedule is available on the [Winter page](/hds-institute/schedule/2023-01).) Each day will involve a mix of seminar-style discussion and hands-on technical work. Morning sessions will be 10:00a to 12:30p, afternoon sessions will be 1:30p to 4:00p. 
-
-An orientation and tech setup day will be held on May 24, 2023, 2-4PM.
+This list is subject to change according to the interests of the group and the direction our conversations take.
 
 {{< toc >}}
 
@@ -13,161 +11,90 @@ An orientation and tech setup day will be held on May 24, 2023, 2-4PM.
 
 ***********
 
-## Monday: Introductions & Setting the Stage
+## **BEARINGS**
 
-*How are data science methods being used in the humanities? How are humanists studying the automation of decision-making and cultural production?*
+### Wk. 01 | Jan 31 | Introductions; Platforms We'll Use
 
-<span class="headlinks">Required Readings</span>
+- Introduction to the CDH, the class, and the platforms we'll be using
+- Meredith Whittaker, “The Steep Cost of Capture,” _Interactions_ 28, no. 6 (November 10, 2021): 50–55.
 
-\*<em>Must be logged into a Princeton institutional Google account to access these PDFs.</em>
+<!--
+- the latest on AI and how it intersects with humanities research
+-->
 
-Brian Beaton et al., “[Debating Data Science: A Roundtable](https://drive.google.com/file/d/17E26kC1sb-Ou-3FLbnfVyACw5T_eqGEu/view?usp=share_link),” _Radical History Review_, no. 127 (January 2017): 133–48.
+## **EPISTEMOLOGIES**
 
-Wai Chee Dimock, “[AI and the Humanities](https://drive.google.com/file/d/1MnvYC9C4x2vzrqpS44Koo-vHBsMVECi3/view?usp=share_link),” _PMLA_ 135, no. 3 (May 2020): 449–54.
+### Wk. 02 | Feb 7 | Histories of the Humanities, Histories of DH
 
-Anne Helmreich, Matthew Lincoln, and Charles van den Heuvel, “[Data Ecosystems and Futures of Art History](https://drive.google.com/file/d/1wytS8LdlMqSy7YDb6as-gpRwI86Q29RQ/view?usp=share_link),” *Histoire de l’art,* no. 87 (June 29, 2021): 45–54.
+- Eric Hayot, _Humanist Reason: A History. An Argument. A Plan_ (Columbia University Press, 2021). Excerpts.
+- Read one chapter relevant to your field from *[Debates in the Digital Humanities 2012](https://dhdebates.gc.cuny.edu/),* ed. Matt Gold & Lauren Klein, and come prepared to discuss.
+- **Exercise:** 
 
-Barbara McGillivray et al., “[The Challenges and Prospects of the Intersection of Humanities and Data Science: A White Paper from The Alan Turing Institute](https://drive.google.com/file/d/1cfLtHgv31BJuusZjy6OO2Yc3ledxtvLx/view?usp=share_link),” 2020.
+<!--
+- Jerry A. Jacobs, _In Defense of Disciplines: Interdisciplinarity and Specialization in the Research University_ (Chicago ; London: University Of Chicago Press, 2014). Excerpts.
+- Helen Small, *The Value of the Humanities,* (Oxford: Oxford Univ. Press, 2013). Excerpts.
+- Alan Liu, “The Meaning of the Digital Humanities.” *PMLA* 128, no. 2 (March 2013): 409–23.
+- Jamie "Skye" Bianco, "This DH Which is Not One," *Debates in the Digital Humanities 2012* (Minneapolis: University of Minnesota Press, 2012).
+- Jerome McGann, “Philology in a New Key,” *Critical Inquiry* 39.2 (Winter 2013): 327-46.
+-->
 
-<span class="headlinks">Morning</span>
+### Wk. 03 | Feb 14 | DH Today: Meaning & Signal
 
-<span class="color">10:00 – 10:30</span>
-: **Sierra Eckert and Ryan Heuser, Center for Digital Humanities**
-: *Discussion on the history of data science and recent trends in computational methods in the humanities.*
-: *Preview of what will be covered in each day of the Institute*
-: [Opening Slides](https://princeton-cdh.github.io/hds-institute/pdf/2023-06-5_Institute_Opening_Comments.pdf)
+- Rabea Kleymann et al., "Foreword to Special Issue on 'Theorytellings: Epistemic Narratives in the Digital Humanities,'" *Cultural Analytics* 7, no. 4 (November 2022).
+- Ted Underwood et al., "Culture, Theory, Data: An Introduction" to special issue, *New Literary History* 53, no. 4 (Winter 2023).
+- Orit Halpern et al., "Surplus Data: An Introduction" to special issue of *Critical Inquiry* 48, no. 2 (Winter 2022).
+- Matthew Kirschenbaum, Introduction to "Again Theory: A Forum on Language, Meaning, and Intent in the Time of Stochastic Parrots," *In The Moment* (June 2023)
 
-<span class="color">10:30 – 11:30</span>
-: *Participant introductions and project descriptions. What do you hope to learn at this Institute?*
+<!--
+- Lauren Klein, “Dimensions of Scale: Invisible Labor, Editorial Work, and the Future of Quantitative Literary Studies,” _PMLA_ 135, no. 1 (January 1, 2020): 23–39.
+- Barbara Herrnstein Smith, “What Was Close Reading? A Century of Method in Literary Studies,” _Minnesota Review_ 87 (2016): 57–75.
+-->
 
-<span class="color">11:30 – 12:30</span>
-: *Discussion of readings.*
-: *Participants: come prepared to discuss how data science is intersecting with scholarship in your discipline.*
+### Wk. 04 | Feb 21 | Quantitative Methods: Models & Theories
 
-<span class="headlinks">Afternoon<span>
+- Theodore M. Porter, _Trust in Numbers: The Pursuit of Objectivity in Science and Public Life_ (Princeton, N.J: Princeton University Press, 2020 [1995]). Excerpts.
+- Steven Ruggles, “The Revival of Quantification: Reflections on Old New Histories,” _Social Science History_ 45, no. 1 (ed 2021): 1–25.
 
-<span class="color">1:30 – 2:00</span>
-: **Peter Ramadge, Gordon Y.S. Wu Professor of Engineering and Director of the [Center for Statistics and Machine Learning](https://csml.princeton.edu/).**
-: *Presentation on the data science ecosystem at Princeton.*
+### Wk. 05 | Apr 28 | Quantitative Methods: Generalization & Reproducibility
 
-<span class="color">2:00 – 2:30</span>
-: **Helmut Reimitz, Professor of History; Director, Program in Medieval Studies**
-: **Tim Geelhaar, SFB 1288 Praktiken des Vergleichens – Dateninfrastruktur and Digital Humanities, University of Bielefeld**
-: **Jan Odstrčilík, Institut für Mittelalterforschung, Austrian Academy of Sciences**
-: *Presentation on [History Books and the History of the Book in the Middle Ages](https://cdh.princeton.edu/projects/history-books-and-the-history-of-the-book-in-the-middle-ages/): applying computational tools to learn about the “history of histories” in medieval Europe.*
+- Jo Guldi, _The Dangerous Art of Text Mining: A Methodology for Digital History,_ (Cambridge: Cambridge University Press, 2023). Excerpts.
+- Andrew Piper, _Can We Be Wrong? The Problem of Textual Evidence in a Time of Data_, Cambridge Elements in Digital Literary Studies (Cambridge University Press, 2020). Excerpts.
 
-<span class="color">2:30 – 3:00</span>
-: *Informal discussion.*
+## **METHODOLOGIES**
 
-## Tuesday: Fundamentals
+### Wk. 06 | Mar 6 | scoping? funding? workshops (on- and off-campus)?
 
-*An introduction to the baseline statistical concepts used in machine learning, from distribution to regression. What does it mean to be "unsupervised"? How do we evaluate a model?*
+******************************************
 
-<span class="headlinks">Readings</span>
+### Wk. 07 | Mar 20 | Curating Structured Data
 
-Meredith Broussard, “[Machine Learning: The DL on ML](https://drive.google.com/file/d/18kElRW7hVdz8W9QZ_Hv48O06fXQkSnYS/view?usp=sharing),” in *Artificial Unintelligence: How Computers Misunderstand the World* (Cambridge, Massachusetts & London, England: The MIT Press, 2018).
+- Katie Rawson and Trevor Muñoz, “Against Cleaning,” in _Debates in the Digital Humanities 2019_ (Minneapolis: University Of Minnesota Press, 2019).
+- Seth van Hooland et al., "Cleaning Data with OpenRefine," *The Programming Historian* (May 2013).
 
-Wendy Hui Kyong Chun, excerpt from *[Discriminating Data: Correlation, Neighborhoods, and the New Politics of Recognition](https://drive.google.com/file/d/1VLZ9P3_IYriVORbu3Np_y0O_-3Vuvzf1/view?usp=share_link)* (Cambridge, Massachusetts & London, England: The MIT Press, 2021).
+### Wk. 08 | Mar 27 | Finding & Filtering Structured Data
 
-Richard So, “‘All Models Are Wrong,’” _PMLA_ 132, no. 3 (May 2017): 668–73, <https://doi.org/10.1632/pmla.2017.132.3.668>.
+- Eun Seo Jo and Timnit Gebru, “Lessons from Archives: Strategies for Collecting Sociocultural Data in Machine Learning,” _Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency,_ (January 27, 2020), 306–16.
+- Jessica Marie Johnson, “Markup Bodies: Black [Life] Studies and Slavery [Death] Studies at the Digital Crossroads,” Social Text 36, no. 4 (137) (December 1, 2018): 57–79.
 
-Tony Chu and Stephanie Yee, "[A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)," R2D3.
+### Wk. 09 | Apr 3 | Networks
 
-Amy Winecoff, ["Introduction to Machine Learning for the Humanities"](https://github.com/amywinecoff/ml-teaching/blob/main/cdh/presentation/winecoff_intro_ml_humanities.pdf) (2023)
+- Ruth Ahnert et al., eds., *The Network Turn: Changing Perspectives in the Humanities* (Cambridge University Press, 2020). Excerpts.
 
-<span class="headlinks">Morning</span>
+### Wk. 10 | Apr 10 | Maps & Spatial Humanities
 
-<span class="color">10:00 – 12:30</span>
-: **Sierra Eckert, Perkins Postdoctoral Fellow, Center for Digital Humanities**
-: *Humanities Data Fundamentals*
-: Relevant files:
-: - [`Humanities Data Fundamentals (slides)`](https://docs.google.com/presentation/d/1DH5_MiIAtjC97R651Iq1M8zsNwf2ggyKHWMWO2Z2-_g/edit?usp=sharing)
-: - [`Humanities-Data-Fundamentals.ipynb`](https://drive.google.com/file/d/1a4uwJDp2_m842apdC0wCkucktj5682SZ/view?usp=sharing)
-: - [`Introduction to Text Analysis with Voyant`](/hds-institute/pdf/Eckert-Text-Analysis-Introduction-to-Voyant.pdf)
+- Trip to the Map & GIS Library
+- Review of spatial humanities projects
+	- [In the Same Boats](https://sameboats.org/)
+	- [Fabula and Sjužet in “Wandering Rocks”](https://muziejus.github.io/wandering-rocks/)
+	- [Gent Gemapt](https://kaart.gentgemapt.be/)
+	- [Computational Approaches to the History of Cartography](https://bigdata.duke.edu/projects/computational-approaches-to-the-history-of-cartography/)
 
-<span class="headlinks">Afternoon</span>
+### Wk. 11 | Apr 17 | Refusal
 
-<span class="color">1:30 – 4:00</span>
-: **Amy Winecoff, DataX Fellow, Center for IT Policy & Center for Statistics and Machine Learning**
-: *Introduction to Machine Learning for the Humanities*
-: Relevant files:
-: - [GitHub repository](https://github.com/amywinecoff/ml-teaching/tree/main/cdh/presentation)
+- Lauren Klein, “Are Large Language Models Our Limit Case?” _Startwords_, no. 3 (August 2022).
+- Inioluwa Deborah Raji et al., “AI and the Everything in the Whole Wide World Benchmark,” 2021, [https://doi.org/10.48550/arXiv.2111.15366](https://doi.org/10.48550/arXiv.2111.15366).
+        
+### Wk. 12 | Apr 24 | Projects
 
-## Wednesday: History of Measurement
-
-*On the historical epistemology of quantification. How did measurement practices in the past cross the now-accepted divide between the sciences and humanities?*
-
-<span class="headlinks">Morning</span>
-
-<span class="color">10:00 – 12:30</span>
-: **David Kinney, Postdoctoral Research Associate in Cognitive Science of Values, University Center for Human Values**
-: *Lecture on the history of measurement across the disciplines*
-
-<span class="headlinks">Afternoon</span>
-
-<span class="color">1:30 – 4:00</span>
-: **David Kinney**
-: *Hands-On: Word Embeddings*
-: Relevant files:
-: - [`UPDATED - CDH_word_embedding_notebook.ipynb.ipynb`](https://drive.google.com/file/d/1DUR8WAkjjZYSrA1DaWtbdmigBr2FBCto/view)
-
-<span class="headlinks">Readings</span>
-
-Hasok Chang, “[Spirit, Air, and Quicksilver: The Search for the ‘Real’ Scale of Temperature](https://drive.google.com/file/d/19AD3WiYn0ucR0Cs2PsRLzq8QKUkM4S0A/view?usp=sharing),” _Historical Studies in the Physical and Biological Sciences_ 31, no. 2 (2001): 249–84.
-
-## Thursday: Unpacking Our Code Libraries
-
-*On the use of industry-created tools for influential humanities scholarship. How did software for speech recognition and image tagging end up in a literary text analysis tool?*
-
-<span class="headlinks">Readings</span>
-
-Selections from Richard So, *Redlining Culture: A Data History of Racial Inequality and Postwar Fiction* (Columbia University Press, 2020).
-
-Ted Underwood, “Machine Learning and Human Perspective,” _PMLA_ 135, no. 1 (January 2020): 92–109, <https://doi.org/10.1632/pmla.2020.135.1.92>.
-
-<span class="headlinks">Morning</span>
-
-<span class="color">10:00 – 12:30</span>
-: **Sierra Eckert, Perkins Postdoctoral Fellow, Center for Digital Humanities**
-: **Ryan Heuser, Research Software Engineer, Center for Digita Humanities**
-: *Useful Natural Language Processing*
-: Relevant files:
-: - [`HDSI-ThursSession.ipynb`](https://colab.research.google.com/drive/1k-nE1dm8emzGxkEEDNkryy5Ht9WaNlG7#scrollTo=HDSI_Useful_NLP), part 1
-
-<span class="headlinks">Afternoon</span>
-
-<span class="color">1:30 – 4:00</span>
-: **Sierra Eckert, Ryan Heuser**
-: *Named Entity Recognition, Geocoding, and Mapping*
-: Relevant files:
-: - [`HDSI-ThursSession.ipynb`](https://colab.research.google.com/drive/1k-nE1dm8emzGxkEEDNkryy5Ht9WaNlG7#scrollTo=9793a8d3-19e2-4615-bf01-6cb70a22fadd), part 2
-
-## Friday: Participant Projects
-
-*An opportunity for participants to workshop their own project ideas. Moderated by Natalia Ermolaev and Meredith Martin.*
-
-<span class="headlinks">Morning</span>
-
-<span class="color">10:00 – 11:00</span>
-: *Roundtable: Computational & Digital Resources on Campus*
-: **Natalia Ermolaev, moderator**
-: **Ian Cosden, Director, Research Software Engineering for Computational & Data Science** [[slides](/hds-institute/pdf/2023-01-13_Cosden_slides.pdf)]
-: **Jennifer Grayburn, Assistant Director of Digital and Open Scholarship** [[slides](/hds-institute/pdf/2023-01-13_grayburn_slides.pdf)]
-: **Ben Johnston, Senior Educational Technologist, McGraw Center for Teaching & Learning** [[slides](/hds-institute/pdf/2023-01-13_johnston_slides.pdf)]
-: **Ariel Ackerly, Makerspace Specialist, Princeton University Library** [[slides](/hds-institute/pdf/2023-01-13_Ackerly_slides.pdf)]
-: **Jonathan Halverson, Research Software and Computing Training Lead, Princeton Institute for Computational Science & Engineering**
-
-<span class="color">11:00 – 12:30</span>
-: *Participant Project Consultations*
-: **Grant Wythoff, moderator**
-: How can participants apply what they have learned to their own discipline?
-: What research projects or introductory course ideas do participants want to explore?
-: CDH staff will help participants scope their idea to attainable goals while identifying what support or additional training they need.
-
-<span class="headlinks">Afternoon</span>
-
-<span class="color">1:30 – 3:00</span>
-: *Participant project consultations, continued.*
-
-<span class="color">3:00 – 4:00</span>
-: *Share feedback for next summer's Institute in [this exit survey](https://forms.gle/QnYGoz98GsM8k6gC6).*
+- Prepare and discuss, in this closing week, your final projects.
+- Potential discussion also of computational portion of dissertation in preparation for Graduate Certificate in DH.
