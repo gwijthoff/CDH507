@@ -1,6 +1,6 @@
-baseURL = "https://princeton-cdh.github.io/hds-institute/"
+baseURL = "https://gwijthoff.github.io/CDH507/
 languageCode = "en-US"
-title = "Humanities & Data Science Institute"
+title = "CDH 507: Data & the Humanities"
 theme = "hds-institute"
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License."
 enableEmoji = true
