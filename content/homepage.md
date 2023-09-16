@@ -23,4 +23,12 @@ In this class, students will:
 - Locate their home discipline within the wider galaxy of humanistic inquiry. How do the interaction of quantitative methods and data science impact their field, as well as the humanities at large?
 - Learn about the rise of so-called "artificial intelligence" in the world today, and what interventions humanities researchers offer the way these technologies construe meaning.
 - Prepare a research plan for a DH project, either as a conference presentation, a dissertation chapter, a standalone research article, or a curated dataset.
-- Read recent scholarship spanning history, literary studies, art history, and other humanities disciplines engaged in the use of computational methods.
+- Read ~70-100pp / week of recent scholarship spanning history, literary studies, art history, and other humanities disciplines engaged in the use of computational methods.
+
+### Assignments
+
+Assignments for the course include:
+
+- 40% | Short prospectus for a DH research topic and project related to the student's discipline in the form of a mock grant proposal. Proposal should include elements like a bibliography, a speculative, ten-line sample of a dataset, the teaching potential of that data, and the kinds of research questions it would enable. (The proposed project does not need to be fully enacted during the course.)
+- 30% | Discussion contributions before, during, and after class, attendance: 
+- 50% | Completion of hands-on exercises with DH tools & methods, week-by-week in class.
