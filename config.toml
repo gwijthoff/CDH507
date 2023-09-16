@@ -1,6 +1,6 @@
-baseURL = "https://gwijthoff.github.io/CDH507/
+baseURL = "https://gwijthoff.github.io/CDH507/"
 languageCode = "en-US"
-title = "CDH 507:\ Data & the Humanities"
+title = "CDH 507: Data in the Humanities"
 theme = "hds-institute"
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License."
 enableEmoji = true
