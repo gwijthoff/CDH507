@@ -20,8 +20,8 @@ This graduate course provides a foundation in the history, concepts, methodologi
 In this class, students will:
 
 - Gain fluency in the current landscape of platforms, tools, and techniques for computational and data-driven research in the humanities. In particular, students learn the basics of the command line, GitHub, and Jupyter (Python) notebooks.
-- Locate their home discipline within the wider galaxy of humanistic inquiry. How do the interaction of quantitative methods and data science impact their field, as well as the humanities at large?
-- Learn about the rise of so-called "artificial intelligence" in the world today, and what interventions humanities researchers offer the way these technologies construe meaning.
+- Locate their home discipline within the wider galaxy of humanistic inquiry. How are quantitative methods and data science impacting their field, as well as the humanities writ large?
+- Learn about the rise of so-called "artificial intelligence" in the world today and what interventions humanities researchers offer the way these technologies construe meaning.
 - Prepare a research plan for a DH project, either as a conference presentation, a dissertation chapter, a standalone research article, or a curated dataset.
 - Read ~70-100pp / week of recent scholarship spanning history, literary studies, art history, and other humanities disciplines engaged in the use of computational methods.
 
@@ -29,6 +29,6 @@ In this class, students will:
 
 Assignments for the course include:
 
-- 40% | Short prospectus for a DH research topic and project related to the student's discipline in the form of a mock grant proposal. Proposal should include elements like a bibliography, a speculative, ten-line sample of a dataset, the teaching potential of that data, and the kinds of research questions it would enable. (The proposed project does not need to be fully enacted during the course.)
-- 30% | Discussion contributions before, during, and after class, attendance: 
-- 50% | Completion of hands-on exercises with DH tools & methods, week-by-week in class.
+- 40% | Short prospectus for a DH research project related to the student's discipline in the form of a mock grant proposal. Proposal should include elements like a bibliography, a speculative, ten-line sample of a dataset, the teaching potential of that data, and the kinds of research questions it would enable. The proposed project does not need to be fully enacted during the course, but can eventually take the form of a conference talk, dissertation chapter, article, or dataset.
+- 30% | Completion of hands-on exercises with DH tools & methods. Work will be done both in and out of class.
+- 30% | Discussion contributions before, during, and after class; attendance.

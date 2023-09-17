@@ -28,7 +28,7 @@ This list is subject to change according to the interests of the group and the d
 
 - Eric Hayot, _Humanist Reason: A History. An Argument. A Plan_ (Columbia University Press, 2021). Excerpts.
 - Read one chapter relevant to your field from *[Debates in the Digital Humanities 2012](https://dhdebates.gc.cuny.edu/),* ed. Matt Gold & Lauren Klein, and come prepared to discuss.
-- **🛠️ Exercise:** Create a GitHub account and push a change to the course website.
+- **Exercise:** Create a GitHub account and push a change to the course website.
 
 <!--
 - Jerry A. Jacobs, _In Defense of Disciplines: Interdisciplinarity and Specialization in the Research University_ (Chicago ; London: University Of Chicago Press, 2014). Excerpts.
@@ -44,7 +44,7 @@ This list is subject to change according to the interests of the group and the d
 - Ted Underwood et al., "Culture, Theory, Data: An Introduction" to special issue, *New Literary History* 53, no. 4 (Winter 2023).
 - Orit Halpern et al., "Surplus Data: An Introduction" to special issue of *Critical Inquiry* 48, no. 2 (Winter 2022).
 - Matthew Kirschenbaum, Introduction to "Again Theory: A Forum on Language, Meaning, and Intent in the Time of Stochastic Parrots," *In The Moment* (June 2023)
-- **🛠️ Exercise:** navigate your computer's file directory using the command line.
+- **Exercise:** navigate your computer's file directory using the command line.
 
 <!--
 - Lauren Klein, “Dimensions of Scale: Invisible Labor, Editorial Work, and the Future of Quantitative Literary Studies,” _PMLA_ 135, no. 1 (January 1, 2020): 23–39.
@@ -55,14 +55,14 @@ This list is subject to change according to the interests of the group and the d
 
 - Theodore M. Porter, _Trust in Numbers: The Pursuit of Objectivity in Science and Public Life_ (Princeton, N.J: Princeton University Press, 2020 [1995]). Excerpts.
 - Steven Ruggles, “The Revival of Quantification: Reflections on Old New Histories,” _Social Science History_ 45, no. 1 (ed 2021): 1–25.
-- **🛠️ Exercise:** clone the code for the course website onto your computer, navigate to the repository using the command line, and serve the website locally.
+- **Exercise:** clone the code for the course website onto your computer, navigate to the repository using the command line, and serve the website locally.
 
 ### Wk. 05 | Apr 28 | Quantitative Methods: Generalization & Reproducibility
 
 - Visit from Jo Guldi, Full Professor of Quantitative Methods at Emory University
 - Jo Guldi, _The Dangerous Art of Text Mining: A Methodology for Digital History,_ (Cambridge: Cambridge University Press, 2023). Excerpts.
 - Andrew Piper, _Can We Be Wrong? The Problem of Textual Evidence in a Time of Data_, Cambridge Elements in Digital Literary Studies (Cambridge University Press, 2020). Excerpts.
-- **🛠️ Exercise:** Introduction to Jupyter Notebooks, *The Programming Historian,* Quinn Dombrowski et al.
+- **Exercise:** Introduction to Jupyter Notebooks, *The Programming Historian,* Quinn Dombrowski et al.
 
 ## **METHODOLOGIES**
 
@@ -73,24 +73,26 @@ This list is subject to change according to the interests of the group and the d
 - Review list of [workshops on data & computation](https://libcal.princeton.edu/calendar/events?cid=12260&t=d&d=0000-00-00&cal=12260&ct=66018&inc=0) offered by PUL's Digital Scholarship unit
 - Review [`dh-notes`](https://github.com/dh-notes/dhnotes), a crowdsourced list of DH conferences, workshops, and funding sources
 
-******************************************
+| | | |
+|-|-|-|
+| | *Spring Break* | |
 
 ### Wk. 07 | Mar 20 | Curating Structured Data
 
 - Katie Rawson and Trevor Muñoz, “Against Cleaning,” in _Debates in the Digital Humanities 2019_ (Minneapolis: University Of Minnesota Press, 2019).
-- **🛠️ Exercise:** Seth van Hooland et al., "Cleaning Data with OpenRefine," *The Programming Historian* (May 2013).
+- **Exercise:** Seth van Hooland et al., "Cleaning Data with OpenRefine," *The Programming Historian* (May 2013).
 
 ### Wk. 08 | Mar 27 | Finding & Filtering Structured Data
 
 - Eun Seo Jo and Timnit Gebru, “Lessons from Archives: Strategies for Collecting Sociocultural Data in Machine Learning,” _Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency,_ (January 27, 2020), 306–16.
 - Jessica Marie Johnson, “Markup Bodies: Black [Life] Studies and Slavery [Death] Studies at the Digital Crossroads,” Social Text 36, no. 4 (137) (December 1, 2018): 57–79.
-- **🛠️ Exercise:** find an example dataset in your discipline that was the end product of some type of quantification, small and then big. Browse Matt Lavin's [Humanities Data](https://humanitiesdata.com/resources) site or Melanie Walsh's [list of datasets](https://melaniewalsh.github.io/Intro-Cultural-Analytics/00-Datasets/00-Datasets.html). Load the CSV into a Jupyter notebook using Pandas, and describe its contents.
+- **Exercise:** find an example dataset in your discipline that was the end product of some type of quantification, small and then big. Browse Matt Lavin's [Humanities Data](https://humanitiesdata.com/resources) site or Melanie Walsh's [list of datasets](https://melaniewalsh.github.io/Intro-Cultural-Analytics/00-Datasets/00-Datasets.html). Load the CSV into a Jupyter notebook using Pandas, and describe its contents.
 
 ### Wk. 09 | Apr 03 | Networks
 
 - Ruth Ahnert et al., eds., *The Network Turn: Changing Perspectives in the Humanities* (Cambridge University Press, 2020). Excerpts.
 - Melanie Conroy, "Visualizing Social Networks: Palladio and the Encyclopédistes, Pt. I," Age of Revolutions (September 2017).
-- **🛠️ Exercise:** Miriam Posner, [Getting Started With Palladio](https://hcommons.org/?get_group_doc=1003007/1552175523-FolgerworkshopnetworksPalladiotutorial.pdf).
+- **Exercise:** Miriam Posner, [Getting Started With Palladio](https://hcommons.org/?get_group_doc=1003007/1552175523-FolgerworkshopnetworksPalladiotutorial.pdf).
 
 ### Wk. 10 | Apr 10 | Maps & Spatial Humanities
 
