@@ -57,7 +57,7 @@ This list is subject to change according to the interests of the group and the d
 - Steven Ruggles, “The Revival of Quantification: Reflections on Old New Histories,” _Social Science History_ 45, no. 1 (ed 2021): 1–25.
 - **Exercise:** clone the code for the course website onto your computer, navigate to the repository using the command line, and serve the website locally.
 
-### Wk. 05 | Apr 28 | Quantitative Methods: Generalization & Reproducibility
+### Wk. 05 | Feb 28 | Quantitative Methods: Generalization & Reproducibility
 
 - Visit from Jo Guldi, Full Professor of Quantitative Methods at Emory University
 - Jo Guldi, _The Dangerous Art of Text Mining: A Methodology for Digital History,_ (Cambridge: Cambridge University Press, 2023). Excerpts.
@@ -73,9 +73,11 @@ This list is subject to change according to the interests of the group and the d
 - Review list of [workshops on data & computation](https://libcal.princeton.edu/calendar/events?cid=12260&t=d&d=0000-00-00&cal=12260&ct=66018&inc=0) offered by PUL's Digital Scholarship unit
 - Review [`dh-notes`](https://github.com/dh-notes/dhnotes), a crowdsourced list of DH conferences, workshops, and funding sources
 
-| | | |
-|-|-|-|
-| | *Spring Break* | |
+***********
+
+<p class="tc"><em>🏝️ Spring Break 🏝️</em></p>
+
+***********
 
 ### Wk. 07 | Mar 20 | Curating Structured Data
 
