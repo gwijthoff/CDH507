@@ -27,7 +27,7 @@ Introduction to the Center for Digital Humanities, our allied centers on campus,
 ### Wk. 02 | Feb 07 | Histories of the Humanities
 
 - Eric Hayot, [_Humanist Reason: A History. An Argument. A Plan_](https://princeton.instructure.com/files/2697200/download?download_frd=1) (Columbia University Press, 2021), Chapters 1 & 4.
-- Helen Small, *The Value of the Humanities,* (Oxford: Oxford Univ. Press, 2013). Excerpts.
+- Helen Small, *[The Value of the Humanities](https://princeton.instructure.com/courses/14469/files?preview=2722746),* (Oxford: Oxford Univ. Press, 2013). Excerpts.
 - Rens Bod, *[A New History of the Humanities](https://academic.oup.com/book/3506)* (Oxford: Oxford Univ. Press, 2014), Introduction: "The Quest for Principles and Patterns."
 - Recommended but not required
     - Jerry A. Jacobs, _In Defense of Disciplines: Interdisciplinarity and Specialization in the Research University_ (Chicago ; London: University Of Chicago Press, 2014).
