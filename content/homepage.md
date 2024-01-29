@@ -7,10 +7,17 @@ layout: single
 
 <h3 class="tc">
 
+‡
+
 CDH 507 / HUM 507\
 Spring 2024\
-McCosh B12\
-Grant Wythoff
+Wed 1:30–4:20\
+Chancellor 103
+
+Grant Wythoff\
+*office hours by appointment*
+
+‡
 
 </h3>
 
