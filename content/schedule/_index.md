@@ -13,13 +13,17 @@ This list is subject to change according to the interests of the group and the d
 
 ## **BEARINGS**
 
-### Wk. 01 | Jan 31 | Introductions; Platforms; AI
+### Wk. 01 | **Jan 31** | Introductions; Platforms; AI
 
 *Introduction to the Center for Digital Humanities, our allied centers on campus, the class, the platforms we’ll use, and how the latest conversations on artificial intelligence intersect with humanities research.*
 
-#### 🛝 [slides](/CDH507/pdf/CDH507_wk1_slides.pdf)
+<h4> 
 
-#### 📖 readings
+🛝 [slides](/CDH507/pdf/CDH507_wk1_slides.pdf) 
+
+</h4>
+
+<h4>📖 readings</h4>
 
 - Meredith Whittaker, “[The Steep Cost of Capture](https://dl.acm.org/doi/pdf/10.1145/3488666),” _Interactions_ 28, no. 6 (November 10, 2021): 50–55.
 - Matthew Kirschenbaum, "[Prepare for the Textpocalypse](https://princeton.instructure.com/files/2696994/download?download_frd=1)," *The Atlantic,* March 8, 2023.
@@ -30,7 +34,7 @@ This list is subject to change according to the interests of the group and the d
 
 ### Wk. 02 | Feb 07 | Histories of the Humanities
 
-#### 📖 readings
+<h4>📖 readings</h4>
 
 - Eric Hayot, [_Humanist Reason: A History. An Argument. A Plan_](https://princeton.instructure.com/files/2697200/download?download_frd=1) (Columbia University Press, 2021), Chapters 1 & 4.
 - Helen Small, *[The Value of the Humanities](https://princeton.instructure.com/courses/14469/files?preview=2722746),* (Oxford: Oxford Univ. Press, 2013). Excerpts.
@@ -40,7 +44,7 @@ This list is subject to change according to the interests of the group and the d
     - Barbara Herrnstein Smith, “[What Was Close Reading? A Century of Method in Literary Studies](https://doi.org/10.1215/00265667-3630844),” _Minnesota Review_ 87 (2016): 57–75.
     - Harvard libguide on close and distant reading: https://guides.library.harvard.edu/literature/closereading
 
-#### 🛠️ exercises
+<h4>🛠️ exercises</h4>
 
   - Review list of departments and programs classified as [Humanities](https://gradschool.princeton.edu/academics/degrees-requirements/fields-study?discipline=11&program=All) and as [Social Sciences](https://gradschool.princeton.edu/academics/degrees-requirements/fields-study?discipline=16&program=All) at Princeton.
   - Find an example dataset in your discipline (preferably a .CSV) that was the end product of some type of quantification, small or then big. 
@@ -50,7 +54,7 @@ This list is subject to change according to the interests of the group and the d
 
 ### Wk. 03 | Feb 14 | Histories of DH: From IBM Up to the Big Tent
 
-#### 📖 readings
+<h4>📖 readings</h4>
 
 - Brad Pasanek, “[Extreme Reading: Josephine Miles and the Scale of the Pre-Digital Digital Humanities](https://muse.jhu.edu/article/726184),” *ELH* 86, no. 2 (2019): 355–85.
 - Arun Jacob, “[Punching Holes in the International Busa Machine Narrative](https://www.jstor.org/stable/j.ctv1r7878x.7),” in _Alternative Historiographies of the Digital Humanities_, ed. Dorothy Kim and Adeline Koh (Punctum Books, 2021), 121–44.
@@ -64,7 +68,7 @@ This list is subject to change according to the interests of the group and the d
     - Yohei Igarashi, “Statistical Analysis at the Birth of Close Reading,” _New Literary History_ 46, no. 3 (2015): 485–504.
     - Chris Alen Sula and Heather V. Hill, “[The Early History of Digital Humanities: An Analysis of Computers and the Humanities (1966–2004) and Literary and Linguistic Computing (1986–2004)](https://doi.org/10.1093/llc/fqz072),” _Digital Scholarship in the Humanities_ 34, Supplement 1 (December 2019): 190–206.
 
-#### 🛠️ exercises
+<h4>🛠️ exercises</h4>
 
 - Intro to the Command Line and [VisiData](https://www.visidata.org/), a command line tool for exploring tabular data. Load your sample CSV from last week into VisiData and describe its contents.
 
