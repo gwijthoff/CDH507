@@ -37,7 +37,7 @@ This list is subject to change according to the interests of the group and the d
 <h4>📖 readings</h4>
 
 - Eric Hayot, [_Humanist Reason: A History. An Argument. A Plan_](https://princeton.instructure.com/files/2697200/download?download_frd=1) (Columbia University Press, 2021), Chapters 1 & 4.
-- Helen Small, *[The Value of the Humanities](https://princeton.instructure.com/courses/14469/files?preview=2722746),* (Oxford: Oxford Univ. Press, 2013). Excerpts.
+- Helen Small, *[The Value of the Humanities](https://princeton.instructure.com/courses/14469/files?preview=2722746),* (Oxford: Oxford Univ. Press, 2013). Introduction.
 - Rens Bod, *[A New History of the Humanities](https://academic.oup.com/book/3506)* (Oxford: Oxford Univ. Press, 2014), Introduction: "The Quest for Principles and Patterns."
 - Recommended but not required
     - Jerry A. Jacobs, _In Defense of Disciplines: Interdisciplinarity and Specialization in the Research University_ (Chicago ; London: University Of Chicago Press, 2014).
@@ -47,10 +47,13 @@ This list is subject to change according to the interests of the group and the d
 <h4>🛠️ exercises</h4>
 
   - Review list of departments and programs classified as [Humanities](https://gradschool.princeton.edu/academics/degrees-requirements/fields-study?discipline=11&program=All) and as [Social Sciences](https://gradschool.princeton.edu/academics/degrees-requirements/fields-study?discipline=16&program=All) at Princeton.
-  - Find an example dataset in your discipline (preferably a .CSV) that was the end product of some type of quantification, small or then big. 
-    - Browse Matt Lavin's [Humanities Data](https://humanitiesdata.com/resources) site or 
-    - Melanie Walsh's [list of datasets](https://melaniewalsh.github.io/Intro-Cultural-Analytics/00-Datasets/00-Datasets.html), or 
-    - this [CDH-curated list of humanities datasets](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ0eQmCNJcYt5yWXt7vfJ-W4pb9c6RPilKVDA98cz4JfjCCqB90tG0qKnAPVjoWbyhPzwTJoXJ2UKhi/pubhtml?widget=true&amp;headers=false).
+  - Find an example dataset in your discipline (preferably a .CSV) that was the end product of some type of quantification, small or then big. Browse the following collections:
+    * Matt Lavin's [Humanities Data](https://humanitiesdata.com/resources)
+	* Melanie Walsh's [list of datasets](https://melaniewalsh.github.io/Intro-Cultural-Analytics/00-Datasets/00-Datasets.html)
+	* Miriam Posner's [list of datasets](https://miriamposner.com/classes/dh201w21/final-project/datasets/)
+	* Jeremy Singer-Vine’s [_Data Is Plural_ archive](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0)
+	* *The Pudding's* [data repository](https://github.com/the-pudding/data#data-sets)
+	* [CDH-curated list of humanities datasets](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ0eQmCNJcYt5yWXt7vfJ-W4pb9c6RPilKVDA98cz4JfjCCqB90tG0qKnAPVjoWbyhPzwTJoXJ2UKhi/pubhtml?widget=true&amp;headers=false)
 
 ### Wk. 03 | Feb 14 | Histories of DH: From IBM Up to the Big Tent
 
