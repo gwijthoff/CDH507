@@ -32,7 +32,7 @@ This list is subject to change according to the interests of the group and the d
 
 ## **THEORIES**
 
-### Wk. 02 | Feb 07 | Histories of the Humanities
+### Wk. 02 | **Feb 07** | Histories of the Humanities
 
 <h4> 
 
