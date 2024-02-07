@@ -34,6 +34,12 @@ This list is subject to change according to the interests of the group and the d
 
 ### Wk. 02 | Feb 07 | Histories of the Humanities
 
+<h4> 
+
+🛝 [slides](/CDH507/pdf/CDH507_wk2_slides.pdf) 
+
+</h4>
+
 <h4>📖 readings</h4>
 
 - Eric Hayot, [_Humanist Reason: A History. An Argument. A Plan_](https://princeton.instructure.com/files/2697200/download?download_frd=1) (Columbia University Press, 2021), Chapters 1 & 4.
