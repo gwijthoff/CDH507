@@ -97,7 +97,7 @@ This list is subject to change according to the interests of the group and the d
 - Read one chapter relevant to your field from *[Debates in the Digital Humanities 2023](https://dhdebates.gc.cuny.edu/projects/debates-in-the-digital-humanities-2023),* ed. Matt Gold & Lauren Klein, and come prepared to discuss.
 - Barbara McGillivray et al., “[The Challenges and Prospects of the Intersection of Humanities and Data Science: A White Paper from The Alan Turing Institute](https://drive.google.com/file/d/1cfLtHgv31BJuusZjy6OO2Yc3ledxtvLx/view?usp=share_link),” 2020.
 - Anne Helmreich, Matthew Lincoln, and Charles van den Heuvel, “[Data Ecosystems and Futures of Art History](https://drive.google.com/file/d/1wytS8LdlMqSy7YDb6as-gpRwI86Q29RQ/view?usp=share_link),” _Histoire de l’art,_ no. 87 (June 29, 2021): 45–54.
-- Lauren Klein, “Dimensions of Scale: Invisible Labor, Editorial Work, and the Future of Quantitative Literary Studies,” _PMLA_ 135, no. 1 (January 1, 2020): 23–39.
+- Lauren Klein, “[Dimensions of Scale: Invisible Labor, Editorial Work, and the Future of Quantitative Literary Studies](https://www.cambridge.org/core/journals/pmla/article/dimensions-of-scale-invisible-labor-editorial-work-and-the-future-of-quantitative-literary-studies/9BB30779EA9C9CF7AF176E7FEF12F484),” _PMLA_ 135, no. 1 (January 1, 2020): 23–39.
 - Recommended but not required
     - Rabea Kleymann et al., "Foreword to Special Issue on 'Theorytellings: Epistemic Narratives in the Digital Humanities,'" *Cultural Analytics* 7, no. 4 (November 2022).
     - Antonija Primorac et al., “[Distant Reading Two Decades On: Reflections on the Digital Turn in the Study of Literature](https://doi.org/10.16995/dscn.8855),” _Digital Studies / Le Champ Numérique_ 13, no. 1 (October 25, 2023).
