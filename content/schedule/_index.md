@@ -61,7 +61,13 @@ This list is subject to change according to the interests of the group and the d
 	* *The Pudding's* [data repository](https://github.com/the-pudding/data#data-sets)
 	* [CDH-curated list of humanities datasets](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ0eQmCNJcYt5yWXt7vfJ-W4pb9c6RPilKVDA98cz4JfjCCqB90tG0qKnAPVjoWbyhPzwTJoXJ2UKhi/pubhtml?widget=true&amp;headers=false)
 
-### Wk. 03 | Feb 14 | Histories of DH: From IBM Up to the Big Tent
+### Wk. 03 | **Feb 14** | Histories of DH: From IBM Up to the Big Tent
+
+<h4> 
+
+🛝 [slides](/CDH507/pdf/CDH507_wk3_slides.pdf) 
+
+</h4>
 
 <h4>📖 readings</h4>
 
@@ -80,6 +86,11 @@ This list is subject to change according to the interests of the group and the d
 <h4>🛠️ exercises</h4>
 
 - Intro to the Command Line and [VisiData](https://www.visidata.org/), a command line tool for exploring tabular data. Load your sample CSV from last week into VisiData and describe its contents.
+- Windows Subsystem for Linux (WSL) [guide for Windows users](/CDH507/pdf/computing_setup_for_Windows_10.pdf)
+- Resources
+  - [Command Line Cheat Sheet](https://www.git-tower.com/blog/command-line-cheat-sheet/)
+  - [Visidata Cheat Sheet](https://jsvine.github.io/visidata-cheat-sheet/en/)
+  - [Explain Shell](https://explainshell.com/): Full explanation of any command
 
 ### Wk. 04 | Feb 21 | DH Today: Meaning & Signal
 
