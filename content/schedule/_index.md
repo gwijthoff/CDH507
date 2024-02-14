@@ -34,6 +34,8 @@ This list is subject to change according to the interests of the group and the d
 
 ### Wk. 02 | **Feb 07** | Histories of the Humanities
 
+*The history of science is a well-established, distinct field of research. What about the history of the humanities? This week we read accounts of the history of the humanities from antiquity to the present, and arguments for the distinct form of reasoning found in the humanities. Also. The idiographic and the nomothetic. The humanities' relationship to truth claims. Pattern recognition across "the two cultures."*
+
 <h4> 
 
 🛝 [slides](/CDH507/pdf/CDH507_wk2_slides.pdf) 
@@ -62,6 +64,8 @@ This list is subject to change according to the interests of the group and the d
 	* [CDH-curated list of humanities datasets](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ0eQmCNJcYt5yWXt7vfJ-W4pb9c6RPilKVDA98cz4JfjCCqB90tG0qKnAPVjoWbyhPzwTJoXJ2UKhi/pubhtml?widget=true&amp;headers=false)
 
 ### Wk. 03 | **Feb 14** | Histories of DH: From IBM Up to the Big Tent
+
+*How are DH scholars revising our understandings of the origins of DH as a discipline to include forgotten figures and the problematic origins of bureaucratic technologies? What did analog, manual approaches to quantification look like in the past? What was the state of "Big Tent" DH c. 2012? As we read about the use of older computing technologies, we'll learn how to use the Unix command line and perform exploratory data analysis using a text-based program called VisiData.*
 
 <h4> 
 
