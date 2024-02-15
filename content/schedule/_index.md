@@ -34,7 +34,7 @@ This list is subject to change according to the interests of the group and the d
 
 ### Wk. 02 | **Feb 07** | Histories of the Humanities
 
-*The history of science is a well-established, distinct field of research. What about the history of the humanities? This week we read accounts of the history of the humanities from antiquity to the present, and arguments for the distinct form of reasoning found in the humanities. Also. The idiographic and the nomothetic. The humanities' relationship to truth claims. Pattern recognition across "the two cultures."*
+*The history of science is a well-established field of research. What about the history of the humanities? This week we read accounts of the history of the humanities from antiquity to the present, and arguments for the distinct form of reasoning found in the humanities. Also. The idiographic and the nomothetic. The humanities' relationship to truth claims. Pattern recognition across "the two cultures."*
 
 <h4> 
 
