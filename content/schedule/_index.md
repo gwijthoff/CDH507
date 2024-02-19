@@ -96,7 +96,7 @@ This list is subject to change according to the interests of the group and the d
   - [Visidata Cheat Sheet](https://jsvine.github.io/visidata-cheat-sheet/en/)
   - [Explain Shell](https://explainshell.com/): Full explanation of any command
 
-### Wk. 04 | Feb 21 | DH Today: Meaning & Signal
+### Wk. 04 | **Feb 21** | DH Today: Meaning & Signal
 
 - Read one chapter relevant to your field from *[Debates in the Digital Humanities 2023](https://dhdebates.gc.cuny.edu/projects/debates-in-the-digital-humanities-2023),* ed. Matt Gold & Lauren Klein, and come prepared to discuss.
 - Barbara McGillivray et al., “[The Challenges and Prospects of the Intersection of Humanities and Data Science: A White Paper from The Alan Turing Institute](https://drive.google.com/file/d/1cfLtHgv31BJuusZjy6OO2Yc3ledxtvLx/view?usp=share_link),” 2020.
@@ -118,10 +118,9 @@ This list is subject to change according to the interests of the group and the d
     - Ted Underwood, “Theorizing Research Practices We Forgot to Theorize Twenty Years Ago,” _Representations_ 127, no. 1 (August 1, 2014): 64–72, [https://doi.org/10.1525/rep.2014.127.1.64](https://doi.org/10.1525/rep.2014.127.1.64).
     - Ian Milligan, “[Illusionary Order: Online Databases, Optical Character Recognition, and Canadian History, 1997–2010](https://muse.jhu.edu/article/527016),” _The Canadian Historical Review_ 94, no. 4 (2013): 540–69.
 - **Exercise:** 
-    - Intro to Jupyter notebooks.
-    - Browse Quinn Dombrowski's list of "[Jupyter notebooks for digital humanities](https://github.com/quinnanya/dh-jupyter)."
-    - Load your sample CSV into a Jupyter notebook and describe its contents using Pandas.
-
+    - Intro to Jupyter notebooks. Right-click [`jupyter_intro.ipynb`](/CDH507/jupyter_intro.ipynb), then "save link as...". Download the file to your computer, and open it using Visual Studio Code.
+    - Browse Quinn Dombrowski's list of "[Jupyter notebooks for digital humanities](https://github.com/quinnanya/dh-jupyter)." Find a notebook relevant to your research or field, and try loading it in VS Code.
+  
 ### Wk. 06 | Mar 06 | Quantitative Methods: Models, Generalization, & Reproducibility
 
 - *Visit from Jo Guldi, Full Professor of Quantitative Methods at Emory University*
