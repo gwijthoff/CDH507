@@ -15,7 +15,7 @@ This list is subject to change according to the interests of the group and the d
 
 ### Wk. 01 | **Jan 31** | Introductions; Platforms; AI
 
-*Introduction to the Center for Digital Humanities, our allied centers on campus, the class, the platforms we’ll use, and how the latest conversations on artificial intelligence intersect with humanities research.*
+*Introduction to the Center for Digital Humanities, our allied centers on campus, the class, the platforms we’ll use, and how the latest conversations on artificial intelligence intersect with humanities research. Briefly: distributional semantics, generative text, research infrastructures across industry & academia.*
 
 <h4> 
 
@@ -34,7 +34,7 @@ This list is subject to change according to the interests of the group and the d
 
 ### Wk. 02 | **Feb 07** | Histories of the Humanities
 
-*The history of science is a well-established field of research. What about the history of the humanities? This week we read accounts of the history of the humanities from antiquity to the present, and arguments for the distinct form of reasoning found in the humanities. Also. The idiographic and the nomothetic. The humanities' relationship to truth claims. Pattern recognition across "the two cultures."*
+*The history of science is a well-established field of research. What about the history of the humanities? This week we read accounts of the history of the humanities from antiquity to the present, and arguments for the distinct form of reasoning found in the humanities. Also: The idiographic and the nomothetic. The humanities' relationship to truth claims. Pattern recognition across "the two cultures." Then, data: tabular, tidy, structured, FAIR.*
 
 <h4> 
 
@@ -97,6 +97,12 @@ This list is subject to change according to the interests of the group and the d
   - [Explain Shell](https://explainshell.com/): Full explanation of any command
 
 ### Wk. 04 | **Feb 21** | DH Today: Meaning & Signal
+
+<h4> 
+
+🛝 [slides](/CDH507/pdf/CDH507_wk4_slides.pdf)
+
+</h4>
 
 - Read one chapter relevant to your field from *[Debates in the Digital Humanities 2023](https://dhdebates.gc.cuny.edu/projects/debates-in-the-digital-humanities-2023),* ed. Matt Gold & Lauren Klein, and come prepared to discuss.
 - Barbara McGillivray et al., “[The Challenges and Prospects of the Intersection of Humanities and Data Science: A White Paper from The Alan Turing Institute](https://drive.google.com/file/d/1cfLtHgv31BJuusZjy6OO2Yc3ledxtvLx/view?usp=share_link),” 2020.
