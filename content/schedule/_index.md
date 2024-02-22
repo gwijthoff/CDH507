@@ -114,9 +114,10 @@ This list is subject to change according to the interests of the group and the d
 - **Exercise:**
     - Introduction to [OpenRefine](https://openrefine.org/), a tool for working with messy data. Bryan Winston, Digital Scholarship Specialist, Princeton University Libraries
 
-### Wk. 05 | Feb 28 | Is "DH" Now Just "H"?
+### Wk. 05 | **Feb 28** | Is "DH" Now Just "H"?
 
-- *Visit from Jeri Wieringa, Assistant Director, Center for Digital Humanities*
+*Visit from Jeri Wieringa, Assistant Director, Center for Digital Humanities*
+
 - Steven Ruggles, “[The Revival of Quantification: Reflections on Old New Histories](https://www.cambridge.org/core/journals/social-science-history/article/revival-of-quantification-reflections-on-old-new-histories/857C3FCC25129D7ED3065D957F1CC528),” _Social Science History_ 45, no. 1 (2021): 1–25.
 - Underwood, McGrath, So, & Wellmon, "[Culture, Theory, Data: An Introduction](https://newliteraryhistory.org/wp/wp-content/uploads/2023/06/54-1-intro.pdf)" to special issue, *New Literary History* 53, no. 4 (Winter 2023).
 - Read one additional article relevant to your field from [special issue on "Theory, Culture, Data"](https://muse.jhu.edu/issue/51067), *New Literary History* 53(4) and 54(1), and come prepared to discuss.
@@ -129,10 +130,16 @@ This list is subject to change according to the interests of the group and the d
   
 ### Wk. 06 | Mar 06 | Quantitative Methods: Models, Generalization, & Reproducibility
 
-- *Visit from Jo Guldi, Full Professor of Quantitative Methods at Emory University*
+*Visit from Jo Guldi, Full Professor of Quantitative Methods at Emory University*
+
 - Jo Guldi, _[The Dangerous Art of Text Mining: A Methodology for Digital History](https://www.cambridge.org/core/books/dangerous-art-of-text-mining/C07F637BB12F7D89CF9295F02EF44905),_ (Cambridge: Cambridge University Press, 2023). Excerpts.
-- Andrew Piper, _Can We Be Wrong? The Problem of Textual Evidence in a Time of Data_, Cambridge Elements in Digital Literary Studies (Cambridge University Press, 2020). Excerpts.
+  - [Preface](https://www.cambridge.org/core/books/dangerous-art-of-text-mining/preface/63D4A81DD3B78C41501D96D27BDE8DD1)
+  - Ch 4: [Critical Search: A Theory](https://www.cambridge.org/core/books/dangerous-art-of-text-mining/critical-search-a-theory/753FFF64E14BA0C7257C0BED2BF954FF)
+  - Ch 5: [To Predict or to Describe?](https://www.cambridge.org/core/books/dangerous-art-of-text-mining/to-predict-or-to-describe/2B2DF335F79E8C628E6C00C68A43F98A)
+  - Ch 14: [The Future of the Art](https://www.cambridge.org/core/books/dangerous-art-of-text-mining/future-of-the-art/1D27E9D0FFA335BC5B92BBA15716FCB1)
+- Also review Guldi & Buongiorno's [Hansard Viewer](https://shinyviz.smu.edu/shiny/public/hansard-shiny/) (covered in Chapter 8)
 - Recommended but not required
+    - Andrew Piper, _Can We Be Wrong? The Problem of Textual Evidence in a Time of Data_, Cambridge Elements in Digital Literary Studies (Cambridge University Press, 2020).
     - Theodore M. Porter, _Trust in Numbers: The Pursuit of Objectivity in Science and Public Life_ (Princeton, N.J: Princeton University Press, 2020 [1995]). Excerpts.
     - Willard McCarty, "[Modeling: A Study in Words and Meanings](https://companions.digitalhumanities.org/DH/?chapter=content/9781405103213_chapter_19.html)," in *A Companion to Digital Humanities* (2004).
 
