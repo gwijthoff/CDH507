@@ -98,6 +98,8 @@ This list is subject to change according to the interests of the group and the d
 
 ### Wk. 04 | **Feb 21** | DH Today: Meaning & Signal
 
+*What is the state of the digital humanities today? How are institutions thinking about the intersection of data science with well-established DH methods? How do researchers from various disciplinary backgrounds construe "meaning" differently? Then: a workshop on data wrangling in OpenRefine with Bryan Winston, PUL Digital Scholarship.*
+
 <h4> 
 
 🛝 [slides](/CDH507/pdf/CDH507_wk4_slides.pdf)
