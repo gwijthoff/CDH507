@@ -120,6 +120,12 @@ This list is subject to change according to the interests of the group and the d
 
 *Visit from Jeri Wieringa, Assistant Director, Center for Digital Humanities*
 
+<h4> 
+
+🛝 [slides](/CDH507/pdf/CDH507_wk5_slides.pdf) 
+
+</h4>
+
 - Steven Ruggles, “[The Revival of Quantification: Reflections on Old New Histories](https://www.cambridge.org/core/journals/social-science-history/article/revival-of-quantification-reflections-on-old-new-histories/857C3FCC25129D7ED3065D957F1CC528),” _Social Science History_ 45, no. 1 (2021): 1–25.
 - Underwood, McGrath, So, & Wellmon, "[Culture, Theory, Data: An Introduction](https://newliteraryhistory.org/wp/wp-content/uploads/2023/06/54-1-intro.pdf)" to special issue, *New Literary History* 53, no. 4 (Winter 2023).
 - Read one additional article relevant to your field from [special issue on "Theory, Culture, Data"](https://muse.jhu.edu/issue/51067), *New Literary History* 53(4) and 54(1), and come prepared to discuss.
