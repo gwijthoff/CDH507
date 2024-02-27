@@ -125,7 +125,7 @@ This list is subject to change according to the interests of the group and the d
     - Ted Underwood, “Theorizing Research Practices We Forgot to Theorize Twenty Years Ago,” _Representations_ 127, no. 1 (August 1, 2014): 64–72, [https://doi.org/10.1525/rep.2014.127.1.64](https://doi.org/10.1525/rep.2014.127.1.64).
     - Ian Milligan, “[Illusionary Order: Online Databases, Optical Character Recognition, and Canadian History, 1997–2010](https://muse.jhu.edu/article/527016),” _The Canadian Historical Review_ 94, no. 4 (2013): 540–69.
 - **Exercise:** 
-    - Intro to Jupyter notebooks. Right-click [`jupyter_intro.ipynb`](/CDH507/jupyter_intro.ipynb), then "save link as...". Download the file to your computer, and open it using Visual Studio Code.
+    - Intro to Jupyter notebooks. Right-click [`jupyter_intro.ipynb`](/CDH507/jupyter_intro.ipynb), then "save link as...". Download the file to your computer, and open it using Visual Studio Code. Alternatively, navigate to [Google Colab](https://colab.research.google.com/), sign into your institutional account, select File > Upload Notebook, and select the `.ipynb` file.
     - Browse Quinn Dombrowski's list of "[Jupyter notebooks for digital humanities](https://github.com/quinnanya/dh-jupyter)." Find a notebook relevant to your research or field, and try loading it in VS Code.
   
 ### Wk. 06 | Mar 06 | Quantitative Methods: Models, Generalization, & Reproducibility
