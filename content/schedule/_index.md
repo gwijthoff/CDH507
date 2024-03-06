@@ -156,7 +156,7 @@ This list is subject to change according to the interests of the group and the d
     - Andrew Piper, _Can We Be Wrong? The Problem of Textual Evidence in a Time of Data_, Cambridge Elements in Digital Literary Studies (Cambridge University Press, 2020).
     - Theodore M. Porter, _Trust in Numbers: The Pursuit of Objectivity in Science and Public Life_ (Princeton, N.J: Princeton University Press, 2020 [1995]). Excerpts.
     - Willard McCarty, "[Modeling: A Study in Words and Meanings](https://companions.digitalhumanities.org/DH/?chapter=content/9781405103213_chapter_19.html)," in *A Companion to Digital Humanities* (2004).
-- **Exercise:** "Thinking About Semantic Change" (Guldi's handout)
+- **Exercise:** "[Thinking About Semantic Change](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.dropbox.com%2Fscl%2Ffi%2Fmn1dv7pwyfrnnaadkgof8%2FQTM-490R-week-3-handout-semantic-change-and-environmentalist-collocates.docx%3Frlkey%3D6n9t8ety2mdnipluolt9oz26q%26dl%3D0&data=05%7C02%7Cgwythoff%40princeton.edu%7Ca60403b8d6ec4fba2e5308dc3d54cff3%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638452683211808828%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=KHDRwIkN%2FHg%2BpfTeXs25J9kc662vXy4oaGgXwDOeIlU%3D&reserved=0)" (Jo's handout on discourse surrounding environmentalism in Congress)
 - Review and discuss [final project](/CDH507/final) options.
 
 <br>
