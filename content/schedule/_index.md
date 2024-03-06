@@ -136,7 +136,7 @@ This list is subject to change according to the interests of the group and the d
     - Intro to Jupyter notebooks. Right-click [`jupyter_intro.ipynb`](/CDH507/jupyter_intro.ipynb), then "save link as...". Download the file to your computer, and open it using Visual Studio Code. Alternatively, navigate to [Google Colab](https://colab.research.google.com/), sign into your institutional account, select File > Upload Notebook, and select the `.ipynb` file.
     - Browse Quinn Dombrowski's list of "[Jupyter notebooks for digital humanities](https://github.com/quinnanya/dh-jupyter)." Find a notebook relevant to your research or field, and try loading it in VS Code.
   
-### Wk. 06 | Mar 06 | Quantitative Methods: Models, Generalization, & Reproducibility
+### Wk. 06 | **Mar 06** | Quantitative Methods: Models, Generalization, & Reproducibility
 
 *Visit from Jo Guldi, Full Professor of Quantitative Methods at Emory University*
 
@@ -150,6 +150,10 @@ This list is subject to change according to the interests of the group and the d
     - Andrew Piper, _Can We Be Wrong? The Problem of Textual Evidence in a Time of Data_, Cambridge Elements in Digital Literary Studies (Cambridge University Press, 2020).
     - Theodore M. Porter, _Trust in Numbers: The Pursuit of Objectivity in Science and Public Life_ (Princeton, N.J: Princeton University Press, 2020 [1995]). Excerpts.
     - Willard McCarty, "[Modeling: A Study in Words and Meanings](https://companions.digitalhumanities.org/DH/?chapter=content/9781405103213_chapter_19.html)," in *A Companion to Digital Humanities* (2004).
+- **Exercise:** "Thinking About Semantic Change" (Guldi's handout)
+- Review and discuss [final project](/CDH507/final) options.
+
+<br>
 
 ***********
 
@@ -215,9 +219,5 @@ This list is subject to change according to the interests of the group and the d
         
 ### Wk. 12 | Apr 24 | Project Proposal Presentations
 
-- Prepare and discuss, in this closing week, your final projects.
+- Prepare and discuss, in this closing week, your [final projects.](/CDH507/final)
 - Potential discussion of computational portion of dissertation in preparation for Graduate Certificate in DH.
-
-<!--
-Acknowledgments: Melanie Walsh, Alan Liu, Meredith Martin, Rebecca Munson, Zoe LeBlanc, Sierra Eckert
--->
