@@ -52,6 +52,6 @@ For inspiration, view the [NEH Office of Digital Humanities sample application n
 
 In groups of 2 or 3, you can produce a collaborative final project. Possible collaborations include:
 
-- Construct a glossary of technical terms from computer science and the humanities, legible to participants from both disciplines. This glossary should be a living resource to which future students can read and write. Humanistic concepts like "idiographic" and "paleography" should receive equal depth as technical concepts like "matrix" and "semantic distribution."
+- Construct a glossary of technical terms from computer science and the humanities, legible to participants from both disciplines. This glossary should be a living resource to which future students can read and write. Humanistic concepts like "idiographic" and "paleography" should receive equal depth as technical concepts like "dimensionality reduction" and "semantic distribution."
 
 Along with the group project (whatever form it takes), each student should individually submit a brief (>1,000 word) statement outlining their own contributions, and reflecting on the ways this project might have life beyond the course.
