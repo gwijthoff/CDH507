@@ -140,6 +140,12 @@ This list is subject to change according to the interests of the group and the d
 
 *Visit from Jo Guldi, Full Professor of Quantitative Methods at Emory University*
 
+<h4> 
+
+🛝 [slides](/CDH507/pdf/CDH507_wk6_slides.pdf) 
+
+</h4>
+
 - Jo Guldi, _[The Dangerous Art of Text Mining: A Methodology for Digital History](https://www.cambridge.org/core/books/dangerous-art-of-text-mining/C07F637BB12F7D89CF9295F02EF44905),_ (Cambridge: Cambridge University Press, 2023). Excerpts.
   - [Preface](https://www.cambridge.org/core/books/dangerous-art-of-text-mining/preface/63D4A81DD3B78C41501D96D27BDE8DD1)
   - Ch 4: [Critical Search: A Theory](https://www.cambridge.org/core/books/dangerous-art-of-text-mining/critical-search-a-theory/753FFF64E14BA0C7257C0BED2BF954FF)
