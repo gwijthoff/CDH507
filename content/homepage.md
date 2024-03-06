@@ -37,6 +37,6 @@ In this class, students will:
 
 Assignments for the course include:
 
-- 40% | Short prospectus for a DH research project related to the student's discipline in the form of a mock grant proposal. Proposal should include elements like a bibliography, a speculative, ten-line sample of a dataset, the teaching potential of that data, and the kinds of research questions it would enable. The proposed project does not need to be fully enacted during the course, but can eventually take the form of a conference talk, dissertation chapter, article, or dataset.
+- 40% | [Final project.](/CDH507/final)
 - 30% | Completion of hands-on exercises with DH tools & methods. Work will be done both in and out of class.
 - 30% | Discussion contributions before, during, and after class; attendance.

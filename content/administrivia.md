@@ -28,4 +28,4 @@ Princeton offers a variety of confidential services to help you through difficul
 
 # Acknowledgements
 
-Thanks to all guest speakers, to my colleagues at the CDH, and to Sierra Eckert, Alex Gil, Lauren Klein, Zoe LeBlanc, Alan Liu, Meredith Martin, Rebecca Munson, Miriam Posner, and others whose syllabi and pedagogy influenced the design and content of this course.
+Thanks to all guest speakers, to my colleagues at the CDH, and to Sierra Eckert, Alex Gil, Lauren Klein, Zoe LeBlanc, Alan Liu, Meredith Martin, Rebecca Munson, Miriam Posner, and others whose syllabi and pedagogy influenced the design and content of this course. Elements of the final project were inspired by similar assignments designed by Tanya Clement, Scott Weingart, Ryan Cordell, John R. Ladd, Quinn Dombrowski, and Matthew K. Gold.
