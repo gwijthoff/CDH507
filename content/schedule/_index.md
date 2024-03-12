@@ -169,13 +169,14 @@ This list is subject to change according to the interests of the group and the d
 
 ## **METHODS**
 
-### Wk. 07 | Mar 20 | Scraping & Curating Structured Data
+### Wk. 07 | **Mar 20** | Scraping & Curating Structured Data
 
-- Katie Rawson and Trevor Muñoz, “Against Cleaning,” in _Debates in the Digital Humanities 2019_ (Minneapolis: University Of Minnesota Press, 2019).
-- Jessica Marie Johnson, “Markup Bodies: Black [Life] Studies and Slavery [Death] Studies at the Digital Crossroads,” _Social Text_ 36, no. 4 (137) (December 1, 2018): 57–79, [https://doi.org/10.1215/01642472-7145658](https://doi.org/10.1215/01642472-7145658).
-- Daniel Rosenberg, “Data Before the Fact,” in _“Raw Data” Is an Oxymoron_, ed. Lisa Gitelman (Cambridge: MIT Press, 2013), 15–40.
-- Marisa Elena Duarte and Miranda Belarde-Lewis, “Imagining: Creating Spaces for Indigenous Ontologies,” _Cataloging & Classification Quarterly_ 53, no. 5–6 (July 4, 2015): 677–702, [https://doi.org/10.1080/01639374.2015.1018396](https://doi.org/10.1080/01639374.2015.1018396).
+- Katie Rawson and Trevor Muñoz, “[Against Cleaning](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/07154de9-4903-428e-9c61-7a92a6f22e51#ch23),” in _Debates in the Digital Humanities 2019_ (Minneapolis: University Of Minnesota Press, 2019).
 - Henk Alkemade et al., “Datasheets for Digital Cultural Heritage Datasets” 9, no. 1 (October 30, 2023): 17, https://doi.org/10.5334/johd.124.
+- Recommended but not required
+  - Jessica Marie Johnson, “Markup Bodies: Black [Life] Studies and Slavery [Death] Studies at the Digital Crossroads,” _Social Text_ 36, no. 4 (137) (December 1, 2018): 57–79, [https://doi.org/10.1215/01642472-7145658](https://doi.org/10.1215/01642472-7145658).
+  - Daniel Rosenberg, “Data Before the Fact,” in _“Raw Data” Is an Oxymoron_, ed. Lisa Gitelman (Cambridge: MIT Press, 2013), 15–40.
+  - Marisa Elena Duarte and Miranda Belarde-Lewis, “Imagining: Creating Spaces for Indigenous Ontologies,” _Cataloging & Classification Quarterly_ 53, no. 5–6 (July 4, 2015): 677–702, [https://doi.org/10.1080/01639374.2015.1018396](https://doi.org/10.1080/01639374.2015.1018396).
 - **Exercise:** 
     - "[Python for Web Scraping](https://gofilipa.github.io/python-for-text/scrape/overview.html)," with Filipa Calado, Digital Scholarship Specialist, Princeton University Libraries, using the [Trans Legislation Tracker](https://translegislation.com/).
     - Install QGIS for next week.
