@@ -171,6 +171,12 @@ This list is subject to change according to the interests of the group and the d
 
 ### Wk. 07 | **Mar 20** | Scraping & Curating Structured Data
 
+<h4> 
+
+🛝 [slides](/CDH507/pdf/CDH507_wk7_slides.pdf) 
+
+</h4>
+
 - Katie Rawson and Trevor Muñoz, “[Against Cleaning](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/07154de9-4903-428e-9c61-7a92a6f22e51#ch23),” in _Debates in the Digital Humanities 2019_ (Minneapolis: University Of Minnesota Press, 2019).
 - Henk Alkemade et al., “Datasheets for Digital Cultural Heritage Datasets” 9, no. 1 (October 30, 2023): 17, https://doi.org/10.5334/johd.124.
 - Recommended but not required
