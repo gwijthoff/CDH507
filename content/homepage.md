@@ -3,11 +3,14 @@ type: homepage
 layout: single
 ---
 
-<h1 class="tc">Data in the Humanities</h1>
+<figure>
+    <img src="/CDH507/img/data_in_hum.jpg" alt="Text reading 'data in the humanities' floating above a magnifying glass and a bar graph.">
+    <figcaption>Image created by <a href="https://cdh.princeton.edu/people/carrie-ruddick/">Carrie Ruddick</a>.</figcaption>
+</figure>
 
 <h3 class="tc">
 
-‡
+<br>
 
 CDH 507 / HUM 507\
 Spring 2024\
