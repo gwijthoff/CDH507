@@ -4,6 +4,10 @@ title: Final Project
 
 Your final project for this course can be completed in a number of formats. I've outlined four potential options below. Choose one or see me if what you have in mind doesn't quite fit into these boxes. We've covered a *lot* of ground this semester: many disciplines, debates, tools, and techniques. There are probably countless ways to combine these influences into a final statement on what you've learned in the course. So, if you'd like to pursue something along different lines, let's talk about it.
 
+<span class="color">Dean's Date</span> — *preferred project submission* — Tue, May 7
+
+<span class="color">Grades Due</span> — *I submit yr final grade* — Mon, May 20
+
 ## Opt. 1: Seminar Paper
 
 Write a seminar paper of ~4,000 – 6,000 words on a topic we've addressed in our course readings, conversations, or workshops. Your paper should include a Works Cited page, should demonstrate a comprehensive understanding of current critical conversations on your topic, and should suggest your own contribution to that ongoing dialogue.

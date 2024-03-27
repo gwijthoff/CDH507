@@ -187,7 +187,7 @@ This list is subject to change according to the interests of the group and the d
     - "[Python for Web Scraping](https://gofilipa.github.io/python-for-text/scrape/overview.html)," with Filipa Calado, Digital Scholarship Specialist, Princeton University Libraries, using the [Trans Legislation Tracker](https://translegislation.com/).
     - Install QGIS for next week.
 
-### Wk. 08 | Mar 27 | Maps & Spatial Humanities
+### Wk. 08 | **Mar 27** | Maps & Spatial Humanities
 
 - Trip to the PUL Map Library
 - Workshop with Tsering Wangyal Shawa, GIS & Map Librarian, Princeton University Libraries. Introduction to digitizing historical maps, georectifying map images, and QGIS.
@@ -206,27 +206,23 @@ This list is subject to change according to the interests of the group and the d
 - Ruth Ahnert et al., eds., *The Network Turn: Changing Perspectives in the Humanities* (Cambridge University Press, 2020). Excerpts.
 - Melanie Conroy, "Visualizing Social Networks: Palladio and the Encyclopédistes, Pt. I," Age of Revolutions (September 2017).
 
-### Wk. 10 | Apr 10 | Filtering and Modeling Data
+### Wk. 10 | Apr 10 | Very Distant & Very Close
 
-- Visit from Laure Thompson, Research Software Engineer, Center for Digital Humanities
-- Trip to PUL Digital Imaging Studio to see Selene photometric stereo scanning system.
-- Eun Seo Jo and Timnit Gebru, “Lessons from Archives: Strategies for Collecting Sociocultural Data in Machine Learning,” _Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency,_ (January 27, 2020), 306–16.
+*Visit from Laure Thompson, Research Software Engineer, Center for Digital Humanities, to discuss topic modeling.*
+
+*Trip to PUL Digital Imaging Studio to see Selene photometric stereo scanning system.*
+
 - Richard Jean So, “‘All Models Are Wrong,’” _PMLA_ 132, no. 3 (May 2017): 668–73, [https://doi.org/10.1632/pmla.2017.132.3.668](https://doi.org/10.1632/pmla.2017.132.3.668).
 - Lisa Rhody, [“Topic Modeling and Figurative Language”](http://journalofdigitalhumanities.org/2-1/topic-modeling-and-figurative-language-by-lisa-m-rhody/) (2012) for an overview of topic modeling
-- Recommended but not required
-    - Meredith Broussard, “[Machine Learning: The DL on ML](https://drive.google.com/file/d/18kElRW7hVdz8W9QZ_Hv48O06fXQkSnYS/view?usp=sharing),” in _Artificial Unintelligence: How Computers Misunderstand the World_ (Cambridge, Massachusetts & London, England: The MIT Press, 2018).
-    - Tony Chu and Stephanie Yee, “[A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/),” R2D3.
 
 ### Wk. 11 | Apr 17 | Refusal
 
 - Lauren Klein, “Are Large Language Models Our Limit Case?” _Startwords_, no. 3 (August 2022).
 - Inioluwa Deborah Raji et al., “AI and the Everything in the Whole Wide World Benchmark,” 2021, [https://doi.org/10.48550/arXiv.2111.15366](https://doi.org/10.48550/arXiv.2111.15366).
 - Matthew N. Hannah, "[Toward a Political Economy of Digital Humanities](https://dhdebates.gc.cuny.edu/read/f3f87448-138c-4d19-8ff8-b06acf40ddd1/section/df4d8aec-c33b-44e0-846d-68cab5187377#en12r)", in *Debates in the Digital Humanities 2023*
-- Sierra's:
-    - Read: Nan. Z. Da, [“The Computational Case against Computational Literary Studies”](https://princeton.instructure.com/courses/6331/files?preview=1402887) (2019)
-    - Browse through the short responses to Da’s piece in [“Computational Literary Studies: A _Critical Inquiry_ Online Forum”](https://critinq.wordpress.com/2019/03/31/computational-literary-studies-a-critical-inquiry-online-forum/) (April 1-3, 2019)
-        - Choose 2-3 responses to read.
-    - Read: Miriam Posner, [“What’s Next: The Radical, Unrealized Potential of Digital Humanities”](https://dhdebates.gc.cuny.edu/read/untitled/section/a22aca14-0eb0-4cc6-a622-6fee9428a357) (2016)
+- Recommended but not required
+    - Nan. Z. Da, [“The Computational Case against Computational Literary Studies”](https://princeton.instructure.com/courses/6331/files?preview=1402887) (2019), and short responses to Da’s piece in [“Computational Literary Studies: A _Critical Inquiry_ Online Forum”](https://critinq.wordpress.com/2019/03/31/computational-literary-studies-a-critical-inquiry-online-forum/) (April 1-3, 2019)
+    - Miriam Posner, [“What’s Next: The Radical, Unrealized Potential of Digital Humanities”](https://dhdebates.gc.cuny.edu/read/untitled/section/a22aca14-0eb0-4cc6-a622-6fee9428a357) (2016)
 
 ## **PROJECTS**
         
