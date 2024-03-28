@@ -218,13 +218,13 @@ This list is subject to change according to the interests of the group and the d
 
 ### Wk. 11 | Apr 17 | Refusal
 
-- Lauren Klein, “Are Large Language Models Our Limit Case?” _Startwords_, no. 3 (August 2022).
-- Inioluwa Deborah Raji et al., “AI and the Everything in the Whole Wide World Benchmark,” 2021, [https://doi.org/10.48550/arXiv.2111.15366](https://doi.org/10.48550/arXiv.2111.15366).
+- Lauren Klein, “[Are Large Language Models Our Limit Case?](https://startwords.cdh.princeton.edu/issues/3/llm-limit-case/)” _Startwords_, no. 3 (August 2022).
 - Matthew N. Hannah, "[Toward a Political Economy of Digital Humanities](https://dhdebates.gc.cuny.edu/read/f3f87448-138c-4d19-8ff8-b06acf40ddd1/section/df4d8aec-c33b-44e0-846d-68cab5187377#en12r)", in *Debates in the Digital Humanities 2023*
 - Cifor et al., "[Feminist Data Manifest-no](https://www.manifestno.com/)" (2019)
 - Recommended but not required
     - Nan. Z. Da, [“The Computational Case against Computational Literary Studies”](https://princeton.instructure.com/courses/6331/files?preview=1402887) (2019), and short responses to Da’s piece in [“Computational Literary Studies: A _Critical Inquiry_ Online Forum”](https://critinq.wordpress.com/2019/03/31/computational-literary-studies-a-critical-inquiry-online-forum/) (April 1-3, 2019)
     - Miriam Posner, [“What’s Next: The Radical, Unrealized Potential of Digital Humanities”](https://dhdebates.gc.cuny.edu/read/untitled/section/a22aca14-0eb0-4cc6-a622-6fee9428a357) (2016)
+    - Inioluwa Deborah Raji et al., “AI and the Everything in the Whole Wide World Benchmark,” 2021, [https://doi.org/10.48550/arXiv.2111.15366](https://doi.org/10.48550/arXiv.2111.15366).
 
 ## **PROJECTS**
         
