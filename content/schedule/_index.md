@@ -199,12 +199,13 @@ This list is subject to change according to the interests of the group and the d
 	- [Mining and Mapping the Production of Space: A View of the World from Houston](https://web.stanford.edu/group/spatialhistory/static/publications/pub93.html)
 	- [Example of ArcGIS Storymaps](https://storymaps.arcgis.com/stories/4fc3b7dcc850435ca7509a840967dfff) made by PUL
 
-### Wk. 09 | Apr 03 | Networks & Artifacts
+### Wk. 09 | Apr 03 | Artifacts & XR
 
 - Trip to the PUL Makerspace
 - Overview of infrastructure available to researchers for 3D modeling, scanning, and printing, and for cultural heritage augmented reality.
-- Ruth Ahnert et al., eds., *The Network Turn: Changing Perspectives in the Humanities* (Cambridge University Press, 2020). Excerpts.
-- Melanie Conroy, "Visualizing Social Networks: Palladio and the Encyclopédistes, Pt. I," Age of Revolutions (September 2017).
+- Review of XR in humanities research
+  - Sean Fraga, [Booksnake](https://booksnake.app/) (USC)
+  - Massimo Riva, [Shadow Plays](https://shadow-plays.org/) (Stanford UP)
 
 ### Wk. 10 | Apr 10 | Very Distant & Very Close
 
@@ -220,6 +221,7 @@ This list is subject to change according to the interests of the group and the d
 - Lauren Klein, “Are Large Language Models Our Limit Case?” _Startwords_, no. 3 (August 2022).
 - Inioluwa Deborah Raji et al., “AI and the Everything in the Whole Wide World Benchmark,” 2021, [https://doi.org/10.48550/arXiv.2111.15366](https://doi.org/10.48550/arXiv.2111.15366).
 - Matthew N. Hannah, "[Toward a Political Economy of Digital Humanities](https://dhdebates.gc.cuny.edu/read/f3f87448-138c-4d19-8ff8-b06acf40ddd1/section/df4d8aec-c33b-44e0-846d-68cab5187377#en12r)", in *Debates in the Digital Humanities 2023*
+- Cifor et al., "[Feminist Data Manifest-no](https://www.manifestno.com/)" (2019)
 - Recommended but not required
     - Nan. Z. Da, [“The Computational Case against Computational Literary Studies”](https://princeton.instructure.com/courses/6331/files?preview=1402887) (2019), and short responses to Da’s piece in [“Computational Literary Studies: A _Critical Inquiry_ Online Forum”](https://critinq.wordpress.com/2019/03/31/computational-literary-studies-a-critical-inquiry-online-forum/) (April 1-3, 2019)
     - Miriam Posner, [“What’s Next: The Radical, Unrealized Potential of Digital Humanities”](https://dhdebates.gc.cuny.edu/read/untitled/section/a22aca14-0eb0-4cc6-a622-6fee9428a357) (2016)
