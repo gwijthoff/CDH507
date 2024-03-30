@@ -206,6 +206,8 @@ This list is subject to change according to the interests of the group and the d
 - Review of XR in humanities research
   - Sean Fraga, [Booksnake](https://booksnake.app/) (USC)
   - Massimo Riva, [Shadow Plays](https://shadow-plays.org/) (Stanford UP)
+  - [Digital Giza](http://giza.fas.harvard.edu/) (Harvard 2013), with a [paper about its creation and use](https://ieeexplore.ieee.org/abstract/document/6744842)
+  - [TU-CULT](https://www.youtube.com/watch?v=6WmMcuzDBgA) (Venice 2017), and [associated paper](https://link.springer.com/chapter/10.1007/978-3-319-93749-6_51)
 
 ### Wk. 10 | Apr 10 | Very Distant & Very Close
 
