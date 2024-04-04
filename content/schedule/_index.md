@@ -217,6 +217,9 @@ This list is subject to change according to the interests of the group and the d
 
 - Richard Jean So, “‘All Models Are Wrong,’” _PMLA_ 132, no. 3 (May 2017): 668–73, [https://doi.org/10.1632/pmla.2017.132.3.668](https://doi.org/10.1632/pmla.2017.132.3.668).
 - Lisa Rhody, [“Topic Modeling and Figurative Language”](http://journalofdigitalhumanities.org/2-1/topic-modeling-and-figurative-language-by-lisa-m-rhody/) (2012) for an overview of topic modeling
+- Recommended but not required
+  - Maria Antoniak, "[A Computational Reading of a Birth Stories Community](https://maria-antoniak.github.io/2019/11/04/computational-reading-birth-stories.html)" (2019)
+  - Dong Nguyen et al., “How We Do Things With Words: Analyzing Text as Social and Cultural Data,” _Frontiers in Artificial Intelligence_ 3 (August 25, 2020): 62, [https://doi.org/10.3389/frai.2020.00062](https://doi.org/10.3389/frai.2020.00062).
 
 ### Wk. 11 | Apr 17 | Refusal
 
