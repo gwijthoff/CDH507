@@ -13,9 +13,9 @@ layout: single
 <br>
 
 CDH 507 / HUM 507\
-Spring 2024\
-Wed 1:30–4:20\
-Chancellor 103
+Spring 2026\
+Wed 1:20–4:10\
+Room TBD
 
 Grant Wythoff\
 *office hours by appointment*
