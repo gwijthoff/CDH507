@@ -19,28 +19,23 @@ This list is subject to change according to the interests of the group and the d
 
 <h4> 
 
-🛝 [slides](/CDH507/pdf/CDH507_wk1_slides.pdf) 
+<!-- 🛝 [slides](/CDH507/pdf/CDH507_wk1_slides.pdf)  -->
 
 </h4>
 
 <h4>📖 readings</h4>
 
 - Meredith Whittaker, “[The Steep Cost of Capture](https://dl.acm.org/doi/pdf/10.1145/3488666),” _Interactions_ 28, no. 6 (November 10, 2021): 50–55.
-- Matthew Kirschenbaum, "[Prepare for the Textpocalypse](https://princeton.instructure.com/files/2696994/download?download_frd=1)," *The Atlantic,* March 8, 2023.
-- James Somers, "[A Coder Considers the Waning Days of the Craft](https://archive.ph/6VSg5)", *The New Yorker,* November 20, 2023.
-- Adam Rogers, "[Our Greatest AI Visionary Isn't Sam Altman or Bill Gates. It's Ted Underwood.](https://www.businessinsider.com/ted-underwood-ai-optimist-humanities-language-literature-research-bill-gates-2023-12)," *Business Insider,* December 2023.
+- Matthew Kirschenbaum, “[The US of AI](https://drive.google.com/file/d/1O2qkjhg7Ei5zZWmBraNwXq4V0lTauspN/view),” Public Draft, February 25, 2025.
+- Lise Jaillant and Lingjia Zhao, “[Introduction: When Data Turns into Archives: Making Digital Records More Accessible with AI](https://doi.org/10.1007/s00146-025-02374-y),” _AI & SOCIETY_ 40, no. 8 (2025): 5787–91.
+- Optional
+  - A.W. Prihandita, “[Negative Scholarship on the Fifth State of Being](https://clarkesworldmagazine.com/prihandita_11_24/),” *Clarkesworld,* Issue 218 (November 2024). [Audio version.](https://clarkesworldmagazine.com/audio_11_24c)
 
 ## **THEORIES**
 
 ### Wk. 02 | **Feb 07** | Histories of the Humanities
 
 *The history of science is a well-established field of research. What about the history of the humanities? This week we read accounts of the history of the humanities from antiquity to the present, and arguments for the distinct form of reasoning found in the humanities. Also: The idiographic and the nomothetic. The humanities' relationship to truth claims. Pattern recognition across "the two cultures." Then, data: tabular, tidy, structured, FAIR.*
-
-<h4> 
-
-🛝 [slides](/CDH507/pdf/CDH507_wk2_slides.pdf) 
-
-</h4>
 
 <h4>📖 readings</h4>
 
@@ -63,15 +58,9 @@ This list is subject to change according to the interests of the group and the d
 	* *The Pudding's* [data repository](https://github.com/the-pudding/data#data-sets)
 	* [CDH-curated list of humanities datasets](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ0eQmCNJcYt5yWXt7vfJ-W4pb9c6RPilKVDA98cz4JfjCCqB90tG0qKnAPVjoWbyhPzwTJoXJ2UKhi/pubhtml?widget=true&amp;headers=false)
 
-### Wk. 03 | **Feb 14** | Histories of DH: From IBM Up to the Big Tent
+### Wk. 03 | **Feb 14** | Histories of DH: From IBM to the Big Tent
 
 *How are DH scholars revising our understandings of the origins of DH as a discipline to include forgotten figures and the problematic origins of bureaucratic technologies? What did analog, manual approaches to quantification look like in the past? What was the state of "Big Tent" DH c. 2012? As we read about the use of older computing technologies, we'll learn how to use the Unix command line and perform exploratory data analysis using a text-based program called VisiData.*
-
-<h4> 
-
-🛝 [slides](/CDH507/pdf/CDH507_wk3_slides.pdf) 
-
-</h4>
 
 <h4>📖 readings</h4>
 
@@ -100,12 +89,6 @@ This list is subject to change according to the interests of the group and the d
 
 *What is the state of the digital humanities today? How are institutions thinking about the intersection of data science with well-established DH methods? How do researchers from various disciplinary backgrounds construe "meaning" differently? Then: a workshop on data wrangling in OpenRefine with Bryan Winston, PUL Digital Scholarship.*
 
-<h4> 
-
-🛝 [slides](/CDH507/pdf/CDH507_wk4_slides.pdf)
-
-</h4>
-
 - Read one chapter relevant to your field from *[Debates in the Digital Humanities 2023](https://dhdebates.gc.cuny.edu/projects/debates-in-the-digital-humanities-2023),* ed. Matt Gold & Lauren Klein, and come prepared to discuss.
 - Barbara McGillivray et al., “[The Challenges and Prospects of the Intersection of Humanities and Data Science: A White Paper from The Alan Turing Institute](https://drive.google.com/file/d/1cfLtHgv31BJuusZjy6OO2Yc3ledxtvLx/view?usp=share_link),” 2020.
 - Anne Helmreich, Matthew Lincoln, and Charles van den Heuvel, “[Data Ecosystems and Futures of Art History](https://drive.google.com/file/d/1wytS8LdlMqSy7YDb6as-gpRwI86Q29RQ/view?usp=share_link),” _Histoire de l’art,_ no. 87 (June 29, 2021): 45–54.
@@ -120,12 +103,6 @@ This list is subject to change according to the interests of the group and the d
 
 *Visit from Jeri Wieringa, Assistant Director, Center for Digital Humanities*
 
-<h4> 
-
-🛝 [slides](/CDH507/pdf/CDH507_wk5_slides.pdf) 
-
-</h4>
-
 - Steven Ruggles, “[The Revival of Quantification: Reflections on Old New Histories](https://www.cambridge.org/core/journals/social-science-history/article/revival-of-quantification-reflections-on-old-new-histories/857C3FCC25129D7ED3065D957F1CC528),” _Social Science History_ 45, no. 1 (2021): 1–25.
 - Underwood, McGrath, So, & Wellmon, "[Culture, Theory, Data: An Introduction](https://newliteraryhistory.org/wp/wp-content/uploads/2023/06/54-1-intro.pdf)" to special issue, *New Literary History* 53, no. 4 (Winter 2023).
 - Read one additional article relevant to your field from [special issue on "Theory, Culture, Data"](https://muse.jhu.edu/issue/51067), *New Literary History* 53(4) and 54(1), and come prepared to discuss.
@@ -139,12 +116,6 @@ This list is subject to change according to the interests of the group and the d
 ### Wk. 06 | **Mar 06** | Quantitative Methods: Models, Generalization, & Reproducibility
 
 *Visit from Jo Guldi, Full Professor of Quantitative Methods at Emory University*
-
-<h4> 
-
-🛝 [slides](/CDH507/pdf/CDH507_wk6_slides.pdf) 
-
-</h4>
 
 - Jo Guldi, _[The Dangerous Art of Text Mining: A Methodology for Digital History](https://www.cambridge.org/core/books/dangerous-art-of-text-mining/C07F637BB12F7D89CF9295F02EF44905),_ (Cambridge: Cambridge University Press, 2023). Excerpts.
   - [Preface](https://www.cambridge.org/core/books/dangerous-art-of-text-mining/preface/63D4A81DD3B78C41501D96D27BDE8DD1)
@@ -170,12 +141,6 @@ This list is subject to change according to the interests of the group and the d
 ## **METHODS**
 
 ### Wk. 07 | **Mar 20** | Scraping & Curating Structured Data
-
-<h4> 
-
-🛝 [slides](/CDH507/pdf/CDH507_wk7_slides.pdf) 
-
-</h4>
 
 - Katie Rawson and Trevor Muñoz, “[Against Cleaning](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/07154de9-4903-428e-9c61-7a92a6f22e51#ch23),” in _Debates in the Digital Humanities 2019_ (Minneapolis: University Of Minnesota Press, 2019).
 - Henk Alkemade et al., “Datasheets for Digital Cultural Heritage Datasets” 9, no. 1 (October 30, 2023): 17, https://doi.org/10.5334/johd.124.
