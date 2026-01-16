@@ -76,19 +76,18 @@ This list is subject to change according to the interests of the group and the d
 
 ## **DH TODAY**
 
-### Wk. 04 | **Feb 21** | DH Today: Meaning & Signal
+### Wk. 04 | **Feb 18** | DH Today: Meaning & Signal
 
-*What is the state of the digital humanities today? How are institutions thinking about the intersection of data science with well-established DH methods? How do researchers from various disciplinary backgrounds construe "meaning" differently? Then: a workshop on data wrangling in OpenRefine with Bryan Winston, PUL Digital Scholarship.*
+*What is the state of the digital humanities today? How are institutions thinking about the intersection of data science with well-established DH methods? How do researchers from various disciplinary backgrounds construe "meaning" differently?*
 
-- Read one chapter relevant to your field from *[Debates in the Digital Humanities 2023](https://dhdebates.gc.cuny.edu/projects/debates-in-the-digital-humanities-2023),* ed. Matt Gold & Lauren Klein, and come prepared to discuss.
-- Barbara McGillivray et al., “[The Challenges and Prospects of the Intersection of Humanities and Data Science: A White Paper from The Alan Turing Institute](https://drive.google.com/file/d/1cfLtHgv31BJuusZjy6OO2Yc3ledxtvLx/view?usp=share_link),” 2020.
-- Anne Helmreich, Matthew Lincoln, and Charles van den Heuvel, “[Data Ecosystems and Futures of Art History](https://drive.google.com/file/d/1wytS8LdlMqSy7YDb6as-gpRwI86Q29RQ/view?usp=share_link),” _Histoire de l’art,_ no. 87 (June 29, 2021): 45–54.
-- Lauren Klein, “[Dimensions of Scale: Invisible Labor, Editorial Work, and the Future of Quantitative Literary Studies](https://www.cambridge.org/core/journals/pmla/article/dimensions-of-scale-invisible-labor-editorial-work-and-the-future-of-quantitative-literary-studies/9BB30779EA9C9CF7AF176E7FEF12F484),” _PMLA_ 135, no. 1 (January 1, 2020): 23–39.
+- Lauren Klein et al., “[Provocations from the Humanities for Generative AI Research](https://doi.org/10.48550/arXiv.2502.19190),” preprint, arXiv, February 26, 2025.
+- Lauren Tilton et al., “[What Gets Counted: Computational Humanities under Revision](https://dhdebates.gc.cuny.edu/read/ba808f7f-6a3b-4865-8e2a-b0086b29bfa4/section/ff01ed09-fc3f-4403-a1e2-034052cd4d0a),” in _Computational Humanities_, Debates in the Digital Humanities (University Of Minnesota Press, 2024).
+- Alan Liu, “Data Science and the Post-Liberal Arts University,” _Critical Inquiry_ 51, no. 4 (2025): 597–618, [https://doi.org/10.1086/735621](https://doi.org/10.1086/735621).
+- Olivia Guest et al., “[Against the Uncritical Adoption of ‘AI’ Technologies in Academia](https://doi.org/10.5281/zenodo.17065099),” preprint, Zenodo, September 5, 2025.
+- Tom Scheinfeldt, “Meet AcadiMeet; or, Adventures in Vibe Coding,” _Found History_, October 20, 2025, [https://foundhistory.org/meet-acadimeet-or-adventures-in-vibe-coding/](https://foundhistory.org/meet-acadimeet-or-adventures-in-vibe-coding/).
 - Recommended but not required
     - Rabea Kleymann et al., "Foreword to Special Issue on 'Theorytellings: Epistemic Narratives in the Digital Humanities,'" *Cultural Analytics* 7, no. 4 (November 2022).
     - Antonija Primorac et al., “[Distant Reading Two Decades On: Reflections on the Digital Turn in the Study of Literature](https://doi.org/10.16995/dscn.8855),” _Digital Studies / Le Champ Numérique_ 13, no. 1 (October 25, 2023).
-- **Exercise:**
-    - Introduction to [OpenRefine](https://openrefine.org/), a tool for working with messy data. Bryan Winston, Digital Scholarship Specialist, Princeton University Libraries
 
 ### Wk. 05 | **Feb 28** | Is "DH" Now Just "H"?
 
