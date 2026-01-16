@@ -13,7 +13,7 @@ This list is subject to change according to the interests of the group and the d
 
 ## **BEARINGS**
 
-### Wk. 01 | **Jan 31** | Introductions; Platforms; AI
+### Wk. 01 | **Jan 28** | Introductions; Platforms; AI
 
 *Introduction to the Center for Digital Humanities, our allied centers on campus, the class, the platforms we’ll use, and how the latest conversations on artificial intelligence intersect with humanities research. Briefly: distributional semantics, generative text, research infrastructures across industry & academia.*
 
@@ -31,32 +31,24 @@ This list is subject to change according to the interests of the group and the d
 - Optional
   - A.W. Prihandita, “[Negative Scholarship on the Fifth State of Being](https://clarkesworldmagazine.com/prihandita_11_24/),” *Clarkesworld,* Issue 218 (November 2024). [Audio version.](https://clarkesworldmagazine.com/audio_11_24c)
 
-## **THEORIES**
+## **HISTORIES**
 
-### Wk. 02 | **Feb 07** | Histories of the Humanities
+### Wk. 02 | **Feb 04** | Histories of the Humanities
 
 *The history of science is a well-established field of research. What about the history of the humanities? This week we read accounts of the history of the humanities from antiquity to the present, and arguments for the distinct form of reasoning found in the humanities. Also: The idiographic and the nomothetic. The humanities' relationship to truth claims. Pattern recognition across "the two cultures." Then, data: tabular, tidy, structured, FAIR.*
 
 <h4>📖 readings</h4>
 
-- Eric Hayot, [_Humanist Reason: A History. An Argument. A Plan_](https://princeton.instructure.com/files/2697200/download?download_frd=1) (Columbia University Press, 2021), Chapters 1 & 4.
-- Helen Small, *[The Value of the Humanities](https://princeton.instructure.com/courses/14469/files?preview=2722746),* (Oxford: Oxford Univ. Press, 2013). Introduction.
+- Eric Hayot, [_Humanist Reason: A History. An Argument. A Plan_](https://princeton.instructure.com/files/4353543/download?download_frd=1) (Columbia University Press, 2021), Chapters 1 & 4.
+- Helen Small, *[The Value of the Humanities](https://princeton.instructure.com/files/4353544/download?download_frd=1),* (Oxford: Oxford Univ. Press, 2013). Introduction.
 - Rens Bod, *[A New History of the Humanities](https://academic.oup.com/book/3506)* (Oxford: Oxford Univ. Press, 2014), Introduction: "The Quest for Principles and Patterns."
+- Lindsay Thomas and Abigail Droge, “[What We Learned About the Humanities from a Study of Thousands of Newspaper Articles](https://doi.org/10.22148/001c.35907),” _Journal of Cultural Analytics_, May 24, 2022.
 - Recommended but not required
     - Jerry A. Jacobs, _In Defense of Disciplines: Interdisciplinarity and Specialization in the Research University_ (Chicago ; London: University Of Chicago Press, 2014).
-    - Barbara Herrnstein Smith, “[What Was Close Reading? A Century of Method in Literary Studies](https://doi.org/10.1215/00265667-3630844),” _Minnesota Review_ 87 (2016): 57–75.
-    - Harvard libguide on close and distant reading: https://guides.library.harvard.edu/literature/closereading
 
 <h4>🛠️ exercises</h4>
 
-  - Review list of departments and programs classified as [Humanities](https://gradschool.princeton.edu/academics/degrees-requirements/fields-study?discipline=11&program=All) and as [Social Sciences](https://gradschool.princeton.edu/academics/degrees-requirements/fields-study?discipline=16&program=All) at Princeton.
-  - Find an example dataset in your discipline (preferably a .CSV) that was the end product of some type of quantification, small or then big. Browse the following collections:
-    * Matt Lavin's [Humanities Data](https://humanitiesdata.com/resources)
-	* Melanie Walsh's [list of datasets](https://melaniewalsh.github.io/Intro-Cultural-Analytics/00-Datasets/00-Datasets.html)
-	* Miriam Posner's [list of datasets](https://miriamposner.com/classes/dh201w21/final-project/datasets/)
-	* Jeremy Singer-Vine’s [_Data Is Plural_ archive](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0)
-	* *The Pudding's* [data repository](https://github.com/the-pudding/data#data-sets)
-	* [CDH-curated list of humanities datasets](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ0eQmCNJcYt5yWXt7vfJ-W4pb9c6RPilKVDA98cz4JfjCCqB90tG0qKnAPVjoWbyhPzwTJoXJ2UKhi/pubhtml?widget=true&amp;headers=false)
+- Review list of departments and programs classified as [Humanities](https://gradschool.princeton.edu/academics/degrees-requirements/fields-study?discipline=11&program=All) and as [Social Sciences](https://gradschool.princeton.edu/academics/degrees-requirements/fields-study?discipline=16&program=All) at Princeton.
 
 ### Wk. 03 | **Feb 14** | Histories of DH: From IBM to the Big Tent
 
@@ -84,6 +76,8 @@ This list is subject to change according to the interests of the group and the d
   - [Command Line Cheat Sheet](https://www.git-tower.com/blog/command-line-cheat-sheet/)
   - [Visidata Cheat Sheet](https://jsvine.github.io/visidata-cheat-sheet/en/)
   - [Explain Shell](https://explainshell.com/): Full explanation of any command
+
+## **DH TODAY**
 
 ### Wk. 04 | **Feb 21** | DH Today: Meaning & Signal
 
@@ -113,6 +107,8 @@ This list is subject to change according to the interests of the group and the d
     - Intro to Jupyter notebooks. Right-click [`jupyter_intro.ipynb`](/CDH507/jupyter_intro.ipynb), then "save link as...". Download the file to your computer, and open it using Visual Studio Code. Alternatively, navigate to [Google Colab](https://colab.research.google.com/), sign into your institutional account, select File > Upload Notebook, and select the `.ipynb` file.
     - Browse Quinn Dombrowski's list of "[Jupyter notebooks for digital humanities](https://github.com/quinnanya/dh-jupyter)." Find a notebook relevant to your research or field, and try loading it in VS Code.
   
+## **WHAT IS DATA**
+
 ### Wk. 06 | **Mar 06** | Quantitative Methods: Models, Generalization, & Reproducibility
 
 *Visit from Jo Guldi, Full Professor of Quantitative Methods at Emory University*
@@ -138,7 +134,7 @@ This list is subject to change according to the interests of the group and the d
 
 ***********
 
-## **METHODS**
+## **ARTIFICIAL INTELLIGENCE**
 
 ### Wk. 07 | **Mar 20** | Scraping & Curating Structured Data
 
