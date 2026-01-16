@@ -50,31 +50,28 @@ This list is subject to change according to the interests of the group and the d
 
 - Review list of departments and programs classified as [Humanities](https://gradschool.princeton.edu/academics/degrees-requirements/fields-study?discipline=11&program=All) and as [Social Sciences](https://gradschool.princeton.edu/academics/degrees-requirements/fields-study?discipline=16&program=All) at Princeton.
 
-### Wk. 03 | **Feb 14** | Histories of DH: From IBM to the Big Tent
+### Wk. 03 | **Feb 11** | Histories of DH: From IBM to the Big Tent
 
-*How are DH scholars revising our understandings of the origins of DH as a discipline to include forgotten figures and the problematic origins of bureaucratic technologies? What did analog, manual approaches to quantification look like in the past? What was the state of "Big Tent" DH c. 2012? As we read about the use of older computing technologies, we'll learn how to use the Unix command line and perform exploratory data analysis using a text-based program called VisiData.*
+*How are DH scholars revising our understanding of DH's history to include forgotten figures, war machines, and bulletin boards? What did analog, manual approaches to quantification look like in the past? What was the state of "Big Tent" DH c. 2012? As we read about the use of older computing technologies, we'll learn how to use the Unix command line.*
 
 <h4>📖 readings</h4>
 
-- Brad Pasanek, “[Extreme Reading: Josephine Miles and the Scale of the Pre-Digital Digital Humanities](https://muse.jhu.edu/article/726184),” *ELH* 86, no. 2 (2019): 355–85.
-- Arun Jacob, “[Punching Holes in the International Busa Machine Narrative](https://www.jstor.org/stable/j.ctv1r7878x.7),” in _Alternative Historiographies of the Digital Humanities_, ed. Dorothy Kim and Adeline Koh (Punctum Books, 2021), 121–44.
-- Sharon M. Leon, “[Complicating a ‘Great Man’ Narrative of Digital History](https://dhdebates.gc.cuny.edu/read/untitled-4e08b137-aec5-49a4-83c0-38258425f145/section/53838061-eb08-4f46-ace0-e6b15e4bf5bf),” in _Bodies of Information: Intersectional Feminism and Digital Humanities_, (Minneapolis: University Of Minnesota Press, 2018), 344-68.
-- Alan Liu, "[Where is Cultural Criticism in the Digital Humanities?](https://dhdebates.gc.cuny.edu/read/untitled-88c11800-9446-469b-a3be-3fdb36bfbd1e/section/896742e7-5218-42c5-89b0-0c3c75682a2f#ch29)" in *Debates in Digital Humanities* (2012)
-- Jamie "Skye" Bianco, "[This Digital Humanities Which is Not One](https://dhdebates.gc.cuny.edu/read/untitled-88c11800-9446-469b-a3be-3fdb36bfbd1e/section/1a1c7fbc-6c4a-4cec-9597-a15e33315541#ch07)," *Debates in the Digital Humanities 2012* (Minneapolis: University of Minnesota Press, 2012).
+- 1940s: Arun Jacob, “[Punching Holes in the International Busa Machine Narrative](https://www.jstor.org/stable/j.ctv1r7878x.7),” in _Alternative Historiographies of the Digital Humanities_, ed. Dorothy Kim and Adeline Koh (Punctum Books, 2021), 121–44.
+- 1950s: Brad Pasanek, “[Extreme Reading: Josephine Miles and the Scale of the Pre-Digital Digital Humanities](https://muse.jhu.edu/article/726184),” *ELH* 86, no. 2 (2019): 355–85.
+- 1990s: Claire Warwick, _Digital Humanities and the Cyberspace Decade, 1990-2001: A World Elsewhere_ (New York: Bloomsbury Academic, 2024), Chapters 1, 5, 6.
+- 2000s: Michael Hancher, “[Re: Search and Close Reading](http://conservancy.umn.edu/handle/11299/181603),” in _Debates in the Digital Humanities 2016_ (University of Minnesota Press, 2016).
 - Recommended but not required
-    - Jerome McGann, “Philology in a New Key,” *Critical Inquiry* 39.2 (Winter 2013): 327-46.
-    - Rachel Sagner Buurma and L. Heffernan, “[Search And Replace: Josephine Miles And The Origins Of Distant Reading](https://modernismmodernity.org/forums/posts/search-and-replace),” _Modernism/Modernity_ cycle 3, issue 1 (April 11, 2018).
-    - Alan Liu, “The Meaning of the Digital Humanities.” *PMLA* 128, no. 2 (March 2013): 409–23.
-    - Yohei Igarashi, “Statistical Analysis at the Birth of Close Reading,” _New Literary History_ 46, no. 3 (2015): 485–504.
+    - Melissa M. Terras, “[For Ada Lovelace Day—Father Busa’s Female Punch Card Operatives](https://melissaterras.blogspot.ca/2013/10/for-ada-lovelace-day-father-busas.html),” Melissa Terras’ Blog, October 15, 2013.
+    - Jerome McGann, “[Philology in a New Key](https://www.journals.uchicago.edu/doi/10.1086/668528?__cf_ch),” *Critical Inquiry* 39.2 (Winter 2013): 327-46.
     - Chris Alen Sula and Heather V. Hill, “[The Early History of Digital Humanities: An Analysis of Computers and the Humanities (1966–2004) and Literary and Linguistic Computing (1986–2004)](https://doi.org/10.1093/llc/fqz072),” _Digital Scholarship in the Humanities_ 34, Supplement 1 (December 2019): 190–206.
+    - Sharon M. Leon, “[Complicating a ‘Great Man’ Narrative of Digital History](https://dhdebates.gc.cuny.edu/read/untitled-4e08b137-aec5-49a4-83c0-38258425f145/section/53838061-eb08-4f46-ace0-e6b15e4bf5bf),” in _Bodies of Information: Intersectional Feminism and Digital Humanities_, (Minneapolis: University Of Minnesota Press, 2018), 344-68.
 
 <h4>🛠️ exercises</h4>
 
-- Intro to the Command Line and [VisiData](https://www.visidata.org/), a command line tool for exploring tabular data. Load your sample CSV from last week into VisiData and describe its contents.
+- Intro to the Command Line
 - Windows Subsystem for Linux (WSL) [guide for Windows users](/CDH507/pdf/computing_setup_for_Windows_10.pdf)
 - Resources
   - [Command Line Cheat Sheet](https://www.git-tower.com/blog/command-line-cheat-sheet/)
-  - [Visidata Cheat Sheet](https://jsvine.github.io/visidata-cheat-sheet/en/)
   - [Explain Shell](https://explainshell.com/): Full explanation of any command
 
 ## **DH TODAY**
