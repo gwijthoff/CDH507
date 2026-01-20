@@ -35,7 +35,7 @@ This list is subject to change according to the interests of the group and the d
 
 ### Wk. 02 | **Feb 04** | Histories of the Humanities
 
-*The history of science is a well-established field of research. What about the history of the humanities? This week we read accounts of the history of the humanities from antiquity to the present, and arguments for the distinct form of reasoning found in the humanities. Also: The idiographic and the nomothetic. The humanities' relationship to truth claims. Pattern recognition across "the two cultures." Then, data: tabular, tidy, structured, FAIR.*
+*The history of science is a well-established field of research. What about the history of the humanities? This week we read accounts of the history of the humanities from antiquity to the present, and arguments for the distinct form of reasoning found in the humanities. Also: The idiographic and the nomothetic. The humanities' relationship to truth claims. Pattern recognition across "the two cultures."*
 
 <h4>📖 readings</h4>
 
@@ -89,19 +89,34 @@ This list is subject to change according to the interests of the group and the d
     - Rabea Kleymann et al., "Foreword to Special Issue on 'Theorytellings: Epistemic Narratives in the Digital Humanities,'" *Cultural Analytics* 7, no. 4 (November 2022).
     - Antonija Primorac et al., “[Distant Reading Two Decades On: Reflections on the Digital Turn in the Study of Literature](https://doi.org/10.16995/dscn.8855),” _Digital Studies / Le Champ Numérique_ 13, no. 1 (October 25, 2023).
 
-### Wk. 05 | **Feb 28** | Is "DH" Now Just "H"?
+<h4>🛠️ exercises</h4>
 
-*Visit from Jeri Wieringa, Assistant Director, Center for Digital Humanities*
+- Plain text, hyperlinks, relational databases. (In class.)
 
-- Steven Ruggles, “[The Revival of Quantification: Reflections on Old New Histories](https://www.cambridge.org/core/journals/social-science-history/article/revival-of-quantification-reflections-on-old-new-histories/857C3FCC25129D7ED3065D957F1CC528),” _Social Science History_ 45, no. 1 (2021): 1–25.
+### Wk. 05 | **Feb 25** | Is "DH" Now Just "H"?
+
+*". . . studying culture with data is no longer a specialized practice. . . . It is something most scholars already do, consciously or not." How are scholars attempting to establish a new theoretical lingua franca? How has transdisciplinarity in digital humanities paved the way for these experiments? Then, data: tabular, tidy, structured, FAIR.*
+
+- Read a chapter relevant to your field from one volume in the [Debates in DH series](https://dhdebates.gc.cuny.edu/) (University of Minnesota Press). Come prepared to share a bit about what you’ve read.
+- Leif Weatherby, *Language Machines: Cultural AI and the End of Remainder Humanism* (Univ. Minnesota Press, 2025)
+	- Introduction: AI between Cognition and Culture
+	- Chapter 4: Large Literary Machines
+	- Chapter 5: Computational Meaning: For a General Poetics
+	- Conclusion: Language as a Service, or the Return of Rhetoric
 - Underwood, McGrath, So, & Wellmon, "[Culture, Theory, Data: An Introduction](https://newliteraryhistory.org/wp/wp-content/uploads/2023/06/54-1-intro.pdf)" to special issue, *New Literary History* 53, no. 4 (Winter 2023).
-- Read one additional article relevant to your field from [special issue on "Theory, Culture, Data"](https://muse.jhu.edu/issue/51067), *New Literary History* 53(4) and 54(1), and come prepared to discuss.
 - Recommended but not required
-    - Ted Underwood, “Theorizing Research Practices We Forgot to Theorize Twenty Years Ago,” _Representations_ 127, no. 1 (August 1, 2014): 64–72, [https://doi.org/10.1525/rep.2014.127.1.64](https://doi.org/10.1525/rep.2014.127.1.64).
-    - Ian Milligan, “[Illusionary Order: Online Databases, Optical Character Recognition, and Canadian History, 1997–2010](https://muse.jhu.edu/article/527016),” _The Canadian Historical Review_ 94, no. 4 (2013): 540–69.
-- **Exercise:** 
-    - Intro to Jupyter notebooks. Right-click [`jupyter_intro.ipynb`](/CDH507/jupyter_intro.ipynb), then "save link as...". Download the file to your computer, and open it using Visual Studio Code. Alternatively, navigate to [Google Colab](https://colab.research.google.com/), sign into your institutional account, select File > Upload Notebook, and select the `.ipynb` file.
-    - Browse Quinn Dombrowski's list of "[Jupyter notebooks for digital humanities](https://github.com/quinnanya/dh-jupyter)." Find a notebook relevant to your research or field, and try loading it in VS Code.
+    - Steven Ruggles, “[The Revival of Quantification: Reflections on Old New Histories](https://www.cambridge.org/core/journals/social-science-history/article/revival-of-quantification-reflections-on-old-new-histories/857C3FCC25129D7ED3065D957F1CC528),” _Social Science History_ 45, no. 1 (2021): 1–25.
+
+<h4>🛠️ exercises</h4>
+
+Find a dataset in your discipline (preferably a .CSV) by browsing the following collections:
+
+- [Responsible Datasets in Context](https://www.responsible-datasets-in-context.com/), eds. Fernandez, Posner, Preus, Singh, & Walsh
+- *[Post45 Data Collective](https://data.post45.org/),* eds. Walsh, Manshel, Porter
+- [*Journal of Open Humanities Data*](https://scholarslab.lib.virginia.edu/blog/interesting-digital-humanities-data-sources/)
+- Amanda Wyatt Visconti. “[Interesting digital humanities data sources](https://scholarslab.lib.virginia.edu/blog/interesting-digital-humanities-data-sources/),” UVA Scholars Lab Blog, (August 26, 2025).
+- Jeremy Singer-Vine’s [_Data Is Plural_ archive](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0)
+- *The Pudding's* [data repository](https://github.com/the-pudding/data#data-sets)
   
 ## **WHAT IS DATA**
 
