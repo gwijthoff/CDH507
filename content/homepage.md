@@ -3,25 +3,31 @@ type: homepage
 layout: single
 ---
 
-<figure>
-    <img src="/CDH507/img/data_in_hum.jpg" alt="Text reading 'data in the humanities' floating above a magnifying glass and a bar graph.">
-    <figcaption>Image created by <a href="https://cdh.princeton.edu/people/carrie-ruddick/">Carrie Ruddick</a>.</figcaption>
-</figure>
+<h1 class="tc">
+Data in the Humanities
+</h1>
 
 <h3 class="tc">
-
-<br>
 
 CDH 507 / HUM 507\
 Spring 2026\
 Wed 1:20–4:10\
 Room TBD
 
-Grant Wythoff\
+[Grant Wythoff](https://wythoff.net)\
 *office hours by appointment*
 
 ‡
 
+</h3>
+
+<figure>
+    <img src="https://betterimagesofai.org/images/download?url=%2FImagesAI%2Fclarote_ai4media_labour_resources_2560x1440.png&size=large&cb=5fe78f9b03" alt="A brightly coloured illustration which can be viewed in any direction. It has several scenes within it: miners digging in front of a huge mountain representing mineral resources, a hand holding a lump of coal or carbon, hands manipulating stock charts and error messages, as well as some women performing tasks on computers.">
+    <figcaption>"<a href="https://betterimagesofai.org/images?artist=Clarote&title=Labour%2FResources">Labour/Resources</a>," by <a href="https://www.clarote.net">Clarote</a> • <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</a></figcaption>
+</figure>
+
+<h3 class="tc">
+‡
 </h3>
 
 This graduate course provides a foundation in the history, concepts, methodologies, and tools of digital humanities research. Students learn to critically evaluate and incorporate computational and data-driven methods into their research, and achieve a baseline fluency in accessing, filtering, and analyzing humanities datasets. No prerequisites or preexisting technical skills are required. Students working with texts, images, and artifacts are welcome. Enrollment preference will be given to students pursuing in the [Graduate Certificate in Digital Humanities](https://cdh.princeton.edu/engage/graduate-students/graduate-certificate/).
