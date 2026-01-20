@@ -158,6 +158,8 @@ Find a dataset in your discipline (preferably a .CSV) by browsing the following 
 ### Wk. 11 | Apr 15 | The Politics of Tools
 
 - *[readings]*
+
+## **PROJECTS**
         
 ### Wk. 12 | Apr 22 | Project Proposal Presentations
 
