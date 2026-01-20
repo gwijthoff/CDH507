@@ -32,7 +32,7 @@ In this class, students will:
 
 - Gain fluency in the current landscape of platforms, tools, and techniques for computational and data-driven research in the humanities. In particular, students learn the basics of the command line, and Jupyter (Python) notebooks, and QGIS.
 - Locate their home discipline within the wider galaxy of humanistic inquiry. How are quantitative methods and data science impacting their field, as well as the humanities writ large?
-- Learn about the rise of so-called "artificial intelligence" in the world today and what interventions humanities researchers offer the way these technologies construe meaning.
+- Learn about the political economy of contemporary artificial intelligence and what interventions humanities researchers offer the way these technologies construe meaning.
 - Prepare a research plan for a DH project, either as a conference presentation, a dissertation chapter, a standalone research article, or a curated dataset.
 - Read ~70-100pp / week of recent scholarship spanning history, literary studies, art history, and other humanities disciplines engaged in the use of computational methods.
 
