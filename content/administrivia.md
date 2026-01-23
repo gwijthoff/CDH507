@@ -4,7 +4,7 @@ title: Administrivia
 
 ## Caveat on Adaptation
 
-This course is designed to be flexible and can evolve in its format and requirements depending on our evolving collective interests, on our health, and on world events. We are still (still!) amid a pandemic twinned with some gnarly winter bugs, and we live in incredibly challenging times that may impact the group unevenly. Real life is never separate from our learning community. I hope we can maintain an awareness of these facts. For my part, I will offer alternative paths through the material if requested, whenever possible.
+This course is designed to be flexible and can evolve in its format and requirements depending on our evolving collective interests, on our health, and on world events. Real life is never separate from our learning community. I hope we can maintain an awareness of these facts. For my part, I will offer alternative paths through the material if requested, whenever possible.
 
 Above all, I want you to know that your wellbeing — and that of your family and friends — will always be more important to me than this class. My primary role as a teacher is to support you however I can. Let me know how I can do that better.
 
