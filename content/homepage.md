@@ -42,10 +42,9 @@ In this class, students will:
 - Prepare a research plan for a DH project, either as a conference presentation, a dissertation chapter, a standalone research article, or a curated dataset.
 - Read ~75-100pp / week of recent scholarship spanning history, literary studies, art history, and other humanities disciplines that are mixing data, computation, and critique.
 
-### Assignments
+### Requirements
 
-Assignments for the course include:
-
-- 40% | [Final project.](/CDH507/final)
-- 30% | Completion of hands-on exercises with DH tools & methods. Work will be done both in and out of class.
-- 30% | Discussion contributions before, during, and after class; attendance.
+1. Attend class and participate in class discussions.
+2. Present on one of the readings in class, by yourself or as a pair (20 min max).
+3. Attend one DH workshop on campus (alternatively, complete one tutorial from *[The Programming Historian](https://programminghistorian.org/)*) and report back to class on the experience.
+4. [Final project.](/CDH507/final)
