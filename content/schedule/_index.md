@@ -19,7 +19,7 @@ This list is subject to change according to the interests of the group and the d
 
 <h4> 
 
-<!-- 🛝 [slides](/CDH507/pdf/CDH507_wk1_slides.pdf)  -->
+🛝 [slides](/CDH507/pdf/CDH507_S26_wk1_slides.pdf) 
 
 </h4>
 
