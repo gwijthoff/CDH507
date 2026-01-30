@@ -147,15 +147,24 @@ Find a dataset in your discipline (preferably a .CSV) by browsing the following 
 
 ### Wk. 07 | Mar 18 | The Sociocultural Context of AI
 
-- *[readings]*
+- Kate Crawford & Vladan Joler, “[Calculating Empires](https://calculatingempires.net/)” & “[Anatomy of an AI System](https://anatomyof.ai/)”
+- Emily Bender et al., “[On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?](https://doi.org/10.1145/3442188.3445922),” _FAccT ’21_, March 3, 2021.
+- Qiaoyu Cai, “The Cultural Politics of Artificial Intelligence in China,” _Theory, Culture & Society_ 42, no. 3 (2025): 21–40, [https://doi.org/10.1177/02632764241304718](https://doi.org/10.1177/02632764241304718).
+- Colin Milburn and Rita Raley, “[Inappropriate AI](https://uchri.org/foundry/inappropriate-ai/),” Foundry: University of California Humanities Research Institute, December 2025.
 
 ### Wk. 08 | Mar 25 | AI as a Paradigm Shift
 
-- *[readings]*
+- Henry Farrell, Alison Gopnik, Cosma Shalizi and James Evans (2025), “[Large AI Models are Cultural and Social Technologies](https://www.science.org/stoken/author-tokens/ST-2495/full),” _Science_.
+- Arvind Narayanan & Sayash Kapoor (2025), _[AI as Normal Technology](https://knightcolumbia.org/content/ai-as-normal-technology)_ (Knight Foundation).
+- Daron Acemoglu and Simon Johnson, *Power and Progress: Our 1,000-Year Struggle Over Technology & Prosperity* (Public Affairs, 2023), [mini comic version](https://shapingwork.mit.edu/wp-content/uploads/2025/08/Power-and-Progress-The-Mini-Comic.pdf).
 
 ### Wk. 09 | Apr 01 | DH and the Environment
 
-- *[readings]*
+- Photini Vrikki and Güneş Tavmen, “[Rewiring Digital Humanities through an Ethics of Ecological Care](https://dhq.digitalhumanities.org/vol/19/3/000802/000802.html),” Digital Humanities Quarterly 019, no. 3 (2025).
+- Javier Cha & Ian M. Miller, “Digital Humanities and the Energetics of Big Data,” Critical Infrastructure Studies and Digital Humanities, Debates in Digital Humanities (Minneapolis: University of Minnesota Press, 2026), 113-131.
+- James O’Sullivan and Mark Kelly, “[Environmental Contradictions of Large Language Models in Higher Education](https://www.unesco.org/en/articles/environmental-contradictions-large-language-models-higher-education),” UNESCO IdeasLAB, December 16, 2025.
+- Tianqi Xiao et al., “[Environmental Impact and Net-Zero Pathways for Sustainable Artificial Intelligence Servers in the USA](https://doi.org/10.1038/s41893-025-01681-y),” Nature Sustainability 8, no. 12 (2025): 1541–53.
+- Karen Hao, _Empire of AI: Dreams and Nightmares in Sam Altman’s OpenAI_ (Penguin Press, 2025). Chapter 12: Plundered Earth.
 
 ### Wk. 10 | Apr 08 | Knowledge Work, Automation, and Scholarship
 
