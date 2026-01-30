@@ -167,12 +167,15 @@ Find a dataset in your discipline (preferably a .CSV) by browsing the following 
 
 ### Wk. 10 | Apr 08 | Knowledge Work, Automation, and Scholarship
 
+- On automated text recognition (ATR) and vision language models (VLMs)
+  - Mark Humphries, “[Gemini 3 Solves Handwriting Recognition and it’s a Bitter Lesson](https://generativehistory.substack.com/p/gemini-3-solves-handwriting-recognition),” Generative History (Substack)
+  - Dan Cohen, “[The Writing is on the Wall for Handwriting Recognition](https://newsletter.dancohen.org/archive/the-writing-is-on-the-wall-for-handwriting-recognition/),” Humane Ingenuity (Buttondown)
 - Colin Milburn and Rita Raley, “[Inappropriate AI](https://uchri.org/foundry/inappropriate-ai/),” Foundry: University of California Humanities Research Institute, December 2025.
-- TK
 
 ### Wk. 11 | Apr 15 | The Politics of Tools
 
-- TK
+- Langdon Winner, “Do Artifacts Have Politics?,” Daedalus 109, no. 1 (1980): 121–36.
+- Karin van Es, “[Unpacking Tool Criticism as Practice, in Practice](https://www.scopus.com/pages/publications/85175150444),” Digital Humanities Quarterly 17, no. 2 (2023).
 
 ## **PROJECTS**
         
