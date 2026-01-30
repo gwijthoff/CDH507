@@ -58,7 +58,7 @@ This list is subject to change according to the interests of the group and the d
 
 - 1940s: Arun Jacob, “[Punching Holes in the International Busa Machine Narrative](https://www.jstor.org/stable/j.ctv1r7878x.7),” in _Alternative Historiographies of the Digital Humanities_, ed. Dorothy Kim and Adeline Koh (Punctum Books, 2021), 121–44.
 - 1950s: Brad Pasanek, “[Extreme Reading: Josephine Miles and the Scale of the Pre-Digital Digital Humanities](https://muse.jhu.edu/article/726184),” *ELH* 86, no. 2 (2019): 355–85.
-- 1990s: Claire Warwick, _Digital Humanities and the Cyberspace Decade, 1990-2001: A World Elsewhere_ (New York: Bloomsbury Academic, 2024), Chapters 1, 5, 6.
+- 1990s: Claire Warwick, _Digital Humanities and the Cyberspace Decade, 1990-2001: A World Elsewhere_ (New York: Bloomsbury Academic, 2024), [Chapters 1, 5, 6](https://princeton.instructure.com/files/4403121/download?download_frd=1).
 - 2000s: Michael Hancher, “[Re: Search and Close Reading](http://conservancy.umn.edu/handle/11299/181603),” in _Debates in the Digital Humanities 2016_ (University of Minnesota Press, 2016).
 - Recommended but not required
     - Melissa M. Terras, “[For Ada Lovelace Day—Father Busa’s Female Punch Card Operatives](https://melissaterras.blogspot.ca/2013/10/for-ada-lovelace-day-father-busas.html),” Melissa Terras’ Blog, October 15, 2013.
@@ -91,7 +91,7 @@ This list is subject to change according to the interests of the group and the d
 
 <h4>🛠️ exercises</h4>
 
-- Plain text, hyperlinks, relational databases. (In class.)
+- Plain text, hyperlinks, relational databases, personal knowledge management.
 
 ### Wk. 05 | Feb 25 | Is "DH" Now Just "H"?
 
