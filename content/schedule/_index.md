@@ -37,10 +37,18 @@ This list is subject to change according to the interests of the group and the d
 
 *The history of science is a well-established field of research. What about the history of the humanities? This week we read accounts of the history of the humanities from antiquity to the present, and arguments for the distinct form of reasoning found in the humanities. Also: The idiographic and the nomothetic. The humanities' relationship to truth claims. Pattern recognition across "the two cultures."*
 
+<h4> 
+
+🛝 [slides](/CDH507/pdf/CDH507_S26_wk2_slides.pdf) 
+
+</h4>
+
 <h4>📖 readings</h4>
 
 - Eric Hayot, [_Humanist Reason: A History. An Argument. A Plan_](https://princeton.instructure.com/files/4353543/download?download_frd=1) (Columbia University Press, 2021), Chapters 1 & 4.
+  - :microphone: Mileena
 - Helen Small, *[The Value of the Humanities](https://princeton.instructure.com/files/4353544/download?download_frd=1),* (Oxford: Oxford Univ. Press, 2013). Introduction.
+  - :microphone: Shreya
 - Rens Bod, *[A New History of the Humanities](https://academic.oup.com/book/3506)* (Oxford: Oxford Univ. Press, 2014), Introduction: "The Quest for Principles and Patterns."
 - Lindsay Thomas and Abigail Droge, “[What We Learned About the Humanities from a Study of Thousands of Newspaper Articles](https://doi.org/10.22148/001c.35907),” _Journal of Cultural Analytics_, May 24, 2022.
 - Recommended but not required
@@ -83,6 +91,7 @@ This list is subject to change according to the interests of the group and the d
 - Lauren Klein et al., “[Provocations from the Humanities for Generative AI Research](https://doi.org/10.48550/arXiv.2502.19190),” preprint, arXiv, February 26, 2025.
 - Lauren Tilton et al., “[What Gets Counted: Computational Humanities under Revision](https://dhdebates.gc.cuny.edu/read/ba808f7f-6a3b-4865-8e2a-b0086b29bfa4/section/ff01ed09-fc3f-4403-a1e2-034052cd4d0a),” in _Computational Humanities_, Debates in the Digital Humanities (University Of Minnesota Press, 2024).
 - Alan Liu, “Data Science and the Post-Liberal Arts University,” _Critical Inquiry_ 51, no. 4 (2025): 597–618, [https://doi.org/10.1086/735621](https://doi.org/10.1086/735621).
+  - :microphone: Annie & Amber
 - Olivia Guest et al., “[Against the Uncritical Adoption of ‘AI’ Technologies in Academia](https://doi.org/10.5281/zenodo.17065099),” preprint, Zenodo, September 5, 2025.
 - Tom Scheinfeldt, “Meet AcadiMeet; or, Adventures in Vibe Coding,” _Found History_, October 20, 2025, [https://foundhistory.org/meet-acadimeet-or-adventures-in-vibe-coding/](https://foundhistory.org/meet-acadimeet-or-adventures-in-vibe-coding/).
 - Recommended but not required
@@ -123,6 +132,7 @@ Find a dataset in your discipline (preferably a .CSV) by browsing the following 
 ### Wk. 06 | Mar 04 | Scraping & Curating Structured Data
 
 - Katie Rawson and Trevor Muñoz, “[Against Cleaning](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/07154de9-4903-428e-9c61-7a92a6f22e51#ch23),” in _Debates in the Digital Humanities 2019_ (Minneapolis: University Of Minnesota Press, 2019).
+  - :microphone: Rachel
 - Henk Alkemade et al., “Datasheets for Digital Cultural Heritage Datasets,” *Journal of Open Humanities Data* 9, no. 1 (October 30, 2023): 17, https://doi.org/10.5334/johd.124.
 - C. Thi Nguyen (2024), “[The Limits of Data](https://issues.org/limits-of-data-nguyen/),” _Issues in Science and Technology_ 40, 2.
 - Recommended but not required
