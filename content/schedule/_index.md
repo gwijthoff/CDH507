@@ -86,7 +86,7 @@ This list is subject to change according to the interests of the group and the d
 
 ### Wk. 04 | Feb 18 | DH Today: Meaning & Signal
 
-*What is the state of the digital humanities today? How are institutions thinking about the intersection of data science with well-established DH methods? How do researchers from various disciplinary backgrounds construe "meaning" differently?*
+*What is the state of the digital humanities today? How are institutions thinking about the intersection of data science with well-established DH methods? How do researchers from various disciplinary backgrounds construe "meaning" differently? Then, new tools for old ideas: hypertext, personal knowledge management, research notes, and Obsidian.*
 
 - Lauren Klein et al., “[Provocations from the Humanities for Generative AI Research](https://doi.org/10.48550/arXiv.2502.19190),” preprint, arXiv, February 26, 2025.
 - Lauren Tilton et al., “[What Gets Counted: Computational Humanities under Revision](https://dhdebates.gc.cuny.edu/read/ba808f7f-6a3b-4865-8e2a-b0086b29bfa4/section/ff01ed09-fc3f-4403-a1e2-034052cd4d0a),” in _Computational Humanities_, Debates in the Digital Humanities (University Of Minnesota Press, 2024).
@@ -94,13 +94,14 @@ This list is subject to change according to the interests of the group and the d
   - :microphone: Annie & Amber
 - Olivia Guest et al., “[Against the Uncritical Adoption of ‘AI’ Technologies in Academia](https://doi.org/10.5281/zenodo.17065099),” preprint, Zenodo, September 5, 2025.
 - Tom Scheinfeldt, “Meet AcadiMeet; or, Adventures in Vibe Coding,” _Found History_, October 20, 2025, [https://foundhistory.org/meet-acadimeet-or-adventures-in-vibe-coding/](https://foundhistory.org/meet-acadimeet-or-adventures-in-vibe-coding/).
+- Marisa Parham, “[.break .dance.](https://archipelagosjournal.org/issue03/parham/parham.html)”, *archipelagos journal*, no. 3 (July 2019).
 - Recommended but not required
     - Rabea Kleymann et al., "Foreword to Special Issue on 'Theorytellings: Epistemic Narratives in the Digital Humanities,'" *Cultural Analytics* 7, no. 4 (November 2022).
     - Antonija Primorac et al., “[Distant Reading Two Decades On: Reflections on the Digital Turn in the Study of Literature](https://doi.org/10.16995/dscn.8855),” _Digital Studies / Le Champ Numérique_ 13, no. 1 (October 25, 2023).
 
 <h4>🛠️ exercises</h4>
 
-- Plain text, hyperlinks, relational databases, personal knowledge management.
+- Using Obsidian to discuss plain text, hypertext, relational databases, personal knowledge management.
 
 ### Wk. 05 | Feb 25 | Is "DH" Now Just "H"?
 
@@ -168,6 +169,8 @@ Find a dataset in your discipline (preferably a .CSV) by browsing the following 
 - Daron Acemoglu and Simon Johnson, *Power and Progress: Our 1,000-Year Struggle Over Technology & Prosperity* (Public Affairs, 2023), [mini comic version](https://shapingwork.mit.edu/wp-content/uploads/2025/08/Power-and-Progress-The-Mini-Comic.pdf).
 
 ### Wk. 09 | Apr 01 | DH and the Environment
+
+:microphone: Amy
 
 - Photini Vrikki and Güneş Tavmen, “[Rewiring Digital Humanities through an Ethics of Ecological Care](https://dhq.digitalhumanities.org/vol/19/3/000802/000802.html),” Digital Humanities Quarterly 019, no. 3 (2025).
 - Javier Cha & Ian M. Miller, “Digital Humanities and the Energetics of Big Data,” Critical Infrastructure Studies and Digital Humanities, Debates in Digital Humanities (Minneapolis: University of Minnesota Press, 2026), 113-131.
