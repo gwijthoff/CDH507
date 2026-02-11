@@ -62,6 +62,12 @@ This list is subject to change according to the interests of the group and the d
 
 *How are DH scholars revising our understanding of DH's history to include forgotten figures, war machines, and bulletin boards? What did analog, manual approaches to quantification look like in the past? What was the state of "Big Tent" DH c. 2012? As we read about the use of older computing technologies, we'll learn how to use the Unix command line.*
 
+<h4> 
+
+🛝 [slides](/CDH507/pdf/CDH507_S26_wk3_slides.pdf) 
+
+</h4>
+
 <h4>📖 readings</h4>
 
 - 1940s: Arun Jacob, “[Punching Holes in the International Busa Machine Narrative](https://www.jstor.org/stable/j.ctv1r7878x.7),” in _Alternative Historiographies of the Digital Humanities_, ed. Dorothy Kim and Adeline Koh (Punctum Books, 2021), 121–44.
@@ -89,6 +95,7 @@ This list is subject to change according to the interests of the group and the d
 *What is the state of the digital humanities today? How are institutions thinking about the intersection of data science with well-established DH methods? How do researchers from various disciplinary backgrounds construe "meaning" differently? Then, new tools for old ideas: hypertext, personal knowledge management, research notes, and Obsidian.*
 
 - Lauren Klein et al., “[Provocations from the Humanities for Generative AI Research](https://doi.org/10.48550/arXiv.2502.19190),” preprint, arXiv, February 26, 2025.
+  - :microphone: Olga
 - Lauren Tilton et al., “[What Gets Counted: Computational Humanities under Revision](https://dhdebates.gc.cuny.edu/read/ba808f7f-6a3b-4865-8e2a-b0086b29bfa4/section/ff01ed09-fc3f-4403-a1e2-034052cd4d0a),” in _Computational Humanities_, Debates in the Digital Humanities (University Of Minnesota Press, 2024).
 - Alan Liu, “Data Science and the Post-Liberal Arts University,” _Critical Inquiry_ 51, no. 4 (2025): 597–618, [https://doi.org/10.1086/735621](https://doi.org/10.1086/735621).
   - :microphone: Annie & Amber
@@ -160,6 +167,7 @@ Find a dataset in your discipline (preferably a .CSV) by browsing the following 
 
 - Kate Crawford & Vladan Joler, “[Calculating Empires](https://calculatingempires.net/)” & “[Anatomy of an AI System](https://anatomyof.ai/)”
 - Emily Bender et al., “[On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?](https://doi.org/10.1145/3442188.3445922),” _FAccT ’21_, March 3, 2021.
+  - :microphone: Emery
 - Qiaoyu Cai, “The Cultural Politics of Artificial Intelligence in China,” _Theory, Culture & Society_ 42, no. 3 (2025): 21–40, [https://doi.org/10.1177/02632764241304718](https://doi.org/10.1177/02632764241304718).
 
 ### Wk. 08 | Mar 25 | AI as a Paradigm Shift
@@ -184,6 +192,7 @@ Find a dataset in your discipline (preferably a .CSV) by browsing the following 
   - Mark Humphries, “[Gemini 3 Solves Handwriting Recognition and it’s a Bitter Lesson](https://generativehistory.substack.com/p/gemini-3-solves-handwriting-recognition),” Generative History (Substack)
   - Dan Cohen, “[The Writing is on the Wall for Handwriting Recognition](https://newsletter.dancohen.org/archive/the-writing-is-on-the-wall-for-handwriting-recognition/),” Humane Ingenuity (Buttondown)
 - Colin Milburn and Rita Raley, “[Inappropriate AI](https://uchri.org/foundry/inappropriate-ai/),” Foundry: University of California Humanities Research Institute, December 2025.
+- Matteo Pasquinelli, “[How a Machine Learns and Fails: A Grammar of Error for Artificial Intelligence](https://spheres-journal.org/contribution/how-a-machine-learns-and-fails-a-grammar-of-error-for-artificial-intelligence/),” *Spheres* 5 (2019): 1–17.
 
 ### Wk. 11 | Apr 15 | The Politics of Tools
 
