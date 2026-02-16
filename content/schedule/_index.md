@@ -95,7 +95,6 @@ This list is subject to change according to the interests of the group and the d
 *What is the state of the digital humanities today? How are institutions thinking about the intersection of data science with well-established DH methods? How do researchers from various disciplinary backgrounds construe "meaning" differently? Then, new tools for old ideas: hypertext, personal knowledge management, research notes, and Obsidian.*
 
 - Lauren Klein et al., “[Provocations from the Humanities for Generative AI Research](https://doi.org/10.48550/arXiv.2502.19190),” preprint, arXiv, February 26, 2025.
-  - :microphone: Olga
 - Lauren Tilton et al., “[What Gets Counted: Computational Humanities under Revision](https://dhdebates.gc.cuny.edu/read/ba808f7f-6a3b-4865-8e2a-b0086b29bfa4/section/ff01ed09-fc3f-4403-a1e2-034052cd4d0a),” in _Computational Humanities_, Debates in the Digital Humanities (University Of Minnesota Press, 2024).
 - Alan Liu, “Data Science and the Post-Liberal Arts University,” _Critical Inquiry_ 51, no. 4 (2025): 597–618, [https://doi.org/10.1086/735621](https://doi.org/10.1086/735621).
   - :microphone: Annie & Amber
@@ -115,11 +114,7 @@ This list is subject to change according to the interests of the group and the d
 *". . . studying culture with data is no longer a specialized practice. . . . It is something most scholars already do, consciously or not." How are scholars attempting to establish a new theoretical lingua franca? How has transdisciplinarity in digital humanities paved the way for these experiments? Then, data: tabular, tidy, structured, FAIR.*
 
 - Read a chapter relevant to your field from one volume in the [Debates in DH series](https://dhdebates.gc.cuny.edu/) (University of Minnesota Press). Come prepared to share a bit about what you’ve read.
-- Leif Weatherby, *Language Machines: Cultural AI and the End of Remainder Humanism* (Univ. Minnesota Press, 2025)
-	- Introduction: AI between Cognition and Culture
-	- Chapter 4: Large Literary Machines
-	- Chapter 5: Computational Meaning: For a General Poetics
-	- Conclusion: Language as a Service, or the Return of Rhetoric
+- Leif Weatherby, *Language Machines: Cultural AI and the End of Remainder Humanism* (Univ. Minnesota Press, 2025), [Introduction & Conclusion](https://princeton.instructure.com/files/4448552/download?download_frd=1).
 - Underwood, McGrath, So, & Wellmon, "[Culture, Theory, Data: An Introduction](https://newliteraryhistory.org/wp/wp-content/uploads/2023/06/54-1-intro.pdf)" to special issue, *New Literary History* 53, no. 4 (Winter 2023).
 - Recommended but not required
     - Steven Ruggles, “[The Revival of Quantification: Reflections on Old New Histories](https://www.cambridge.org/core/journals/social-science-history/article/revival-of-quantification-reflections-on-old-new-histories/857C3FCC25129D7ED3065D957F1CC528),” _Social Science History_ 45, no. 1 (2021): 1–25.
@@ -143,6 +138,7 @@ Find a dataset in your discipline (preferably a .CSV) by browsing the following 
   - :microphone: Rachel
 - Henk Alkemade et al., “Datasheets for Digital Cultural Heritage Datasets,” *Journal of Open Humanities Data* 9, no. 1 (October 30, 2023): 17, https://doi.org/10.5334/johd.124.
 - C. Thi Nguyen (2024), “[The Limits of Data](https://issues.org/limits-of-data-nguyen/),” _Issues in Science and Technology_ 40, 2.
+  - :microphone: Olga
 - Recommended but not required
     - Jessica Marie Johnson, “Markup Bodies: Black [Life] Studies and Slavery [Death] Studies at the Digital Crossroads,” _Social Text_ 36, no. 4 (137) (December 1, 2018): 57–79, [https://doi.org/10.1215/01642472-7145658](https://doi.org/10.1215/01642472-7145658).
     - Daniel Rosenberg, “Data Before the Fact,” in _“Raw Data” Is an Oxymoron_, ed. Lisa Gitelman (Cambridge: MIT Press, 2013), 15–40.
