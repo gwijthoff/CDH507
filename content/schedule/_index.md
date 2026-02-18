@@ -107,7 +107,7 @@ This list is subject to change according to the interests of the group and the d
 
 <h4>🛠️ exercises</h4>
 
-- Use Obsidian to discuss plain text, hypertext, relational databases, personal knowledge management. Download [starter vault.](https://princeton.instructure.com/courses/21583/files/download?download_frd=1)
+- Use Obsidian to discuss plain text, hypertext, relational databases, personal knowledge management. Download [starter vault.](https://princeton.instructure.com/courses/21583/files?preview=4453240)
 
 ### Wk. 05 | Feb 25 | Is "DH" Now Just "H"?
 
