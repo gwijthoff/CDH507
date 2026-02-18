@@ -94,6 +94,14 @@ This list is subject to change according to the interests of the group and the d
 
 *What is the state of the digital humanities today? How are institutions thinking about the intersection of data science with well-established DH methods? How do researchers from various disciplinary backgrounds construe "meaning" differently? Then, new tools for old ideas: hypertext, personal knowledge management, research notes, and Obsidian.*
 
+<h4> 
+
+🛝 [slides](/CDH507/pdf/CDH507_S26_wk4_slides.pdf) 
+
+</h4>
+
+<h4>📖 readings</h4>
+
 - Lauren Klein et al., “[Provocations from the Humanities for Generative AI Research](https://doi.org/10.48550/arXiv.2502.19190),” preprint, arXiv, February 26, 2025.
 - Lauren Tilton et al., “[What Gets Counted: Computational Humanities under Revision](https://dhdebates.gc.cuny.edu/read/ba808f7f-6a3b-4865-8e2a-b0086b29bfa4/section/ff01ed09-fc3f-4403-a1e2-034052cd4d0a),” in _Computational Humanities_, Debates in the Digital Humanities (University Of Minnesota Press, 2024).
 - Alan Liu, “Data Science and the Post-Liberal Arts University,” _Critical Inquiry_ 51, no. 4 (2025): 597–618, [https://doi.org/10.1086/735621](https://doi.org/10.1086/735621).
@@ -114,7 +122,7 @@ This list is subject to change according to the interests of the group and the d
 *". . . studying culture with data is no longer a specialized practice. . . . It is something most scholars already do, consciously or not." How are scholars attempting to establish a new theoretical lingua franca? How has transdisciplinarity in digital humanities paved the way for these experiments? Then, data: tabular, tidy, structured, FAIR.*
 
 - Read a chapter relevant to your field from one volume in the [Debates in DH series](https://dhdebates.gc.cuny.edu/) (University of Minnesota Press). Come prepared to share a bit about what you’ve read.
-- Matthew Wilkens, “[What Instagram and Community Colleges Tell Us about the Future of Digital Humanities](https://doi.org/10.1093/alh/ajaf126),” American Literary History 37, no. 4 (2025): 1095–103. Read also Lauren Klein's [Bluesky response](https://bsky.app/profile/laurenfklein.bsky.social/post/3mf2vxblycs2k).
+- Matthew Wilkens, “[What Instagram and Community Colleges Tell Us about the Future of Digital Humanities](https://doi.org/10.1093/alh/ajaf126),” *American Literary History* 37, no. 4 (2025): 1095–103. Read also Lauren Klein's [Bluesky response](https://bsky.app/profile/laurenfklein.bsky.social/post/3mf2vxblycs2k).
 - Leif Weatherby, *Language Machines: Cultural AI and the End of Remainder Humanism* (Univ. Minnesota Press, 2025), [Introduction & Conclusion](https://princeton.instructure.com/files/4448552/download?download_frd=1).
 - Underwood, McGrath, So, & Wellmon, "[Culture, Theory, Data: An Introduction](https://newliteraryhistory.org/wp/wp-content/uploads/2023/06/54-1-intro.pdf)" to special issue, *New Literary History* 53, no. 4 (Winter 2023).
 - Recommended but not required
