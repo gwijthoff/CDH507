@@ -122,7 +122,7 @@ This list is subject to change according to the interests of the group and the d
 *". . . studying culture with data is no longer a specialized practice. . . . It is something most scholars already do, consciously or not." How are scholars attempting to establish a new theoretical lingua franca? How has transdisciplinarity in digital humanities paved the way for these experiments? Then, data: tabular, tidy, structured, FAIR.*
 
 - Read a chapter relevant to your field from one volume in the [Debates in DH series](https://dhdebates.gc.cuny.edu/) (University of Minnesota Press). Come prepared to share a bit about what you’ve read.
-- Matthew Wilkens, “[What Instagram and Community Colleges Tell Us about the Future of Digital Humanities](https://doi.org/10.1093/alh/ajaf126),” *American Literary History* 37, no. 4 (2025): 1095–103. Read also Lauren Klein's [Bluesky response](https://bsky.app/profile/laurenfklein.bsky.social/post/3mf2vxblycs2k).
+- Matthew Wilkens, “[What Instagram and Community Colleges Tell Us about the Future of Digital Humanities](https://doi.org/10.1093/alh/ajaf126),” *American Literary History* 37, no. 4 (2025): 1095–103.
 - Leif Weatherby, *Language Machines: Cultural AI and the End of Remainder Humanism* (Univ. Minnesota Press, 2025), [Introduction & Conclusion](https://princeton.instructure.com/files/4448552/download?download_frd=1).
 - Underwood, McGrath, So, & Wellmon, "[Culture, Theory, Data: An Introduction](https://newliteraryhistory.org/wp/wp-content/uploads/2023/06/54-1-intro.pdf)" to special issue, *New Literary History* 53, no. 4 (Winter 2023).
 - Recommended but not required
@@ -134,10 +134,12 @@ Find a dataset in your discipline (preferably a .CSV) by browsing the following 
 
 - [Responsible Datasets in Context](https://www.responsible-datasets-in-context.com/), eds. Fernandez, Posner, Preus, Singh, & Walsh
 - *[Post45 Data Collective](https://data.post45.org/),* eds. Walsh, Manshel, Porter
-- [*Journal of Open Humanities Data*](https://scholarslab.lib.virginia.edu/blog/interesting-digital-humanities-data-sources/)
 - Amanda Wyatt Visconti. “[Interesting digital humanities data sources](https://scholarslab.lib.virginia.edu/blog/interesting-digital-humanities-data-sources/),” UVA Scholars Lab Blog, (August 26, 2025).
+- Matt Lavin's [Humanities Data](https://humanitiesdata.com/resources)
+- [*Journal of Open Humanities Data*](https://openhumanitiesdata.metajnl.com/articles)
 - Jeremy Singer-Vine’s [_Data Is Plural_ archive](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0)
 - *The Pudding's* [data repository](https://github.com/the-pudding/data#data-sets)
+- [CDH-curated list of humanities datasets](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ0eQmCNJcYt5yWXt7vfJ-W4pb9c6RPilKVDA98cz4JfjCCqB90tG0qKnAPVjoWbyhPzwTJoXJ2UKhi/pubhtml?widget=true&amp;headers=false)
   
 ## **WHAT IS DATA**
 
@@ -179,6 +181,7 @@ Find a dataset in your discipline (preferably a .CSV) by browsing the following 
 
 - Henry Farrell, Alison Gopnik, Cosma Shalizi and James Evans (2025), “[Large AI Models are Cultural and Social Technologies](https://www.science.org/stoken/author-tokens/ST-2495/full),” _Science_.
 - Arvind Narayanan & Sayash Kapoor (2025), _[AI as Normal Technology](https://knightcolumbia.org/content/ai-as-normal-technology)_ (Knight Foundation).
+  - :microphone: Tina
 - Daron Acemoglu and Simon Johnson, *Power and Progress: Our 1,000-Year Struggle Over Technology & Prosperity* (Public Affairs, 2023), [mini comic version](https://shapingwork.mit.edu/wp-content/uploads/2025/08/Power-and-Progress-The-Mini-Comic.pdf).
 
 ### Wk. 09 | Apr 01 | DH and the Environment
