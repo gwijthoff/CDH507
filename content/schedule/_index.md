@@ -121,6 +121,14 @@ This list is subject to change according to the interests of the group and the d
 
 *". . . studying culture with data is no longer a specialized practice. . . . It is something most scholars already do, consciously or not." How are scholars attempting to establish a new theoretical lingua franca? How has transdisciplinarity in digital humanities paved the way for these experiments? Then, data: tabular, tidy, structured, FAIR.*
 
+<h4> 
+
+🛝 [slides](/CDH507/pdf/CDH507_S26_wk5_slides.pdf) 
+
+</h4>
+
+<h4>📖 readings</h4>
+
 - Read a chapter relevant to your field from one volume in the [Debates in DH series](https://dhdebates.gc.cuny.edu/) (University of Minnesota Press). Come prepared to share a bit about what you’ve read.
 - Matthew Wilkens, “[What Instagram and Community Colleges Tell Us about the Future of Digital Humanities](https://doi.org/10.1093/alh/ajaf126),” *American Literary History* 37, no. 4 (2025): 1095–103.
 - Leif Weatherby, *Language Machines: Cultural AI and the End of Remainder Humanism* (Univ. Minnesota Press, 2025), [Introduction & Conclusion](https://princeton.instructure.com/files/4448552/download?download_frd=1).
