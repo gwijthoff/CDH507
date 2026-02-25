@@ -176,6 +176,7 @@ Find a dataset in your discipline (preferably a .CSV) by browsing the following 
 - Emily Bender et al., “[On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?](https://doi.org/10.1145/3442188.3445922),” _FAccT ’21_, March 3, 2021.
   - :microphone: Emery
 - Qiaoyu Cai, “The Cultural Politics of Artificial Intelligence in China,” _Theory, Culture & Society_ 42, no. 3 (2025): 21–40, [https://doi.org/10.1177/02632764241304718](https://doi.org/10.1177/02632764241304718).
+- Madhumita Murgia, "[Generative AI exists because of the transformer: this is how it works](https://ig.ft.com/generative-ai/)," *Financial Times* (September 2023).
 
 ### Wk. 08 | Mar 25 | AI as a Paradigm Shift
 
@@ -198,7 +199,9 @@ Find a dataset in your discipline (preferably a .CSV) by browsing the following 
 
 - On automated text recognition (ATR) and vision language models (VLMs)
   - Mark Humphries, “[Gemini 3 Solves Handwriting Recognition and it’s a Bitter Lesson](https://generativehistory.substack.com/p/gemini-3-solves-handwriting-recognition),” Generative History (Substack)
+    - :microphone: Nat
   - Dan Cohen, “[The Writing is on the Wall for Handwriting Recognition](https://newsletter.dancohen.org/archive/the-writing-is-on-the-wall-for-handwriting-recognition/),” Humane Ingenuity (Buttondown)
+    - :microphone: Kaylee
 - Colin Milburn and Rita Raley, “[Inappropriate AI](https://uchri.org/foundry/inappropriate-ai/),” Foundry: University of California Humanities Research Institute, December 2025.
 - Matteo Pasquinelli, “[How a Machine Learns and Fails: A Grammar of Error for Artificial Intelligence](https://spheres-journal.org/contribution/how-a-machine-learns-and-fails-a-grammar-of-error-for-artificial-intelligence/),” *Spheres* 5 (2019): 1–17.
 
