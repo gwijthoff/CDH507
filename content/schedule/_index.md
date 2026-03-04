@@ -153,6 +153,18 @@ Find a dataset in your discipline (preferably a .CSV) by browsing the following 
 
 ### Wk. 06 | Mar 04 | Scraping & Curating Structured Data
 
+*GLAM institutions, messy data, nonscalable elements, the structure of a container vs. what it contains, the affordances and limitations of quantification. Data: tabular, tidy, structured, FAIR. Then: a workshop on data wrangling in OpenRefine with [Bryan Winston](https://www.bryanwinston.org/), PUL Digital Scholarship.*
+
+Please complete this [mid-semester feedback & self-reflection form](https://forms.gle/jFuPZ9oujP6f9oqZ9).
+
+<h4> 
+
+🛝 [slides](/CDH507/pdf/CDH507_S26_wk6_slides.pdf) 
+
+</h4>
+
+<h4>📖 readings</h4>
+
 - Katie Rawson and Trevor Muñoz, “[Against Cleaning](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/07154de9-4903-428e-9c61-7a92a6f22e51#ch23),” in _Debates in the Digital Humanities 2019_ (Minneapolis: University Of Minnesota Press, 2019).
   - :microphone: Rachel
 - Henk Alkemade et al., “Datasheets for Digital Cultural Heritage Datasets,” *Journal of Open Humanities Data* 9, no. 1 (October 30, 2023): 17, https://doi.org/10.5334/johd.124.
