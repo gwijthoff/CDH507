@@ -198,12 +198,20 @@ Please complete this [mid-semester feedback & self-reflection form](https://form
 - Qiaoyu Cai, “The Cultural Politics of Artificial Intelligence in China,” _Theory, Culture & Society_ 42, no. 3 (2025): 21–40, [https://doi.org/10.1177/02632764241304718](https://doi.org/10.1177/02632764241304718).
 - Madhumita Murgia, "[Generative AI exists because of the transformer: this is how it works](https://ig.ft.com/generative-ai/)," *Financial Times* (September 2023).
 
+<h4>🛠️ exercises</h4>
+
+- Runthrough of [Archivelens](https://github.com/shawngraham/archivelens), a tool for "for exploring csv of humanities data, and also deploying a local llm as a provocation engine." [Andrew Janco](https://library.princeton.edu/about/staff-directory/andrew-janco), Digital Scholarship Specialist, Princeton University Libraries
+
 ### Wk. 08 | Mar 25 | AI as a Paradigm Shift
 
 - Henry Farrell, Alison Gopnik, Cosma Shalizi and James Evans (2025), “[Large AI Models are Cultural and Social Technologies](https://www.science.org/stoken/author-tokens/ST-2495/full),” _Science_.
 - Arvind Narayanan & Sayash Kapoor (2025), _[AI as Normal Technology](https://knightcolumbia.org/content/ai-as-normal-technology)_ (Knight Foundation).
   - :microphone: Tina
 - Daron Acemoglu and Simon Johnson, *Power and Progress: Our 1,000-Year Struggle Over Technology & Prosperity* (Public Affairs, 2023), [mini comic version](https://shapingwork.mit.edu/wp-content/uploads/2025/08/Power-and-Progress-The-Mini-Comic.pdf).
+
+<h4>🛠️ exercises</h4>
+
+- Intro to visualizing humanities data with [Carolina Roe-Raymond](https://researchcomputing.princeton.edu/about/people-directory/carolina-roe-raymond), Visualization Analyst, Princeton Research Computing.
 
 ### Wk. 09 | Apr 01 | DH and the Environment
 
