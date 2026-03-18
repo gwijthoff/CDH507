@@ -192,6 +192,14 @@ Please complete this [mid-semester feedback & self-reflection form](https://form
 
 ### Wk. 07 | Mar 18 | The Sociocultural Context of AI
 
+<h4> 
+
+🛝 [slides](/CDH507/pdf/CDH507_S26_wk7_slides.pdf) 
+
+</h4>
+
+<h4>📖 readings</h4>
+
 - Kate Crawford & Vladan Joler, “[Calculating Empires](https://calculatingempires.net/)” & “[Anatomy of an AI System](https://anatomyof.ai/)”
 - Emily Bender et al., “[On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?](https://doi.org/10.1145/3442188.3445922),” _FAccT ’21_, March 3, 2021.
   - :microphone: Emery
