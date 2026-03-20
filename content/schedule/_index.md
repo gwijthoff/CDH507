@@ -213,6 +213,7 @@ Please complete this [mid-semester feedback & self-reflection form](https://form
 ### Wk. 08 | Mar 25 | AI as a Paradigm Shift
 
 - Henry Farrell, Alison Gopnik, Cosma Shalizi and James Evans (2025), “[Large AI Models are Cultural and Social Technologies](https://www.science.org/stoken/author-tokens/ST-2495/full),” _Science_.
+  - :microphone: Emilien
 - Arvind Narayanan & Sayash Kapoor (2025), _[AI as Normal Technology](https://knightcolumbia.org/content/ai-as-normal-technology)_ (Knight Foundation).
   - :microphone: Tina
 - Daron Acemoglu and Simon Johnson, *Power and Progress: Our 1,000-Year Struggle Over Technology & Prosperity* (Public Affairs, 2023), [mini comic version](https://shapingwork.mit.edu/wp-content/uploads/2025/08/Power-and-Progress-The-Mini-Comic.pdf).
