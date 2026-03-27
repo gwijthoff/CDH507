@@ -227,7 +227,7 @@ Please complete this [mid-semester feedback & self-reflection form](https://form
 :microphone: Amy
 
 - Photini Vrikki and Güneş Tavmen, “[Rewiring Digital Humanities through an Ethics of Ecological Care](https://dhq.digitalhumanities.org/vol/19/3/000802/000802.html),” Digital Humanities Quarterly 019, no. 3 (2025).
-- Javier Cha & Ian M. Miller, “Digital Humanities and the Energetics of Big Data,” Critical Infrastructure Studies and Digital Humanities, Debates in Digital Humanities (Minneapolis: University of Minnesota Press, 2026), 113-131.
+- Javier Cha & Ian M. Miller, “[Digital Humanities and the Energetics of Big Data](https://princeton.instructure.com/files/4545440/download?download_frd=1),” Critical Infrastructure Studies and Digital Humanities, Debates in Digital Humanities (Minneapolis: University of Minnesota Press, 2026), 113-131.
 - James O’Sullivan and Mark Kelly, “[Environmental Contradictions of Large Language Models in Higher Education](https://www.unesco.org/en/articles/environmental-contradictions-large-language-models-higher-education),” UNESCO IdeasLAB, December 16, 2025.
 - Tianqi Xiao et al., “[Environmental Impact and Net-Zero Pathways for Sustainable Artificial Intelligence Servers in the USA](https://doi.org/10.1038/s41893-025-01681-y),” Nature Sustainability 8, no. 12 (2025): 1541–53.
 - Karen Hao, [_Empire of AI: Dreams and Nightmares in Sam Altman’s OpenAI_](https://princeton.instructure.com/files/4542614/download?download_frd=1) (Penguin Press, 2025). Chapter 12: Plundered Earth.
