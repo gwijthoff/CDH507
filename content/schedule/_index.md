@@ -224,6 +224,14 @@ Please complete this [mid-semester feedback & self-reflection form](https://form
 
 ### Wk. 09 | Apr 01 | DH and the Environment
 
+<h4> 
+
+🛝 [slides](/CDH507/pdf/CDH507_S26_wk9_slides.pdf) 
+
+</h4>
+
+<h4>📖 readings</h4>
+
 :microphone: Amy
 
 - Photini Vrikki and Güneş Tavmen, “[Rewiring Digital Humanities through an Ethics of Ecological Care](https://dhq.digitalhumanities.org/vol/19/3/000802/000802.html),” Digital Humanities Quarterly 019, no. 3 (2025).
