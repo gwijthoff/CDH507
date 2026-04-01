@@ -231,6 +231,7 @@ Please complete this [mid-semester feedback & self-reflection form](https://form
 - James O’Sullivan and Mark Kelly, “[Environmental Contradictions of Large Language Models in Higher Education](https://www.unesco.org/en/articles/environmental-contradictions-large-language-models-higher-education),” UNESCO IdeasLAB, December 16, 2025.
 - Tianqi Xiao et al., “[Environmental Impact and Net-Zero Pathways for Sustainable Artificial Intelligence Servers in the USA](https://doi.org/10.1038/s41893-025-01681-y),” Nature Sustainability 8, no. 12 (2025): 1541–53.
 - Karen Hao, [_Empire of AI: Dreams and Nightmares in Sam Altman’s OpenAI_](https://princeton.instructure.com/files/4542614/download?download_frd=1) (Penguin Press, 2025). Chapter 12: Plundered Earth.
+- Bonus: R. Stuart Geiger's [BartlebyGPT](https://bartlebygpt.org/)
 
 ### Wk. 10 | Apr 08 | Knowledge Work, Automation, and Scholarship
 
@@ -246,6 +247,8 @@ Please complete this [mid-semester feedback & self-reflection form](https://form
 
 - Langdon Winner, “Do Artifacts Have Politics?,” Daedalus 109, no. 1 (1980): 121–36.
 - Karin van Es, “[Unpacking Tool Criticism as Practice, in Practice](https://www.scopus.com/pages/publications/85175150444),” Digital Humanities Quarterly 17, no. 2 (2023).
+- Tara Tarakiyee, "[On The Enshittification of Audre Lorde: 'The Master's Tools' in Tech Discourse](https://tarakiyee.com/on-the-enshittification-of-audre-lorde-the-masters-tools-in-tech-discourse/)," March 2026
+- Read a chapter relevant to your field from one volume in the [Debates in DH series](https://dhdebates.gc.cuny.edu/) (University of Minnesota Press). Come prepared to share a bit about what you’ve read.
 
 ## **PROJECTS**
         
