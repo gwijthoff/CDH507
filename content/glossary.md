@@ -6,7 +6,7 @@ The language used to describe AI is evolving just as quickly as the technology i
 
 - Alan Turing Institute’s [Data Science & AI Glossary](https://www.turing.ac.uk/news/data-science-and-ai-glossary)
 - [AI for Humanists glossary](https://www.aiforhumanists.com/glossary/), an NEH-funded project directed by Matt Wilkens, David Mimno, and Melanie Walsh
-- [DHRIFT (Digital Humanities Resource Infrastructure for Teaching Technology)](https://app.dhrift.org/glossary/?instUser=dhri-curriculum&instRepo=dhrift-site-template&user=dhri-curriculum&repo=workshops) glossary
+- [DHRIFT (Digital Humanities Resource Infrastructure for Teaching Technology)](https://app.dhrift.org/glossary?instUser=dhri-curriculum&instRepo=dhrift-site-template&user=dhri-curriculum&repo=workshops) glossary
 - [KPLEX (Knowledge Complexity) Project glossary](https://kplex-project.com/a-kplex-primer-for-the-digital-humanities/), funded by the European Commission’s Horizon 2020 research program
 - Sasha Luccioni, Bruna Trevelin, Margaret Mitchell, glossary for [“The Environmental Impacts of AI -- Primer”](https://huggingface.co/blog/sasha/ai-environment-primer#%F0%9F%93%9A-glossary-%F0%9F%93%9A), Hugging Face Blog
 - [Elements of AI](https://www.elementsofai.com/), University of Helsinki and MinnaLearn
