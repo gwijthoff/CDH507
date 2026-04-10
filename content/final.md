@@ -8,6 +8,8 @@ Your final project for this course can be completed in a number of formats. I've
 
 <span class="color">Grades Due</span> — *I submit yr final grade* — Mon, May 14
 
+If you choose to delegate to AI any facet of the work going into your final project, please use the [Generative AI Declaration Taxonomy](https://panbibliotekar.github.io/gaidet-declaration/) to paste a standardized disclosure on the ways in which you automated steps of your research process.
+
 ## Opt. 1: Seminar Paper
 
 Write a seminar paper of ~4,000 – 6,000 words on a topic we've addressed in our course readings, conversations, or workshops. Your paper should include a Works Cited page, should demonstrate a comprehensive understanding of current critical conversations on your topic, and should suggest your own contribution to that ongoing dialogue.
