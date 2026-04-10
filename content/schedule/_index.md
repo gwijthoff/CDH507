@@ -253,9 +253,10 @@ Please complete this [mid-semester feedback & self-reflection form](https://form
 
 ### Wk. 11 | Apr 15 | The Politics of Tools
 
-- Langdon Winner, “Do Artifacts Have Politics?,” Daedalus 109, no. 1 (1980): 121–36.
+- Langdon Winner, "[Do Artifacts Have Politics?](https://www.jstor.org/stable/20024652),” Daedalus 109, no. 1 (1980): 121–36.
 - Karin van Es, “[Unpacking Tool Criticism as Practice, in Practice](https://www.scopus.com/pages/publications/85175150444),” Digital Humanities Quarterly 17, no. 2 (2023).
 - Tara Tarakiyee, "[On The Enshittification of Audre Lorde: 'The Master's Tools' in Tech Discourse](https://tarakiyee.com/on-the-enshittification-of-audre-lorde-the-masters-tools-in-tech-discourse/)," March 2026
+- M. J. Crockett, “[Modern Maxims for an AI Oracle](https://doi.org/10.1038/s42256-024-00970-z),” Nature Machine Intelligence 7, no. 1 (2025): 4–5.
 - Read a chapter relevant to your field from one volume in the [Debates in DH series](https://dhdebates.gc.cuny.edu/) (University of Minnesota Press). Come prepared to share a bit about what you’ve read.
 
 ## **PROJECTS**
