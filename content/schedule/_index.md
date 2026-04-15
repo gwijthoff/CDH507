@@ -253,6 +253,14 @@ Please complete this [mid-semester feedback & self-reflection form](https://form
 
 ### Wk. 11 | Apr 15 | The Politics of Tools
 
+<h4> 
+
+🛝 [slides](/CDH507/pdf/CDH507_S26_wk11_slides.pdf) 
+
+</h4>
+
+<h4>📖 readings</h4>
+
 - Langdon Winner, "[Do Artifacts Have Politics?](https://www.jstor.org/stable/20024652),” Daedalus 109, no. 1 (1980): 121–36.
 - Karin van Es, “[Unpacking Tool Criticism as Practice, in Practice](https://www.scopus.com/pages/publications/85175150444),” Digital Humanities Quarterly 17, no. 2 (2023).
 - Tara Tarakiyee, "[On The Enshittification of Audre Lorde: 'The Master's Tools' in Tech Discourse](https://tarakiyee.com/on-the-enshittification-of-audre-lorde-the-masters-tools-in-tech-discourse/)," March 2026
